@@ -1,0 +1,2225 @@
+hardy lucid maverick natty
+Downloading 75 index files using 20 threads...
+Begin time: Mon Jul 25 09:19:04 2011
+[20]... [19]... [18]... [17]... [16]... [15]... [14]... [13]... [12]... [11]... [10]... [9]... [8]... [7]... [6]... [5]... [4]... [3]... [2]... [1]... [0]... 
+End time: Mon Jul 25 09:19:05 2011
+
+Proceed indexes: [SSSSSPPPPPPPPPP]
+
+0.0 bytes will be downloaded into archive.
+Downloading 0 archive files using 0 threads...
+Begin time: Mon Jul 25 09:19:05 2011
+[0]... 
+End time: Mon Jul 25 09:19:05 2011
+
+0.0 bytes in 0 files and 0 directories can be freed.
+Run /home/mrutter/CRAN/var/clean.sh for this purpose.
+
+Running the Post Mirror script ...
+(/home/mrutter/CRAN/var/postmirror.sh)
+
+/bin/sh: Can't open /home/mrutter/CRAN/var/postmirror.sh
+
+Post Mirror script has completed. See above output for any possible errors.
+
+sending incremental file list
+
+sent 284 bytes  received 12 bytes  592.00 bytes/sec
+total size is 1351341  speedup is 4565.34
+sending incremental file list
+
+sent 96 bytes  received 12 bytes  216.00 bytes/sec
+total size is 649564  speedup is 6014.48
+sending incremental file list
+
+sent 448 bytes  received 12 bytes  920.00 bytes/sec
+total size is 2070478  speedup is 4501.04
+sending incremental file list
+
+sent 101 bytes  received 12 bytes  226.00 bytes/sec
+total size is 654760  speedup is 5794.34
+sending incremental file list
+
+sent 101 bytes  received 12 bytes  226.00 bytes/sec
+total size is 131077  speedup is 1159.97
+sending incremental file list
+
+sent 78 bytes  received 12 bytes  180.00 bytes/sec
+total size is 40259  speedup is 447.32
+sending incremental file list
+
+sent 216 bytes  received 12 bytes  456.00 bytes/sec
+total size is 92680  speedup is 406.49
+sending incremental file list
+
+sent 98 bytes  received 12 bytes  220.00 bytes/sec
+total size is 37166  speedup is 337.87
+sending incremental file list
+
+sent 158 bytes  received 12 bytes  340.00 bytes/sec
+total size is 7250461  speedup is 42649.77
+sending incremental file list
+
+sent 69 bytes  received 12 bytes  162.00 bytes/sec
+total size is 15744969  speedup is 194382.33
+sending incremental file list
+
+sent 427 bytes  received 12 bytes  878.00 bytes/sec
+total size is 951682  speedup is 2167.84
+sending incremental file list
+
+sent 97 bytes  received 12 bytes  218.00 bytes/sec
+total size is 999755  speedup is 9172.06
+sending incremental file list
+
+sent 424 bytes  received 12 bytes  872.00 bytes/sec
+total size is 366562  speedup is 840.74
+sending incremental file list
+
+sent 100 bytes  received 12 bytes  224.00 bytes/sec
+total size is 92523  speedup is 826.10
+sending incremental file list
+
+sent 454 bytes  received 12 bytes  932.00 bytes/sec
+total size is 4103790  speedup is 8806.42
+sending incremental file list
+
+sent 100 bytes  received 12 bytes  224.00 bytes/sec
+total size is 1020655  speedup is 9112.99
+sending incremental file list
+
+sent 107 bytes  received 12 bytes  238.00 bytes/sec
+total size is 68848  speedup is 578.55
+sending incremental file list
+
+sent 50 bytes  received 12 bytes  124.00 bytes/sec
+total size is 128104  speedup is 2066.19
+sending incremental file list
+
+sent 223 bytes  received 12 bytes  470.00 bytes/sec
+total size is 3260551  speedup is 13874.69
+sending incremental file list
+
+sent 101 bytes  received 12 bytes  226.00 bytes/sec
+total size is 1365600  speedup is 12084.96
+sending incremental file list
+
+sent 807 bytes  received 12 bytes  1638.00 bytes/sec
+total size is 29566379  speedup is 36100.58
+sending incremental file list
+
+sent 150 bytes  received 12 bytes  324.00 bytes/sec
+total size is 12629245  speedup is 77958.30
+sending incremental file list
+
+sent 689 bytes  received 12 bytes  1402.00 bytes/sec
+total size is 8010380  speedup is 11427.08
+sending incremental file list
+
+sent 139 bytes  received 12 bytes  302.00 bytes/sec
+total size is 2328620  speedup is 15421.32
+sending incremental file list
+
+sent 584 bytes  received 12 bytes  1192.00 bytes/sec
+total size is 12636331  speedup is 21201.90
+sending incremental file list
+
+sent 119 bytes  received 12 bytes  262.00 bytes/sec
+total size is 2858445  speedup is 21820.19
+sending incremental file list
+
+sent 105 bytes  received 12 bytes  234.00 bytes/sec
+total size is 126233  speedup is 1078.91
+sending incremental file list
+
+sent 54 bytes  received 12 bytes  132.00 bytes/sec
+total size is 23418  speedup is 354.82
+sending incremental file list
+
+sent 169 bytes  received 12 bytes  362.00 bytes/sec
+total size is 182617  speedup is 1008.93
+sending incremental file list
+
+sent 46 bytes  received 12 bytes  116.00 bytes/sec
+total size is 87009  speedup is 1500.16
+sending incremental file list
+
+sent 62 bytes  received 12 bytes  148.00 bytes/sec
+total size is 208350  speedup is 2815.54
+sending incremental file list
+drwxr-xr-x       28672 2011/07/25 08:54:22 hardy
+-rw-r--r--      326472 2011/07/15 08:37:40 hardy/Packages
+-rw-r--r--       41966 2011/07/15 08:37:40 hardy/Packages.gz
+-rw-------           0 2011/07/25 08:54:22 hardy/Packages.gz.new
+-rw-------       45056 2011/07/25 09:09:48 hardy/Packages.new
+-rw-r--r--       35379 2011/07/15 08:37:43 hardy/Sources
+-rw-r--r--        6744 2011/07/15 08:37:43 hardy/Sources.gz
+-rw-r--r--        3052 2010/11/30 15:37:00 hardy/boot_1.2.43-1hardy0.diff.gz
+-rw-r--r--         894 2010/11/30 15:37:00 hardy/boot_1.2.43-1hardy0.dsc
+-rw-r--r--      212942 2010/11/21 18:28:55 hardy/boot_1.2.43.orig.tar.gz
+-rw-r--r--        3044 2011/05/29 21:22:14 hardy/boot_1.3-1-1hardy0.diff.gz
+-rw-r--r--         891 2011/05/29 21:22:13 hardy/boot_1.3-1-1hardy0.dsc
+-rw-r--r--      217432 2011/05/29 21:22:10 hardy/boot_1.3-1.orig.tar.gz
+-rw-r--r--        3055 2011/06/11 09:11:56 hardy/boot_1.3-2-1hardy0.diff.gz
+-rw-r--r--         891 2011/06/11 09:11:56 hardy/boot_1.3-2-1hardy0.dsc
+-rw-r--r--      219190 2011/06/11 09:11:55 hardy/boot_1.3-2.orig.tar.gz
+-rw-r--r--        3141 2010/11/30 16:03:29 hardy/cluster_1.13.2-1hardy0.diff.gz
+-rw-r--r--         906 2010/11/30 16:03:29 hardy/cluster_1.13.2-1hardy0.dsc
+-rw-r--r--      213663 2010/11/21 20:00:16 hardy/cluster_1.13.2.orig.tar.gz
+-rw-r--r--        3164 2011/02/21 17:42:04 hardy/cluster_1.13.3-1hardy0.diff.gz
+-rw-r--r--         906 2011/02/21 17:42:04 hardy/cluster_1.13.3-1hardy0.dsc
+-rw-r--r--      214765 2011/02/21 17:42:03 hardy/cluster_1.13.3.orig.tar.gz
+-rw-r--r--        3179 2011/06/09 08:57:20 hardy/cluster_1.14.0-1hardy0.diff.gz
+-rw-r--r--         906 2011/06/09 08:57:20 hardy/cluster_1.14.0-1hardy0.dsc
+-rw-r--r--      226332 2011/06/09 08:57:19 hardy/cluster_1.14.0.orig.tar.gz
+-rw-r--r--       12385 2010/12/06 17:15:54 hardy/codetools_0.2-6.orig.tar.gz
+-rw-r--r--        2198 2011/01/12 22:06:50 hardy/codetools_0.2-7-1hardy0.diff.gz
+-rw-r--r--         910 2011/01/12 22:06:50 hardy/codetools_0.2-7-1hardy0.dsc
+-rw-r--r--       12389 2011/01/12 22:06:40 hardy/codetools_0.2-7.orig.tar.gz
+-rw-r--r--        2214 2011/02/16 18:57:50 hardy/codetools_0.2-8-1hardy0.diff.gz
+-rw-r--r--         910 2011/02/16 18:57:50 hardy/codetools_0.2-8-1hardy0.dsc
+-rw-r--r--       12392 2011/02/16 18:57:40 hardy/codetools_0.2-8.orig.tar.gz
+-rw-r--r--        9420 2010/12/07 11:51:35 hardy/ess_5.12-1hardy0.diff.gz
+-rw-r--r--        1120 2010/12/07 11:51:35 hardy/ess_5.12-1hardy0.dsc
+-rw-r--r--     1491094 2010/12/07 12:12:12 hardy/ess_5.12-1hardy0_all.deb
+-rw-r--r--     5701688 2010/12/07 11:30:43 hardy/ess_5.12.orig.tar.gz
+-rw-r--r--        9428 2011/02/16 18:13:23 hardy/ess_5.13-1hardy0.diff.gz
+-rw-r--r--        1117 2011/02/16 18:13:23 hardy/ess_5.13-1hardy0.dsc
+-rw-r--r--     5738282 2011/02/16 18:22:03 hardy/ess_5.13-1hardy0_all.deb
+-rw-r--r--    10043281 2011/02/16 18:13:23 hardy/ess_5.13.orig.tar.gz
+-rw-r--r--        3447 2010/11/30 16:03:28 hardy/foreign_0.8.41-1hardy0.diff.gz
+-rw-r--r--         906 2010/11/30 16:03:28 hardy/foreign_0.8.41-1hardy0.dsc
+-rw-r--r--      330649 2010/11/30 14:13:09 hardy/foreign_0.8.41.orig.tar.gz
+-rw-r--r--        3471 2011/02/12 10:37:51 hardy/foreign_0.8.42-1hardy0.diff.gz
+-rw-r--r--         906 2011/02/12 10:37:51 hardy/foreign_0.8.42-1hardy0.dsc
+-rw-r--r--      334727 2011/02/12 10:32:00 hardy/foreign_0.8.42.orig.tar.gz
+-rw-r--r--        3482 2011/04/14 07:32:57 hardy/foreign_0.8.44-1hardy0.diff.gz
+-rw-r--r--         906 2011/04/14 07:32:57 hardy/foreign_0.8.44-1hardy0.dsc
+-rw-r--r--      334379 2011/04/14 07:32:53 hardy/foreign_0.8.44.orig.tar.gz
+-rw-r--r--        3015 2011/05/09 07:11:42 hardy/jags_2.2.0-2hardy0.diff.gz
+-rw-r--r--        1107 2011/05/09 07:11:42 hardy/jags_2.2.0-2hardy0.dsc
+-rw-r--r--     1621102 2010/11/17 18:26:33 hardy/jags_2.2.0.orig.tar.gz
+-rw-r--r--        3036 2011/07/08 14:12:39 hardy/jags_3.0.0-1hardy0.diff.gz
+-rw-r--r--        1107 2011/07/08 14:12:39 hardy/jags_3.0.0-1hardy0.dsc
+-rw-r--r--     1610047 2011/07/08 14:12:39 hardy/jags_3.0.0.orig.tar.gz
+-rw-r--r--        2683 2010/11/30 16:03:25 hardy/kernsmooth_2.23-4-1hardy0.diff.gz
+-rw-r--r--         930 2010/11/30 16:03:25 hardy/kernsmooth_2.23-4-1hardy0.dsc
+-rw-r--r--       31878 2010/11/30 14:13:03 hardy/kernsmooth_2.23-4.orig.tar.gz
+-rw-r--r--        2700 2011/05/07 07:02:23 hardy/kernsmooth_2.23-5-1hardy0.diff.gz
+-rw-r--r--         930 2011/05/07 07:02:23 hardy/kernsmooth_2.23-5-1hardy0.dsc
+-rw-r--r--       30243 2011/05/07 07:02:21 hardy/kernsmooth_2.23-5.orig.tar.gz
+-rw-r--r--        2719 2011/06/11 09:11:55 hardy/kernsmooth_2.23-6-1hardy0.diff.gz
+-rw-r--r--         930 2011/06/11 09:11:55 hardy/kernsmooth_2.23-6-1hardy0.dsc
+-rw-r--r--       30402 2011/06/11 09:11:55 hardy/kernsmooth_2.23-6.orig.tar.gz
+-rw-r--r--        3870 2011/01/06 08:02:56 hardy/lattice_0.19-17-1hardy0.diff.gz
+-rw-r--r--         909 2011/01/06 08:02:56 hardy/lattice_0.19-17-1hardy0.dsc
+-rw-r--r--      335257 2011/01/06 08:02:56 hardy/lattice_0.19-17.orig.tar.gz
+-rw-r--r--        3898 2011/04/25 16:57:51 hardy/lattice_0.19-26-1hardy0.diff.gz
+-rw-r--r--         909 2011/04/25 16:57:51 hardy/lattice_0.19-26-1hardy0.dsc
+-rw-r--r--      339726 2011/04/25 16:57:51 hardy/lattice_0.19-26.orig.tar.gz
+-rw-r--r--        3917 2011/07/08 13:57:13 hardy/lattice_0.19-30-1hardy0.diff.gz
+-rw-r--r--         909 2011/07/08 13:57:13 hardy/lattice_0.19-30-1hardy0.dsc
+-rw-r--r--      345672 2011/07/08 13:57:12 hardy/lattice_0.19-30.orig.tar.gz
+-rw-r--r--        3181 2010/12/06 21:47:31 hardy/littler_0.1.3-1hardy0.diff.gz
+-rw-r--r--         907 2010/12/06 21:47:31 hardy/littler_0.1.3-1hardy0.dsc
+-rw-r--r--       33072 2010/12/06 23:45:52 hardy/littler_0.1.3-1hardy0_amd64.deb
+-rw-r--r--       31688 2010/12/07 00:17:03 hardy/littler_0.1.3-1hardy0_i386.deb
+-rw-r--r--      128104 2010/12/06 21:47:18 hardy/littler_0.1.3.orig.tar.gz
+-rw-r--r--        4000 2010/12/06 18:13:11 hardy/mgcv_1.7-2-1hardy0.diff.gz
+-rw-r--r--         919 2010/12/06 18:13:11 hardy/mgcv_1.7-2-1hardy0.dsc
+-rw-r--r--      453588 2010/12/06 18:12:58 hardy/mgcv_1.7-2.orig.tar.gz
+-rw-r--r--        4023 2011/02/15 18:07:20 hardy/mgcv_1.7-3-1hardy0.diff.gz
+-rw-r--r--         919 2011/02/15 18:07:20 hardy/mgcv_1.7-3-1hardy0.dsc
+-rw-r--r--      467580 2011/02/15 18:07:19 hardy/mgcv_1.7-3.orig.tar.gz
+-rw-r--r--        4040 2011/03/10 07:27:35 hardy/mgcv_1.7-4-1hardy0.diff.gz
+-rw-r--r--         919 2011/03/10 07:27:35 hardy/mgcv_1.7-4-1hardy0.dsc
+-rw-r--r--      467871 2011/03/10 07:27:35 hardy/mgcv_1.7-4.orig.tar.gz
+-rw-r--r--        4045 2011/03/27 09:17:18 hardy/mgcv_1.7-5-1hardy0.diff.gz
+-rw-r--r--         919 2011/03/27 09:17:18 hardy/mgcv_1.7-5-1hardy0.dsc
+-rw-r--r--      469590 2011/03/27 09:17:18 hardy/mgcv_1.7-5.orig.tar.gz
+-rw-r--r--        4059 2011/04/15 07:32:21 hardy/mgcv_1.7-6-1hardy0.diff.gz
+-rw-r--r--         919 2011/04/15 07:32:21 hardy/mgcv_1.7-6-1hardy0.dsc
+-rw-r--r--      469991 2011/04/15 07:32:21 hardy/mgcv_1.7-6.orig.tar.gz
+-rw-r--r--        3423 2011/04/14 07:32:56 hardy/nlme_3.1.100-1hardy0.diff.gz
+-rw-r--r--         928 2011/04/14 07:32:56 hardy/nlme_3.1.100-1hardy0.dsc
+-rw-r--r--      698693 2011/04/14 07:32:53 hardy/nlme_3.1.100.orig.tar.gz
+-rw-r--r--        3440 2011/05/07 07:06:46 hardy/nlme_3.1.101-1hardy0.diff.gz
+-rw-r--r--         928 2011/05/07 07:06:46 hardy/nlme_3.1.101-1hardy0.dsc
+-rw-r--r--      698787 2011/05/07 07:06:44 hardy/nlme_3.1.101.orig.tar.gz
+-rw-r--r--        3380 2010/12/06 18:13:11 hardy/nlme_3.1.97-1hardy0.diff.gz
+-rw-r--r--         925 2010/12/06 18:13:11 hardy/nlme_3.1.97-1hardy0.dsc
+-rw-r--r--      759332 2010/12/06 18:13:07 hardy/nlme_3.1.97.orig.tar.gz
+-rw-r--r--        3400 2011/02/12 10:47:33 hardy/nlme_3.1.98-1hardy0.diff.gz
+-rw-r--r--         925 2011/02/12 10:47:33 hardy/nlme_3.1.98-1hardy0.dsc
+-rw-r--r--      701633 2011/02/12 10:31:53 hardy/nlme_3.1.98.orig.tar.gz
+-rw-r--r--      208350 2010/12/26 09:32:13 hardy/python-rpy-doc_1.0.3-17hardy0_all.deb
+-rw-r--r--       67140 2010/12/26 09:32:14 hardy/python-rpy_1.0.3-17hardy0_amd64.deb
+-rw-r--r--       62272 2010/12/26 09:32:14 hardy/python-rpy_1.0.3-17hardy0_i386.deb
+-rw-r--r--     2717410 2011/02/06 18:01:48 hardy/r-base-core-dbg_2.12.1-1hardy1_amd64.deb
+-rw-r--r--     2480066 2011/02/06 18:01:51 hardy/r-base-core-dbg_2.12.1-1hardy1_i386.deb
+-rw-r--r--     2732608 2011/02/20 21:52:48 hardy/r-base-core-dbg_2.12.1-1hardy1hardy3_amd64.deb
+-rw-r--r--     2498060 2011/02/20 21:52:56 hardy/r-base-core-dbg_2.12.1-1hardy1hardy3_i386.deb
+-rw-r--r--     2730034 2011/02/21 20:23:00 hardy/r-base-core-dbg_2.12.1-1hardy4_amd64.deb
+-rw-r--r--     2496524 2011/02/21 20:33:51 hardy/r-base-core-dbg_2.12.1-1hardy4_i386.deb
+-rw-r--r--     2709162 2010/12/16 20:52:08 hardy/r-base-core-dbg_2.12.1-1hardy_amd64.deb
+-rw-r--r--     2484850 2010/12/16 20:22:09 hardy/r-base-core-dbg_2.12.1-1hardy_i386.deb
+-rw-r--r--     2729458 2011/02/25 21:19:33 hardy/r-base-core-dbg_2.12.2-1hardy0_amd64.deb
+-rw-r--r--     2502580 2011/02/25 21:09:07 hardy/r-base-core-dbg_2.12.2-1hardy0_i386.deb
+-rw-r--r--     2784036 2011/04/13 14:24:12 hardy/r-base-core-dbg_2.13.0-1hardy0_amd64.deb
+-rw-r--r--     2540420 2011/04/13 14:24:17 hardy/r-base-core-dbg_2.13.0-1hardy0_i386.deb
+-rw-r--r--     2783658 2011/05/29 21:46:44 hardy/r-base-core-dbg_2.13.0-2hardy0_amd64.deb
+-rw-r--r--     2541602 2011/05/29 21:46:48 hardy/r-base-core-dbg_2.13.0-2hardy0_i386.deb
+-rw-r--r--     2788724 2011/07/09 07:22:21 hardy/r-base-core-dbg_2.13.1-1hardy0_amd64.deb
+-rw-r--r--     2545490 2011/07/09 07:27:21 hardy/r-base-core-dbg_2.13.1-1hardy0_i386.deb
+-rw-r--r--    13928034 2011/02/06 18:01:48 hardy/r-base-core_2.12.1-1hardy1_amd64.deb
+-rw-r--r--    13801964 2011/02/06 18:01:52 hardy/r-base-core_2.12.1-1hardy1_i386.deb
+-rw-r--r--    13959514 2011/02/20 21:52:52 hardy/r-base-core_2.12.1-1hardy1hardy3_amd64.deb
+-rw-r--r--    13839954 2011/02/20 21:52:56 hardy/r-base-core_2.12.1-1hardy1hardy3_i386.deb
+-rw-r--r--    13972850 2011/02/21 20:23:01 hardy/r-base-core_2.12.1-1hardy4_amd64.deb
+-rw-r--r--    13848354 2011/02/21 20:33:52 hardy/r-base-core_2.12.1-1hardy4_i386.deb
+-rw-r--r--    13944726 2010/12/16 20:52:09 hardy/r-base-core_2.12.1-1hardy_amd64.deb
+-rw-r--r--    13811440 2010/12/16 20:22:10 hardy/r-base-core_2.12.1-1hardy_i386.deb
+-rw-r--r--    14011908 2011/02/25 21:19:34 hardy/r-base-core_2.12.2-1hardy0_amd64.deb
+-rw-r--r--    13879370 2011/02/25 21:09:07 hardy/r-base-core_2.12.2-1hardy0_i386.deb
+-rw-r--r--    14928084 2011/04/13 14:24:13 hardy/r-base-core_2.13.0-1hardy0_amd64.deb
+-rw-r--r--    14813180 2011/04/13 14:24:17 hardy/r-base-core_2.13.0-1hardy0_i386.deb
+-rw-r--r--    14939088 2011/05/29 21:46:45 hardy/r-base-core_2.13.0-2hardy0_amd64.deb
+-rw-r--r--    14807054 2011/05/29 21:46:49 hardy/r-base-core_2.13.0-2hardy0_i386.deb
+-rw-r--r--    15017672 2011/07/09 07:22:22 hardy/r-base-core_2.13.1-1hardy0_amd64.deb
+-rw-r--r--    14887010 2011/07/09 07:27:21 hardy/r-base-core_2.13.1-1hardy0_i386.deb
+-rw-r--r--        3502 2011/02/06 18:01:47 hardy/r-base-dev_2.12.1-1hardy1_all.deb
+-rw-r--r--        3506 2011/02/20 21:52:53 hardy/r-base-dev_2.12.1-1hardy1hardy3_all.deb
+-rw-r--r--        3504 2011/02/21 20:33:39 hardy/r-base-dev_2.12.1-1hardy4_all.deb
+-rw-r--r--        3494 2010/12/16 20:22:06 hardy/r-base-dev_2.12.1-1hardy_all.deb
+-rw-r--r--        3496 2011/02/25 21:09:03 hardy/r-base-dev_2.12.2-1hardy0_all.deb
+-rw-r--r--        3506 2011/04/13 14:24:14 hardy/r-base-dev_2.13.0-1hardy0_all.deb
+-rw-r--r--        3496 2011/05/29 21:46:46 hardy/r-base-dev_2.13.0-2hardy0_all.deb
+-rw-r--r--        3496 2011/07/09 07:27:17 hardy/r-base-dev_2.13.1-1hardy0_all.deb
+-rw-r--r--       84296 2011/02/06 18:01:46 hardy/r-base-html_2.12.1-1hardy1_all.deb
+-rw-r--r--       84850 2011/02/20 21:52:53 hardy/r-base-html_2.12.1-1hardy1hardy3_all.deb
+-rw-r--r--       85794 2011/02/21 20:33:39 hardy/r-base-html_2.12.1-1hardy4_all.deb
+-rw-r--r--       84920 2010/12/16 20:22:06 hardy/r-base-html_2.12.1-1hardy_all.deb
+-rw-r--r--       84816 2011/02/25 21:09:03 hardy/r-base-html_2.12.2-1hardy0_all.deb
+-rw-r--r--       87784 2011/04/13 14:24:14 hardy/r-base-html_2.13.0-1hardy0_all.deb
+-rw-r--r--       87528 2011/05/29 21:46:46 hardy/r-base-html_2.13.0-2hardy0_all.deb
+-rw-r--r--       88116 2011/07/09 07:27:17 hardy/r-base-html_2.13.1-1hardy0_all.deb
+-rw-r--r--       65036 2010/12/16 17:32:13 hardy/r-base_2.12.1-1hardy.diff.gz
+-rw-r--r--        1639 2010/12/16 17:32:13 hardy/r-base_2.12.1-1hardy.dsc
+-rw-r--r--       65054 2011/02/06 17:46:39 hardy/r-base_2.12.1-1hardy1.diff.gz
+-rw-r--r--        1641 2011/02/06 17:46:39 hardy/r-base_2.12.1-1hardy1.dsc
+-rw-r--r--       35198 2011/02/06 18:01:47 hardy/r-base_2.12.1-1hardy1_all.deb
+-rw-r--r--       65618 2011/02/20 21:32:19 hardy/r-base_2.12.1-1hardy1hardy3.diff.gz
+-rw-r--r--        1665 2011/02/20 21:32:19 hardy/r-base_2.12.1-1hardy1hardy3.dsc
+-rw-r--r--       35136 2011/02/20 21:52:53 hardy/r-base_2.12.1-1hardy1hardy3_all.deb
+-rw-r--r--       65091 2011/02/21 20:07:41 hardy/r-base_2.12.1-1hardy4.diff.gz
+-rw-r--r--        1653 2011/02/21 20:07:41 hardy/r-base_2.12.1-1hardy4.dsc
+-rw-r--r--       35198 2011/02/21 20:33:40 hardy/r-base_2.12.1-1hardy4_all.deb
+-rw-r--r--       35034 2010/12/16 20:22:07 hardy/r-base_2.12.1-1hardy_all.deb
+-rw-r--r--    20806432 2010/12/16 16:52:15 hardy/r-base_2.12.1.orig.tar.gz
+-rw-r--r--       65192 2011/02/25 17:27:19 hardy/r-base_2.12.2-1hardy0.diff.gz
+-rw-r--r--        1653 2011/02/25 17:27:19 hardy/r-base_2.12.2-1hardy0.dsc
+-rw-r--r--       35166 2011/02/25 21:09:03 hardy/r-base_2.12.2-1hardy0_all.deb
+-rw-r--r--    21120720 2011/02/25 17:27:20 hardy/r-base_2.12.2.orig.tar.gz
+-rw-r--r--       65584 2011/04/13 14:03:13 hardy/r-base_2.13.0-1hardy0.diff.gz
+-rw-r--r--        1653 2011/04/13 14:03:13 hardy/r-base_2.13.0-1hardy0.dsc
+-rw-r--r--       35380 2011/04/13 14:24:14 hardy/r-base_2.13.0-1hardy0_all.deb
+-rw-r--r--       65674 2011/05/29 21:31:53 hardy/r-base_2.13.0-2hardy0.diff.gz
+-rw-r--r--        1653 2011/05/29 21:31:53 hardy/r-base_2.13.0-2hardy0.dsc
+-rw-r--r--       35406 2011/05/29 21:46:46 hardy/r-base_2.13.0-2hardy0_all.deb
+-rw-r--r--    21832899 2011/04/13 14:03:13 hardy/r-base_2.13.0.orig.tar.gz
+-rw-r--r--       65871 2011/07/09 07:06:55 hardy/r-base_2.13.1-1hardy0.diff.gz
+-rw-r--r--        1651 2011/07/09 07:06:55 hardy/r-base_2.13.1-1hardy0.dsc
+-rw-r--r--       35624 2011/07/09 07:27:17 hardy/r-base_2.13.1-1hardy0_all.deb
+-rw-r--r--    22063747 2011/07/08 22:52:09 hardy/r-base_2.13.1.orig.tar.gz
+-rw-r--r--      438418 2010/12/05 20:55:00 hardy/r-cran-boot_1.2.43-1hardy0_all.deb
+-rw-r--r--      449060 2011/05/29 21:22:14 hardy/r-cran-boot_1.3-1-1hardy0_all.deb
+-rw-r--r--      452036 2011/06/11 09:22:06 hardy/r-cran-boot_1.3-2-1hardy0_all.deb
+-rw-r--r--        2521 2010/11/30 16:03:22 hardy/r-cran-class_7.3-2-2hardy0.diff.gz
+-rw-r--r--         994 2010/11/30 16:03:22 hardy/r-cran-class_7.3-2-2hardy0.dsc
+-rw-r--r--       63624 2010/12/05 22:12:57 hardy/r-cran-class_7.3-2-2hardy0_amd64.deb
+-rw-r--r--       63938 2010/12/05 22:12:57 hardy/r-cran-class_7.3-2-2hardy0_i386.deb
+-rw-r--r--       20131 2010/11/21 19:21:46 hardy/r-cran-class_7.3-2.orig.tar.gz
+-rw-r--r--       20128 2011/03/27 09:57:40 hardy/r-cran-class_7.3-3.orig.tar.gz
+-rw-r--r--      341628 2010/12/05 20:55:00 hardy/r-cran-cluster_1.13.2-1hardy0_amd64.deb
+-rw-r--r--      338864 2010/12/05 20:55:00 hardy/r-cran-cluster_1.13.2-1hardy0_i386.deb
+-rw-r--r--      341816 2011/02/21 17:52:42 hardy/r-cran-cluster_1.13.3-1hardy0_amd64.deb
+-rw-r--r--      339384 2011/02/21 17:52:43 hardy/r-cran-cluster_1.13.3-1hardy0_i386.deb
+-rw-r--r--      349056 2011/06/09 09:02:31 hardy/r-cran-cluster_1.14.0-1hardy0_amd64.deb
+-rw-r--r--      347528 2011/06/09 09:07:46 hardy/r-cran-cluster_1.14.0-1hardy0_i386.deb
+-rw-r--r--       43260 2011/01/12 22:12:09 hardy/r-cran-codetools_0.2-7-1hardy0_all.deb
+-rw-r--r--       43188 2011/02/16 19:03:45 hardy/r-cran-codetools_0.2-8-1hardy0_all.deb
+-rw-r--r--      156384 2010/12/05 21:13:28 hardy/r-cran-foreign_0.8.41-1hardy0_amd64.deb
+-rw-r--r--      155320 2010/12/05 21:13:40 hardy/r-cran-foreign_0.8.41-1hardy0_i386.deb
+-rw-r--r--      156564 2011/02/12 10:47:33 hardy/r-cran-foreign_0.8.42-1hardy0_amd64.deb
+-rw-r--r--      154784 2011/02/12 10:47:33 hardy/r-cran-foreign_0.8.42-1hardy0_i386.deb
+-rw-r--r--      158712 2011/04/14 10:40:05 hardy/r-cran-foreign_0.8.44-1hardy0_amd64.deb
+-rw-r--r--      156800 2011/04/14 08:04:53 hardy/r-cran-foreign_0.8.44-1hardy0_i386.deb
+-rw-r--r--       58990 2010/12/05 22:12:47 hardy/r-cran-kernsmooth_2.23-4-1hardy0_amd64.deb
+-rw-r--r--       57718 2010/12/05 22:12:57 hardy/r-cran-kernsmooth_2.23-4-1hardy0_i386.deb
+-rw-r--r--       60496 2011/05/07 07:06:46 hardy/r-cran-kernsmooth_2.23-5-1hardy0_amd64.deb
+-rw-r--r--       59664 2011/05/07 07:06:46 hardy/r-cran-kernsmooth_2.23-5-1hardy0_i386.deb
+-rw-r--r--       60402 2011/06/11 09:17:19 hardy/r-cran-kernsmooth_2.23-6-1hardy0_amd64.deb
+-rw-r--r--       58400 2011/06/11 09:22:06 hardy/r-cran-kernsmooth_2.23-6-1hardy0_i386.deb
+-rw-r--r--      665256 2011/01/06 11:09:18 hardy/r-cran-lattice_0.19-17-1hardy0_amd64.deb
+-rw-r--r--      665762 2011/01/06 09:12:40 hardy/r-cran-lattice_0.19-17-1hardy0_i386.deb
+-rw-r--r--      682416 2011/04/25 17:13:12 hardy/r-cran-lattice_0.19-26-1hardy0_amd64.deb
+-rw-r--r--      682666 2011/04/25 17:02:42 hardy/r-cran-lattice_0.19-26-1hardy0_i386.deb
+-rw-r--r--      696362 2011/07/08 15:16:59 hardy/r-cran-lattice_0.19-30-1hardy0_amd64.deb
+-rw-r--r--      696916 2011/07/08 15:22:07 hardy/r-cran-lattice_0.19-30-1hardy0_i386.deb
+-rw-r--r--      455055 2011/03/27 09:57:40 hardy/r-cran-mass_7.3-11.orig.tar.gz
+-rw-r--r--        2944 2011/05/30 16:53:15 hardy/r-cran-mass_7.3-13-1hardy0.diff.gz
+-rw-r--r--         980 2011/05/30 16:53:15 hardy/r-cran-mass_7.3-13-1hardy0.dsc
+-rw-r--r--      828632 2011/05/30 17:17:06 hardy/r-cran-mass_7.3-13-1hardy0_amd64.deb
+-rw-r--r--      826502 2011/05/30 16:53:16 hardy/r-cran-mass_7.3-13-1hardy0_i386.deb
+-rw-r--r--      456713 2011/05/30 16:53:15 hardy/r-cran-mass_7.3-13.orig.tar.gz
+-rw-r--r--        2790 2010/11/30 15:36:54 hardy/r-cran-mass_7.3-7-1hardy0.diff.gz
+-rw-r--r--         977 2010/11/30 15:36:54 hardy/r-cran-mass_7.3-7-1hardy0.dsc
+-rw-r--r--      798676 2010/12/05 21:13:27 hardy/r-cran-mass_7.3-7-1hardy0_amd64.deb
+-rw-r--r--      799050 2010/12/05 21:13:39 hardy/r-cran-mass_7.3-7-1hardy0_i386.deb
+-rw-r--r--      453832 2010/11/21 19:21:47 hardy/r-cran-mass_7.3-7.orig.tar.gz
+-rw-r--r--     3026122 2010/12/16 11:52:18 hardy/r-cran-matrix_0.999375-46-1hardy0_amd64.deb
+-rw-r--r--     3012212 2010/12/16 12:37:25 hardy/r-cran-matrix_0.999375-46-1hardy0_i386.deb
+-rw-r--r--     2916004 2011/02/25 21:09:01 hardy/r-cran-matrix_0.999375-47-1hardy0_amd64.deb
+-rw-r--r--     2904722 2011/02/25 21:00:59 hardy/r-cran-matrix_0.999375-47-1hardy0_i386.deb
+-rw-r--r--     2914288 2011/03/19 09:17:24 hardy/r-cran-matrix_0.999375-48-1hardy0_amd64.deb
+-rw-r--r--     2901128 2011/03/19 09:17:24 hardy/r-cran-matrix_0.999375-48-1hardy0_i386.deb
+-rw-r--r--     3009672 2011/04/02 10:13:20 hardy/r-cran-matrix_0.999375-49-1hardy0_amd64.deb
+-rw-r--r--     2992488 2011/04/02 10:13:21 hardy/r-cran-matrix_0.999375-49-1hardy0_i386.deb
+-rw-r--r--     2939636 2011/04/09 21:27:27 hardy/r-cran-matrix_0.999375-50-1hardy0_amd64.deb
+-rw-r--r--     2923400 2011/04/09 21:27:27 hardy/r-cran-matrix_0.999375-50-1hardy0_i386.deb
+-rw-r--r--      778216 2010/12/06 21:10:36 hardy/r-cran-mgcv_1.7-2-1hardy0_amd64.deb
+-rw-r--r--      773886 2010/12/06 22:09:22 hardy/r-cran-mgcv_1.7-2-1hardy0_i386.deb
+-rw-r--r--      807008 2011/02/15 18:17:49 hardy/r-cran-mgcv_1.7-3-1hardy0_amd64.deb
+-rw-r--r--      801938 2011/02/15 18:17:50 hardy/r-cran-mgcv_1.7-3-1hardy0_i386.deb
+-rw-r--r--      805712 2011/03/10 07:37:57 hardy/r-cran-mgcv_1.7-4-1hardy0_amd64.deb
+-rw-r--r--      799642 2011/03/10 07:33:03 hardy/r-cran-mgcv_1.7-4-1hardy0_i386.deb
+-rw-r--r--      803470 2011/03/27 09:22:15 hardy/r-cran-mgcv_1.7-5-1hardy0_amd64.deb
+-rw-r--r--      799356 2011/03/27 09:22:16 hardy/r-cran-mgcv_1.7-5-1hardy0_i386.deb
+-rw-r--r--      810954 2011/04/15 10:03:46 hardy/r-cran-mgcv_1.7-6-1hardy0_amd64.deb
+-rw-r--r--      805436 2011/04/15 08:58:41 hardy/r-cran-mgcv_1.7-6-1hardy0_i386.deb
+-rw-r--r--     1594608 2011/04/14 10:40:06 hardy/r-cran-nlme_3.1.100-1hardy0_amd64.deb
+-rw-r--r--     1587266 2011/04/14 08:04:53 hardy/r-cran-nlme_3.1.100-1hardy0_i386.deb
+-rw-r--r--     1594334 2011/05/07 07:11:51 hardy/r-cran-nlme_3.1.101-1hardy0_amd64.deb
+-rw-r--r--     1589622 2011/05/07 07:11:51 hardy/r-cran-nlme_3.1.101-1hardy0_i386.deb
+-rw-r--r--     1564606 2010/12/06 19:55:39 hardy/r-cran-nlme_3.1.97-1hardy0_amd64.deb
+-rw-r--r--     1561064 2010/12/06 19:01:23 hardy/r-cran-nlme_3.1.97-1hardy0_i386.deb
+-rw-r--r--     1566180 2011/02/12 10:51:52 hardy/r-cran-nlme_3.1.98-1hardy0_amd64.deb
+-rw-r--r--     1561302 2011/02/12 10:51:53 hardy/r-cran-nlme_3.1.98-1hardy0_i386.deb
+-rw-r--r--        2412 2010/11/30 16:03:18 hardy/r-cran-nnet_7.3-1-1hardy0.diff.gz
+-rw-r--r--         985 2010/11/30 16:03:18 hardy/r-cran-nnet_7.3-1-1hardy0.dsc
+-rw-r--r--       61576 2010/12/05 21:13:28 hardy/r-cran-nnet_7.3-1-1hardy0_amd64.deb
+-rw-r--r--       61260 2010/12/05 21:13:40 hardy/r-cran-nnet_7.3-1-1hardy0_i386.deb
+-rw-r--r--       23418 2010/11/21 20:00:06 hardy/r-cran-nnet_7.3-1.orig.tar.gz
+-rw-r--r--       22909 2011/01/03 21:37:00 hardy/r-cran-r2jags_0.02-11.orig.tar.gz
+-rw-r--r--       23867 2011/03/19 18:32:32 hardy/r-cran-r2jags_0.02-14.orig.tar.gz
+-rw-r--r--       23914 2011/03/30 20:22:37 hardy/r-cran-r2jags_0.02-15.orig.tar.gz
+-rw-r--r--       62581 2011/03/23 19:23:13 hardy/r-cran-rjags_2.2.0-3.orig.tar.gz
+-rw-r--r--       62666 2011/04/28 08:38:04 hardy/r-cran-rjags_2.2.0-4.orig.tar.gz
+-rw-r--r--       62353 2010/12/28 19:03:36 hardy/r-cran-rjags_2.2.0.orig.tar.gz
+-rw-r--r--      774914 2010/12/06 23:45:51 hardy/r-cran-rodbc_1.3-2-1hardy0_amd64.deb
+-rw-r--r--      772980 2010/12/07 00:17:03 hardy/r-cran-rodbc_1.3-2-1hardy0_i386.deb
+-rw-r--r--      158256 2010/12/11 11:09:29 hardy/r-cran-rpart_3.1.48-1hardy0_amd64.deb
+-rw-r--r--      155304 2010/12/11 11:20:28 hardy/r-cran-rpart_3.1.48-1hardy0_i386.deb
+-rw-r--r--      162266 2011/04/14 10:40:06 hardy/r-cran-rpart_3.1.50-1hardy0_amd64.deb
+-rw-r--r--      160662 2011/04/14 08:04:53 hardy/r-cran-rpart_3.1.50-1hardy0_i386.deb
+-rw-r--r--        2549 2010/12/06 20:22:19 hardy/r-cran-spatial_7.3-2-1hardy0.diff.gz
+-rw-r--r--         991 2010/12/06 20:22:19 hardy/r-cran-spatial_7.3-2-1hardy0.dsc
+-rw-r--r--      100010 2010/12/06 21:47:31 hardy/r-cran-spatial_7.3-2-1hardy0_amd64.deb
+-rw-r--r--       99756 2010/12/06 22:56:20 hardy/r-cran-spatial_7.3-2-1hardy0_i386.deb
+-rw-r--r--       41294 2010/12/06 20:22:09 hardy/r-cran-spatial_7.3-2.orig.tar.gz
+-rw-r--r--     2569272 2010/12/05 21:13:28 hardy/r-cran-survival_2.36-2-1hardy0_amd64.deb
+-rw-r--r--     2567028 2010/12/05 21:13:40 hardy/r-cran-survival_2.36-2-1hardy0_i386.deb
+-rw-r--r--     2274744 2011/02/16 19:13:09 hardy/r-cran-survival_2.36-3-1hardy0_amd64.deb
+-rw-r--r--     2271250 2011/02/16 19:13:09 hardy/r-cran-survival_2.36-3-1hardy0_i386.deb
+-rw-r--r--     2274214 2011/02/19 09:04:27 hardy/r-cran-survival_2.36-4-1hardy0_amd64.deb
+-rw-r--r--     2270894 2011/02/19 09:04:28 hardy/r-cran-survival_2.36-4-1hardy0_i386.deb
+-rw-r--r--     2275364 2011/02/21 22:27:41 hardy/r-cran-survival_2.36-5-1hardy0_amd64.deb
+-rw-r--r--     2271722 2011/02/21 22:27:41 hardy/r-cran-survival_2.36-5-1hardy0_i386.deb
+-rw-r--r--     2439312 2011/04/15 10:03:46 hardy/r-cran-survival_2.36-8-1hardy0_amd64.deb
+-rw-r--r--     2436928 2011/04/15 08:58:42 hardy/r-cran-survival_2.36-8-1hardy0_i386.deb
+-rw-r--r--     2444154 2011/05/02 09:54:14 hardy/r-cran-survival_2.36-9-1hardy0_amd64.deb
+-rw-r--r--     2440308 2011/05/02 11:49:29 hardy/r-cran-survival_2.36-9-1hardy0_i386.deb
+-rw-r--r--        8936 2010/12/06 22:56:10 hardy/r-cran-vr_7.3-0-2hardy0_all.deb
+-rw-r--r--      595646 2011/02/06 18:01:46 hardy/r-doc-html_2.12.1-1hardy1_all.deb
+-rw-r--r--      595900 2011/02/20 21:52:53 hardy/r-doc-html_2.12.1-1hardy1hardy3_all.deb
+-rw-r--r--      596488 2011/02/21 20:33:39 hardy/r-doc-html_2.12.1-1hardy4_all.deb
+-rw-r--r--      595786 2010/12/16 20:22:06 hardy/r-doc-html_2.12.1-1hardy_all.deb
+-rw-r--r--      601762 2011/02/25 21:09:03 hardy/r-doc-html_2.12.2-1hardy0_all.deb
+-rw-r--r--      614316 2011/04/13 14:24:14 hardy/r-doc-html_2.13.0-1hardy0_all.deb
+-rw-r--r--      614552 2011/05/29 21:46:46 hardy/r-doc-html_2.13.0-2hardy0_all.deb
+-rw-r--r--      620190 2011/07/09 07:27:17 hardy/r-doc-html_2.13.1-1hardy0_all.deb
+-rw-r--r--      512628 2011/02/06 18:01:46 hardy/r-doc-info_2.12.1-1hardy1_all.deb
+-rw-r--r--      512672 2011/02/20 21:52:53 hardy/r-doc-info_2.12.1-1hardy1hardy3_all.deb
+-rw-r--r--      512622 2011/02/21 20:33:39 hardy/r-doc-info_2.12.1-1hardy4_all.deb
+-rw-r--r--      512662 2010/12/16 20:22:03 hardy/r-doc-info_2.12.1-1hardy_all.deb
+-rw-r--r--      517826 2011/02/25 21:09:02 hardy/r-doc-info_2.12.2-1hardy0_all.deb
+-rw-r--r--      525928 2011/04/13 14:24:13 hardy/r-doc-info_2.13.0-1hardy0_all.deb
+-rw-r--r--      525838 2011/05/29 21:46:45 hardy/r-doc-info_2.13.0-2hardy0_all.deb
+-rw-r--r--      530262 2011/07/09 07:27:17 hardy/r-doc-info_2.13.1-1hardy0_all.deb
+-rw-r--r--     7262520 2011/02/06 18:01:40 hardy/r-doc-pdf_2.12.1-1hardy1_all.deb
+-rw-r--r--     7263372 2011/02/20 21:52:52 hardy/r-doc-pdf_2.12.1-1hardy1hardy3_all.deb
+-rw-r--r--     7264580 2011/02/21 20:33:38 hardy/r-doc-pdf_2.12.1-1hardy4_all.deb
+-rw-r--r--     7262600 2010/12/16 20:22:03 hardy/r-doc-pdf_2.12.1-1hardy_all.deb
+-rw-r--r--     7297296 2011/02/25 21:09:02 hardy/r-doc-pdf_2.12.2-1hardy0_all.deb
+-rw-r--r--     7393030 2011/04/13 14:24:13 hardy/r-doc-pdf_2.13.0-1hardy0_all.deb
+-rw-r--r--     7393236 2011/05/29 21:46:45 hardy/r-doc-pdf_2.13.0-2hardy0_all.deb
+-rw-r--r--     7441072 2011/07/09 07:27:16 hardy/r-doc-pdf_2.13.1-1hardy0_all.deb
+-rw-r--r--      612594 2011/02/06 18:01:47 hardy/r-mathlib_2.12.1-1hardy1_amd64.deb
+-rw-r--r--      558946 2011/02/06 18:01:50 hardy/r-mathlib_2.12.1-1hardy1_i386.deb
+-rw-r--r--      612670 2011/02/20 21:52:42 hardy/r-mathlib_2.12.1-1hardy1hardy3_amd64.deb
+-rw-r--r--      557274 2011/02/20 21:52:55 hardy/r-mathlib_2.12.1-1hardy1hardy3_i386.deb
+-rw-r--r--      609970 2011/02/21 20:23:00 hardy/r-mathlib_2.12.1-1hardy4_amd64.deb
+-rw-r--r--      559476 2011/02/21 20:33:41 hardy/r-mathlib_2.12.1-1hardy4_i386.deb
+-rw-r--r--      611638 2010/12/16 20:51:59 hardy/r-mathlib_2.12.1-1hardy_amd64.deb
+-rw-r--r--      558602 2010/12/16 20:22:08 hardy/r-mathlib_2.12.1-1hardy_i386.deb
+-rw-r--r--      614560 2011/02/25 21:19:33 hardy/r-mathlib_2.12.2-1hardy0_amd64.deb
+-rw-r--r--      562982 2011/02/25 21:09:05 hardy/r-mathlib_2.12.2-1hardy0_i386.deb
+-rw-r--r--      624310 2011/04/13 14:24:12 hardy/r-mathlib_2.13.0-1hardy0_amd64.deb
+-rw-r--r--      573820 2011/04/13 14:24:16 hardy/r-mathlib_2.13.0-1hardy0_i386.deb
+-rw-r--r--      626284 2011/05/29 21:46:44 hardy/r-mathlib_2.13.0-2hardy0_amd64.deb
+-rw-r--r--      571322 2011/05/29 21:46:47 hardy/r-mathlib_2.13.0-2hardy0_i386.deb
+-rw-r--r--      628882 2011/07/09 07:22:21 hardy/r-mathlib_2.13.1-1hardy0_amd64.deb
+-rw-r--r--      575686 2011/07/09 07:27:19 hardy/r-mathlib_2.13.1-1hardy0_i386.deb
+-rw-r--r--        2694 2011/02/06 18:01:36 hardy/r-recommended_2.12.1-1hardy1_all.deb
+-rw-r--r--        2696 2011/02/20 21:52:52 hardy/r-recommended_2.12.1-1hardy1hardy3_all.deb
+-rw-r--r--        2684 2011/02/21 20:33:38 hardy/r-recommended_2.12.1-1hardy4_all.deb
+-rw-r--r--        2684 2010/12/16 20:21:56 hardy/r-recommended_2.12.1-1hardy_all.deb
+-rw-r--r--        2690 2011/02/25 21:09:02 hardy/r-recommended_2.12.2-1hardy0_all.deb
+-rw-r--r--        2678 2011/04/13 14:24:13 hardy/r-recommended_2.13.0-1hardy0_all.deb
+-rw-r--r--        2690 2011/05/29 21:46:45 hardy/r-recommended_2.13.0-2hardy0_all.deb
+-rw-r--r--        2678 2011/07/09 07:27:16 hardy/r-recommended_2.13.1-1hardy0_all.deb
+-rw-r--r--        4356 2010/12/16 08:11:44 hardy/rmatrix_0.999375-46-1hardy0.diff.gz
+-rw-r--r--         952 2010/12/16 08:11:44 hardy/rmatrix_0.999375-46-1hardy0.dsc
+-rw-r--r--     2621637 2010/12/16 08:11:44 hardy/rmatrix_0.999375-46.orig.tar.gz
+-rw-r--r--        4377 2011/02/25 16:59:39 hardy/rmatrix_0.999375-47-1hardy0.diff.gz
+-rw-r--r--         952 2011/02/25 16:59:39 hardy/rmatrix_0.999375-47-1hardy0.dsc
+-rw-r--r--     2478231 2011/02/25 16:59:38 hardy/rmatrix_0.999375-47.orig.tar.gz
+-rw-r--r--        4396 2011/03/19 09:07:47 hardy/rmatrix_0.999375-48-1hardy0.diff.gz
+-rw-r--r--         952 2011/03/19 09:07:47 hardy/rmatrix_0.999375-48-1hardy0.dsc
+-rw-r--r--     2476556 2011/03/19 09:07:47 hardy/rmatrix_0.999375-48.orig.tar.gz
+-rw-r--r--        4402 2011/04/02 10:05:17 hardy/rmatrix_0.999375-49-1hardy0.diff.gz
+-rw-r--r--         952 2011/04/02 10:05:17 hardy/rmatrix_0.999375-49-1hardy0.dsc
+-rw-r--r--     2568569 2011/04/02 10:05:17 hardy/rmatrix_0.999375-49.orig.tar.gz
+-rw-r--r--        4416 2011/04/09 21:17:08 hardy/rmatrix_0.999375-50-1hardy0.diff.gz
+-rw-r--r--         952 2011/04/09 21:17:08 hardy/rmatrix_0.999375-50-1hardy0.dsc
+-rw-r--r--     2484252 2011/04/09 21:17:08 hardy/rmatrix_0.999375-50.orig.tar.gz
+-rw-r--r--        3794 2010/12/06 21:47:31 hardy/rodbc_1.3-2-1hardy0.diff.gz
+-rw-r--r--         910 2010/12/06 21:47:31 hardy/rodbc_1.3-2-1hardy0.dsc
+-rw-r--r--     1108358 2010/12/06 21:47:18 hardy/rodbc_1.3-2.orig.tar.gz
+-rw-r--r--        3325 2010/12/11 10:56:43 hardy/rpart_3.1.48-1hardy0.diff.gz
+-rw-r--r--         927 2010/12/11 10:56:43 hardy/rpart_3.1.48-1hardy0.dsc
+-rw-r--r--      135804 2010/12/11 10:56:41 hardy/rpart_3.1.48.orig.tar.gz
+-rw-r--r--        3347 2011/04/14 07:32:56 hardy/rpart_3.1.50-1hardy0.diff.gz
+-rw-r--r--         927 2011/04/14 07:32:56 hardy/rpart_3.1.50-1hardy0.dsc
+-rw-r--r--      135545 2011/04/14 07:32:52 hardy/rpart_3.1.50.orig.tar.gz
+-rw-r--r--       52174 2010/12/26 09:27:26 hardy/rpy_1.0.3-17hardy0.diff.gz
+-rw-r--r--        1031 2010/12/26 09:27:26 hardy/rpy_1.0.3-17hardy0.dsc
+-rw-r--r--       87009 2010/12/07 11:30:50 hardy/rpy_1.0.3.orig.tar.gz
+-rw-r--r--      805132 2010/11/21 20:00:06 hardy/survival_2.36-1.orig.tar.gz
+-rw-r--r--        2972 2010/11/30 16:03:18 hardy/survival_2.36-2-1hardy0.diff.gz
+-rw-r--r--         910 2010/11/30 16:03:18 hardy/survival_2.36-2-1hardy0.dsc
+-rw-r--r--      807845 2010/11/30 16:03:18 hardy/survival_2.36-2.orig.tar.gz
+-rw-r--r--        2990 2011/02/16 19:03:45 hardy/survival_2.36-3-1hardy0.diff.gz
+-rw-r--r--         911 2011/02/16 19:03:45 hardy/survival_2.36-3-1hardy0.dsc
+-rw-r--r--     1085275 2011/02/16 19:03:44 hardy/survival_2.36-3.orig.tar.gz
+-rw-r--r--        3009 2011/02/19 08:57:22 hardy/survival_2.36-4-1hardy0.diff.gz
+-rw-r--r--         911 2011/02/19 08:57:22 hardy/survival_2.36-4-1hardy0.dsc
+-rw-r--r--     1074017 2011/02/19 08:57:10 hardy/survival_2.36-4.orig.tar.gz
+-rw-r--r--        3022 2011/02/21 22:22:45 hardy/survival_2.36-5-1hardy0.diff.gz
+-rw-r--r--         911 2011/02/21 22:22:45 hardy/survival_2.36-5-1hardy0.dsc
+-rw-r--r--     1076882 2011/02/21 22:22:38 hardy/survival_2.36-5.orig.tar.gz
+-rw-r--r--        3044 2011/04/15 07:32:21 hardy/survival_2.36-8-1hardy0.diff.gz
+-rw-r--r--         911 2011/04/15 07:32:21 hardy/survival_2.36-8-1hardy0.dsc
+-rw-r--r--     1243570 2011/04/15 07:32:21 hardy/survival_2.36-8.orig.tar.gz
+-rw-r--r--        3060 2011/05/01 12:47:52 hardy/survival_2.36-9-1hardy0.diff.gz
+-rw-r--r--         911 2011/05/01 12:47:52 hardy/survival_2.36-9-1hardy0.dsc
+-rw-r--r--     1243891 2011/05/01 12:47:52 hardy/survival_2.36-9.orig.tar.gz
+-rw-r--r--        5129 2010/12/06 20:22:18 hardy/vr_7.3-0-2hardy0.diff.gz
+-rw-r--r--         880 2010/12/06 20:22:18 hardy/vr_7.3-0-2hardy0.dsc
+-rw-r--r--         628 2010/12/06 20:22:06 hardy/vr_7.3-0.orig.tar.gz
+
+sent 15494 bytes  received 13 bytes  31014.00 bytes/sec
+total size is 587580579  speedup is 37891.31
+sending incremental file list
+
+sent 2502 bytes  received 12 bytes  5028.00 bytes/sec
+total size is 271989458  speedup is 108189.92
+sending incremental file list
+
+sent 129 bytes  received 12 bytes  282.00 bytes/sec
+total size is 85823798  speedup is 608679.42
+sending incremental file list
+
+sent 147 bytes  received 12 bytes  318.00 bytes/sec
+total size is 1552598  speedup is 9764.77
+sending incremental file list
+
+sent 48 bytes  received 12 bytes  120.00 bytes/sec
+total size is 1108358  speedup is 18472.63
+sending incremental file list
+
+sent 288 bytes  received 12 bytes  600.00 bytes/sec
+total size is 645014  speedup is 2150.05
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 271349  speedup is 3192.34
+sending incremental file list
+
+sent 108 bytes  received 12 bytes  240.00 bytes/sec
+total size is 203306  speedup is 1694.22
+sending incremental file list
+
+sent 57 bytes  received 12 bytes  138.00 bytes/sec
+total size is 41294  speedup is 598.46
+sending incremental file list
+
+sent 922 bytes  received 12 bytes  1868.00 bytes/sec
+total size is 28558752  speedup is 30576.82
+sending incremental file list
+
+sent 190 bytes  received 12 bytes  404.00 bytes/sec
+total size is 7336612  speedup is 36319.86
+sending incremental file list
+
+sent 118 bytes  received 12 bytes  260.00 bytes/sec
+total size is 14945  speedup is 114.96
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 628  speedup is 11.02
+sending incremental file list
+
+sent 136 bytes  received 12 bytes  296.00 bytes/sec
+total size is 8265  speedup is 55.84
+sending incremental file list
+
+sent 242 bytes  received 12 bytes  508.00 bytes/sec
+total size is 3489439  speedup is 13737.95
+sending incremental file list
+
+sent 823 bytes  received 12 bytes  1670.00 bytes/sec
+total size is 67562784  speedup is 80913.51
+sending incremental file list
+
+sent 488 bytes  received 12 bytes  1000.00 bytes/sec
+total size is 9459016  speedup is 18918.03
+sending incremental file list
+
+sent 257 bytes  received 12 bytes  538.00 bytes/sec
+total size is 21494  speedup is 79.90
+sending incremental file list
+
+sent 289 bytes  received 12 bytes  602.00 bytes/sec
+total size is 1352188  speedup is 4492.32
+sending incremental file list
+
+sent 96 bytes  received 12 bytes  216.00 bytes/sec
+total size is 649564  speedup is 6014.48
+sending incremental file list
+
+sent 453 bytes  received 12 bytes  930.00 bytes/sec
+total size is 2081757  speedup is 4476.90
+sending incremental file list
+
+sent 101 bytes  received 12 bytes  226.00 bytes/sec
+total size is 654760  speedup is 5794.34
+sending incremental file list
+
+sent 105 bytes  received 12 bytes  234.00 bytes/sec
+total size is 134570  speedup is 1150.17
+sending incremental file list
+
+sent 78 bytes  received 12 bytes  180.00 bytes/sec
+total size is 40259  speedup is 447.32
+sending incremental file list
+
+sent 285 bytes  received 12 bytes  594.00 bytes/sec
+total size is 139731  speedup is 470.47
+sending incremental file list
+
+sent 98 bytes  received 12 bytes  220.00 bytes/sec
+total size is 37166  speedup is 337.87
+sending incremental file list
+
+sent 167 bytes  received 12 bytes  358.00 bytes/sec
+total size is 7431269  speedup is 41515.47
+sending incremental file list
+
+sent 69 bytes  received 12 bytes  162.00 bytes/sec
+total size is 15744969  speedup is 194382.33
+sending incremental file list
+
+sent 350 bytes  received 12 bytes  724.00 bytes/sec
+total size is 969870  speedup is 2679.20
+sending incremental file list
+
+sent 97 bytes  received 12 bytes  218.00 bytes/sec
+total size is 999755  speedup is 9172.06
+sending incremental file list
+
+sent 411 bytes  received 12 bytes  846.00 bytes/sec
+total size is 369181  speedup is 872.77
+sending incremental file list
+
+sent 100 bytes  received 12 bytes  224.00 bytes/sec
+total size is 92523  speedup is 826.10
+sending incremental file list
+
+sent 458 bytes  received 12 bytes  940.00 bytes/sec
+total size is 4104298  speedup is 8732.55
+sending incremental file list
+
+sent 100 bytes  received 12 bytes  224.00 bytes/sec
+total size is 1020655  speedup is 9112.99
+sending incremental file list
+
+sent 82 bytes  received 12 bytes  188.00 bytes/sec
+total size is 37009  speedup is 393.71
+sending incremental file list
+
+sent 50 bytes  received 12 bytes  124.00 bytes/sec
+total size is 128104  speedup is 2066.19
+sending incremental file list
+
+sent 201 bytes  received 12 bytes  426.00 bytes/sec
+total size is 3266619  speedup is 15336.24
+sending incremental file list
+
+sent 101 bytes  received 12 bytes  226.00 bytes/sec
+total size is 1365600  speedup is 12084.96
+sending incremental file list
+
+sent 724 bytes  received 12 bytes  1472.00 bytes/sec
+total size is 29785190  speedup is 40469.01
+sending incremental file list
+
+sent 150 bytes  received 12 bytes  324.00 bytes/sec
+total size is 12629245  speedup is 77958.30
+sending incremental file list
+
+sent 604 bytes  received 12 bytes  1232.00 bytes/sec
+total size is 8152468  speedup is 13234.53
+sending incremental file list
+
+sent 139 bytes  received 12 bytes  302.00 bytes/sec
+total size is 2328620  speedup is 15421.32
+sending incremental file list
+
+sent 551 bytes  received 12 bytes  1126.00 bytes/sec
+total size is 12657063  speedup is 22481.46
+sending incremental file list
+
+sent 119 bytes  received 12 bytes  262.00 bytes/sec
+total size is 2858445  speedup is 21820.19
+sending incremental file list
+
+sent 104 bytes  received 12 bytes  232.00 bytes/sec
+total size is 128407  speedup is 1106.96
+sending incremental file list
+
+sent 54 bytes  received 12 bytes  132.00 bytes/sec
+total size is 23418  speedup is 354.82
+sending incremental file list
+
+sent 121 bytes  received 12 bytes  266.00 bytes/sec
+total size is 144815  speedup is 1088.83
+sending incremental file list
+
+sent 46 bytes  received 12 bytes  116.00 bytes/sec
+total size is 87009  speedup is 1500.16
+sending incremental file list
+
+sent 62 bytes  received 12 bytes  148.00 bytes/sec
+total size is 262896  speedup is 3552.65
+sending incremental file list
+drwxr-xr-x       28672 2011/07/25 05:44:31 lucid
+-rw-r--r--      251657 2011/07/15 09:02:18 lucid/Packages
+-rw-r--r--       37581 2011/07/15 09:02:18 lucid/Packages.gz
+-rw-r--r--        1342 2011/07/25 05:44:31 lucid/Release
+-rw-r--r--         490 2011/07/25 05:44:31 lucid/Release.gpg
+-rw-r--r--       73431 2011/07/15 09:02:24 lucid/Sources
+-rw-r--r--       21199 2011/07/15 09:02:24 lucid/Sources.gz
+-rw-r--r--        2993 2010/11/21 18:28:55 lucid/boot_1.2.43-1lucid0.diff.gz
+-rw-r--r--        1283 2010/11/21 18:28:55 lucid/boot_1.2.43-1lucid0.dsc
+-rw-r--r--      212942 2010/11/21 18:28:55 lucid/boot_1.2.43.orig.tar.gz
+-rw-r--r--        2981 2011/05/29 21:22:11 lucid/boot_1.3-1-1lucid0.diff.gz
+-rw-r--r--        1276 2011/05/29 21:22:10 lucid/boot_1.3-1-1lucid0.dsc
+-rw-r--r--      217432 2011/05/29 21:22:10 lucid/boot_1.3-1.orig.tar.gz
+-rw-r--r--        2995 2011/06/11 09:11:55 lucid/boot_1.3-2-1lucid0.diff.gz
+-rw-r--r--        1276 2011/06/11 09:11:55 lucid/boot_1.3-2-1lucid0.dsc
+-rw-r--r--      219190 2011/06/11 09:11:55 lucid/boot_1.3-2.orig.tar.gz
+-rw-r--r--        3086 2010/11/21 20:00:17 lucid/cluster_1.13.2-1lucid0.diff.gz
+-rw-r--r--        1307 2010/11/21 20:00:17 lucid/cluster_1.13.2-1lucid0.dsc
+-rw-r--r--      213663 2010/11/21 20:00:16 lucid/cluster_1.13.2.orig.tar.gz
+-rw-r--r--        3103 2011/02/21 17:47:38 lucid/cluster_1.13.3-1lucid0.diff.gz
+-rw-r--r--        1307 2011/02/21 17:47:38 lucid/cluster_1.13.3-1lucid0.dsc
+-rw-r--r--      214765 2011/02/21 17:42:03 lucid/cluster_1.13.3.orig.tar.gz
+-rw-r--r--        3121 2011/06/09 08:57:20 lucid/cluster_1.14.0-1lucid0.diff.gz
+-rw-r--r--        1307 2011/06/09 08:57:20 lucid/cluster_1.14.0-1lucid0.dsc
+-rw-r--r--      226332 2011/06/09 08:57:19 lucid/cluster_1.14.0.orig.tar.gz
+-rw-r--r--        2103 2010/12/06 17:16:01 lucid/codetools_0.2-6-1lucid0.diff.gz
+-rw-r--r--        1313 2010/12/06 17:16:00 lucid/codetools_0.2-6-1lucid0.dsc
+-rw-r--r--       12385 2010/12/06 17:15:54 lucid/codetools_0.2-6.orig.tar.gz
+-rw-r--r--        2134 2011/01/12 22:06:41 lucid/codetools_0.2-7-1lucid0.diff.gz
+-rw-r--r--        1313 2011/01/12 22:06:41 lucid/codetools_0.2-7-1lucid0.dsc
+-rw-r--r--       12389 2011/01/12 22:06:40 lucid/codetools_0.2-7.orig.tar.gz
+-rw-r--r--        2149 2011/02/16 18:57:46 lucid/codetools_0.2-8-1lucid0.diff.gz
+-rw-r--r--        1313 2011/02/16 18:57:46 lucid/codetools_0.2-8-1lucid0.dsc
+-rw-r--r--       12392 2011/02/16 18:57:40 lucid/codetools_0.2-8.orig.tar.gz
+-rw-r--r--        9364 2010/12/07 11:30:50 lucid/ess_5.12-1lucid0.diff.gz
+-rw-r--r--        1499 2010/12/07 11:30:50 lucid/ess_5.12-1lucid0.dsc
+-rw-r--r--     1578822 2010/12/07 12:12:01 lucid/ess_5.12-1lucid0_all.deb
+-rw-r--r--     5701688 2010/12/07 11:30:43 lucid/ess_5.12.orig.tar.gz
+-rw-r--r--        9382 2011/02/16 18:31:48 lucid/ess_5.13-1lucid0.diff.gz
+-rw-r--r--        1498 2011/02/16 18:31:48 lucid/ess_5.13-1lucid0.dsc
+-rw-r--r--     5830704 2011/02/16 18:42:34 lucid/ess_5.13-1lucid0_all.deb
+-rw-r--r--    10043281 2011/02/16 18:13:23 lucid/ess_5.13.orig.tar.gz
+-rw-r--r--        3388 2010/11/30 14:13:13 lucid/foreign_0.8.41-1lucid0.diff.gz
+-rw-r--r--        1307 2010/11/30 14:13:13 lucid/foreign_0.8.41-1lucid0.dsc
+-rw-r--r--      330649 2010/11/30 14:13:09 lucid/foreign_0.8.41.orig.tar.gz
+-rw-r--r--        3408 2011/02/12 10:32:03 lucid/foreign_0.8.42-1lucid0.diff.gz
+-rw-r--r--        1307 2011/02/12 10:32:03 lucid/foreign_0.8.42-1lucid0.dsc
+-rw-r--r--      334727 2011/02/12 10:32:00 lucid/foreign_0.8.42.orig.tar.gz
+-rw-r--r--        3425 2011/04/14 07:32:55 lucid/foreign_0.8.44-1lucid0.diff.gz
+-rw-r--r--        1307 2011/04/14 07:32:55 lucid/foreign_0.8.44-1lucid0.dsc
+-rw-r--r--      334379 2011/04/14 07:32:53 lucid/foreign_0.8.44.orig.tar.gz
+-rw-r--r--        2770 2010/11/17 19:56:30 lucid/jags_2.2.0-1lucid0.diff.gz
+-rw-r--r--        1518 2010/11/17 19:56:30 lucid/jags_2.2.0-1lucid0.dsc
+-rw-r--r--     1498722 2010/11/17 19:56:30 lucid/jags_2.2.0-1lucid0_amd64.deb
+-rw-r--r--     1447262 2010/11/17 19:56:31 lucid/jags_2.2.0-1lucid0_i386.deb
+-rw-r--r--        2938 2011/05/09 07:17:01 lucid/jags_2.2.0-2lucid0.diff.gz
+-rw-r--r--        1518 2011/05/09 07:17:01 lucid/jags_2.2.0-2lucid0.dsc
+-rw-r--r--     1496378 2011/05/09 07:31:45 lucid/jags_2.2.0-2lucid0_amd64.deb
+-rw-r--r--     1445466 2011/05/09 07:27:12 lucid/jags_2.2.0-2lucid0_i386.deb
+-rw-r--r--     1621102 2010/11/17 18:26:33 lucid/jags_2.2.0.orig.tar.gz
+-rw-r--r--        2960 2011/07/08 14:12:39 lucid/jags_3.0.0-1lucid0.diff.gz
+-rw-r--r--        1518 2011/07/08 14:12:39 lucid/jags_3.0.0-1lucid0.dsc
+-rw-r--r--     1493766 2011/07/08 16:05:45 lucid/jags_3.0.0-1lucid0_amd64.deb
+-rw-r--r--     1444072 2011/07/08 15:41:59 lucid/jags_3.0.0-1lucid0_i386.deb
+-rw-r--r--     1610047 2011/07/08 14:12:39 lucid/jags_3.0.0.orig.tar.gz
+-rw-r--r--        2618 2010/11/30 14:13:13 lucid/kernsmooth_2.23-4-1lucid0.diff.gz
+-rw-r--r--        1341 2010/11/30 14:13:13 lucid/kernsmooth_2.23-4-1lucid0.dsc
+-rw-r--r--       31878 2010/11/30 14:13:03 lucid/kernsmooth_2.23-4.orig.tar.gz
+-rw-r--r--        2636 2011/05/07 07:02:22 lucid/kernsmooth_2.23-5-1lucid0.diff.gz
+-rw-r--r--        1341 2011/05/07 07:02:22 lucid/kernsmooth_2.23-5-1lucid0.dsc
+-rw-r--r--       30243 2011/05/07 07:02:21 lucid/kernsmooth_2.23-5.orig.tar.gz
+-rw-r--r--        2654 2011/06/11 09:11:55 lucid/kernsmooth_2.23-6-1lucid0.diff.gz
+-rw-r--r--        1341 2011/06/11 09:11:55 lucid/kernsmooth_2.23-6-1lucid0.dsc
+-rw-r--r--       30402 2011/06/11 09:11:55 lucid/kernsmooth_2.23-6.orig.tar.gz
+-rw-r--r--        3812 2011/01/06 08:08:24 lucid/lattice_0.19-17-1lucid0.diff.gz
+-rw-r--r--        1314 2011/01/06 08:08:24 lucid/lattice_0.19-17-1lucid0.dsc
+-rw-r--r--      335257 2011/01/06 08:02:56 lucid/lattice_0.19-17.orig.tar.gz
+-rw-r--r--        3841 2011/04/25 17:02:41 lucid/lattice_0.19-26-1lucid0.diff.gz
+-rw-r--r--        1314 2011/04/25 17:02:41 lucid/lattice_0.19-26-1lucid0.dsc
+-rw-r--r--      339726 2011/04/25 16:57:51 lucid/lattice_0.19-26.orig.tar.gz
+-rw-r--r--        3859 2011/07/08 13:57:12 lucid/lattice_0.19-30-1lucid0.diff.gz
+-rw-r--r--        1314 2011/07/08 13:57:12 lucid/lattice_0.19-30-1lucid0.dsc
+-rw-r--r--      345672 2011/07/08 13:57:12 lucid/lattice_0.19-30.orig.tar.gz
+-rw-r--r--        3117 2010/12/06 21:47:19 lucid/littler_0.1.3-1lucid0.diff.gz
+-rw-r--r--        1304 2010/12/06 21:47:19 lucid/littler_0.1.3-1lucid0.dsc
+-rw-r--r--       32588 2010/12/06 23:45:50 lucid/littler_0.1.3-1lucid0_amd64.deb
+-rw-r--r--      128104 2010/12/06 21:47:18 lucid/littler_0.1.3.orig.tar.gz
+-rw-r--r--        3942 2010/12/06 18:13:08 lucid/mgcv_1.7-2-1lucid0.diff.gz
+-rw-r--r--        1304 2010/12/06 18:13:08 lucid/mgcv_1.7-2-1lucid0.dsc
+-rw-r--r--      453588 2010/12/06 18:12:58 lucid/mgcv_1.7-2.orig.tar.gz
+-rw-r--r--        3963 2011/02/15 18:07:19 lucid/mgcv_1.7-3-1lucid0.diff.gz
+-rw-r--r--        1304 2011/02/15 18:07:19 lucid/mgcv_1.7-3-1lucid0.dsc
+-rw-r--r--      467580 2011/02/15 18:07:19 lucid/mgcv_1.7-3.orig.tar.gz
+-rw-r--r--        3982 2011/03/10 07:53:03 lucid/mgcv_1.7-4-1lucid0.diff.gz
+-rw-r--r--        1304 2011/03/10 07:53:03 lucid/mgcv_1.7-4-1lucid0.dsc
+-rw-r--r--      467871 2011/03/10 07:27:35 lucid/mgcv_1.7-4.orig.tar.gz
+-rw-r--r--        3987 2011/03/27 09:22:15 lucid/mgcv_1.7-5-1lucid0.diff.gz
+-rw-r--r--        1304 2011/03/27 09:22:15 lucid/mgcv_1.7-5-1lucid0.dsc
+-rw-r--r--      469590 2011/03/27 09:17:18 lucid/mgcv_1.7-5.orig.tar.gz
+-rw-r--r--        4000 2011/04/15 07:37:46 lucid/mgcv_1.7-6-1lucid0.diff.gz
+-rw-r--r--        1304 2011/04/15 07:37:46 lucid/mgcv_1.7-6-1lucid0.dsc
+-rw-r--r--      469991 2011/04/15 07:32:21 lucid/mgcv_1.7-6.orig.tar.gz
+-rw-r--r--        3361 2011/04/14 07:32:55 lucid/nlme_3.1.100-1lucid0.diff.gz
+-rw-r--r--        1321 2011/04/14 07:32:55 lucid/nlme_3.1.100-1lucid0.dsc
+-rw-r--r--      698693 2011/04/14 07:32:53 lucid/nlme_3.1.100.orig.tar.gz
+-rw-r--r--        3380 2011/05/07 07:06:45 lucid/nlme_3.1.101-1lucid0.diff.gz
+-rw-r--r--        1321 2011/05/07 07:06:45 lucid/nlme_3.1.101-1lucid0.dsc
+-rw-r--r--      698787 2011/05/07 07:06:44 lucid/nlme_3.1.101.orig.tar.gz
+-rw-r--r--        3320 2010/12/06 18:13:08 lucid/nlme_3.1.97-1lucid0.diff.gz
+-rw-r--r--        1314 2010/12/06 18:13:08 lucid/nlme_3.1.97-1lucid0.dsc
+-rw-r--r--      759332 2010/12/06 18:13:07 lucid/nlme_3.1.97.orig.tar.gz
+-rw-r--r--        3340 2011/02/12 10:32:00 lucid/nlme_3.1.98-1lucid0.diff.gz
+-rw-r--r--        1314 2011/02/12 10:32:00 lucid/nlme_3.1.98-1lucid0.dsc
+-rw-r--r--      701633 2011/02/12 10:31:53 lucid/nlme_3.1.98.orig.tar.gz
+-rw-r--r--      262896 2010/12/26 09:37:13 lucid/python-rpy-doc_1.0.3-17lucid0_all.deb
+-rw-r--r--       48672 2010/12/26 09:37:13 lucid/python-rpy_1.0.3-17lucid0_amd64.deb
+-rw-r--r--       47406 2010/12/26 09:37:14 lucid/python-rpy_1.0.3-17lucid0_i386.deb
+-rw-r--r--     2558832 2010/12/16 21:21:38 lucid/r-base-core-dbg_2.12.1-1lucid0_amd64.deb
+-rw-r--r--     2279834 2010/12/16 23:37:11 lucid/r-base-core-dbg_2.12.1-1lucid0_i386.deb
+-rw-r--r--     2563002 2011/02/25 23:12:51 lucid/r-base-core-dbg_2.12.2-1lucid0_amd64.deb
+-rw-r--r--     2285242 2011/02/25 22:29:50 lucid/r-base-core-dbg_2.12.2-1lucid0_i386.deb
+-rw-r--r--     2611994 2011/04/13 15:05:17 lucid/r-base-core-dbg_2.13.0-1lucid0_amd64.deb
+-rw-r--r--     2323148 2011/04/13 14:45:13 lucid/r-base-core-dbg_2.13.0-1lucid0_i386.deb
+-rw-r--r--     2610164 2011/05/29 21:56:44 lucid/r-base-core-dbg_2.13.0-2lucid0_amd64.deb
+-rw-r--r--     2323260 2011/05/29 22:11:53 lucid/r-base-core-dbg_2.13.0-2lucid0_i386.deb
+-rw-r--r--     2613498 2011/07/09 07:37:18 lucid/r-base-core-dbg_2.13.1-1lucid0_amd64.deb
+-rw-r--r--     2324822 2011/07/09 07:47:25 lucid/r-base-core-dbg_2.13.1-1lucid0_i386.deb
+-rw-r--r--    14148062 2010/12/16 21:21:39 lucid/r-base-core_2.12.1-1lucid0_amd64.deb
+-rw-r--r--    13862102 2010/12/16 23:37:12 lucid/r-base-core_2.12.1-1lucid0_i386.deb
+-rw-r--r--    14166928 2011/02/25 23:12:52 lucid/r-base-core_2.12.2-1lucid0_amd64.deb
+-rw-r--r--    13896176 2011/02/25 22:29:50 lucid/r-base-core_2.12.2-1lucid0_i386.deb
+-rw-r--r--    15118798 2011/04/13 15:05:18 lucid/r-base-core_2.13.0-1lucid0_amd64.deb
+-rw-r--r--    14832158 2011/04/13 14:45:14 lucid/r-base-core_2.13.0-1lucid0_i386.deb
+-rw-r--r--    15100722 2011/05/29 21:56:45 lucid/r-base-core_2.13.0-2lucid0_amd64.deb
+-rw-r--r--    14837990 2011/05/29 22:11:54 lucid/r-base-core_2.13.0-2lucid0_i386.deb
+-rw-r--r--    15188368 2011/07/09 07:37:19 lucid/r-base-core_2.13.1-1lucid0_amd64.deb
+-rw-r--r--    14904272 2011/07/09 07:47:26 lucid/r-base-core_2.13.1-1lucid0_i386.deb
+-rw-r--r--        3504 2010/12/16 23:37:08 lucid/r-base-dev_2.12.1-1lucid0_all.deb
+-rw-r--r--        3498 2011/02/25 22:29:38 lucid/r-base-dev_2.12.2-1lucid0_all.deb
+-rw-r--r--        3502 2011/04/13 14:45:10 lucid/r-base-dev_2.13.0-1lucid0_all.deb
+-rw-r--r--        3498 2011/05/29 22:11:50 lucid/r-base-dev_2.13.0-2lucid0_all.deb
+-rw-r--r--        3506 2011/07/09 07:47:22 lucid/r-base-dev_2.13.1-1lucid0_all.deb
+-rw-r--r--       84578 2010/12/16 23:37:08 lucid/r-base-html_2.12.1-1lucid0_all.deb
+-rw-r--r--       84344 2011/02/25 22:29:37 lucid/r-base-html_2.12.2-1lucid0_all.deb
+-rw-r--r--       87940 2011/04/13 14:45:10 lucid/r-base-html_2.13.0-1lucid0_all.deb
+-rw-r--r--       87416 2011/05/29 22:11:50 lucid/r-base-html_2.13.0-2lucid0_all.deb
+-rw-r--r--       88104 2011/07/09 07:47:22 lucid/r-base-html_2.13.1-1lucid0_all.deb
+-rw-r--r--       64458 2010/12/16 18:41:59 lucid/r-base_2.12.1-1lucid0.diff.gz
+-rw-r--r--        2068 2010/12/16 18:41:59 lucid/r-base_2.12.1-1lucid0.dsc
+-rw-r--r--       34722 2010/12/16 23:37:08 lucid/r-base_2.12.1-1lucid0_all.deb
+-rw-r--r--    20806432 2010/12/16 16:52:15 lucid/r-base_2.12.1.orig.tar.gz
+-rw-r--r--       64500 2011/02/25 22:19:16 lucid/r-base_2.12.2-1lucid0.diff.gz
+-rw-r--r--        2068 2011/02/25 22:19:16 lucid/r-base_2.12.2-1lucid0.dsc
+-rw-r--r--       34960 2011/02/25 22:29:38 lucid/r-base_2.12.2-1lucid0_all.deb
+-rw-r--r--    21120720 2011/02/25 17:27:20 lucid/r-base_2.12.2.orig.tar.gz
+-rw-r--r--       64911 2011/04/13 14:24:10 lucid/r-base_2.13.0-1lucid0.diff.gz
+-rw-r--r--        2068 2011/04/13 14:24:10 lucid/r-base_2.13.0-1lucid0.dsc
+-rw-r--r--       34944 2011/04/13 14:45:10 lucid/r-base_2.13.0-1lucid0_all.deb
+-rw-r--r--       65004 2011/05/29 21:42:01 lucid/r-base_2.13.0-2lucid0.diff.gz
+-rw-r--r--        2068 2011/05/29 21:42:01 lucid/r-base_2.13.0-2lucid0.dsc
+-rw-r--r--       35176 2011/05/29 22:11:50 lucid/r-base_2.13.0-2lucid0_all.deb
+-rw-r--r--    21832899 2011/04/13 14:03:13 lucid/r-base_2.13.0.orig.tar.gz
+-rw-r--r--       65190 2011/07/09 07:17:22 lucid/r-base_2.13.1-1lucid0.diff.gz
+-rw-r--r--        2066 2011/07/09 07:17:22 lucid/r-base_2.13.1-1lucid0.dsc
+-rw-r--r--       35352 2011/07/09 07:47:22 lucid/r-base_2.13.1-1lucid0_all.deb
+-rw-r--r--    22063747 2011/07/08 22:52:09 lucid/r-base_2.13.1.orig.tar.gz
+-rw-r--r--      438336 2010/11/21 18:44:28 lucid/r-cran-boot_1.2.43-1lucid0_all.deb
+-rw-r--r--      449134 2011/05/29 21:22:11 lucid/r-cran-boot_1.3-1-1lucid0_all.deb
+-rw-r--r--      451914 2011/06/11 09:17:18 lucid/r-cran-boot_1.3-2-1lucid0_all.deb
+-rw-r--r--        2457 2010/11/21 19:21:47 lucid/r-cran-class_7.3-2-2lucid0.diff.gz
+-rw-r--r--        1409 2010/11/21 19:21:47 lucid/r-cran-class_7.3-2-2lucid0.dsc
+-rw-r--r--       65956 2010/11/21 20:22:16 lucid/r-cran-class_7.3-2-2lucid0_amd64.deb
+-rw-r--r--       64748 2010/11/21 21:01:13 lucid/r-cran-class_7.3-2-2lucid0_i386.deb
+-rw-r--r--       20131 2010/11/21 19:21:46 lucid/r-cran-class_7.3-2.orig.tar.gz
+-rw-r--r--       20128 2011/03/27 09:57:40 lucid/r-cran-class_7.3-3.orig.tar.gz
+-rw-r--r--      345226 2010/11/21 21:01:13 lucid/r-cran-cluster_1.13.2-1lucid0_amd64.deb
+-rw-r--r--      338872 2010/11/21 21:20:11 lucid/r-cran-cluster_1.13.2-1lucid0_i386.deb
+-rw-r--r--      344540 2011/02/21 17:52:38 lucid/r-cran-cluster_1.13.3-1lucid0_amd64.deb
+-rw-r--r--      339582 2011/02/21 17:52:38 lucid/r-cran-cluster_1.13.3-1lucid0_i386.deb
+-rw-r--r--      353024 2011/06/09 09:07:45 lucid/r-cran-cluster_1.14.0-1lucid0_amd64.deb
+-rw-r--r--      347282 2011/06/09 09:07:45 lucid/r-cran-cluster_1.14.0-1lucid0_i386.deb
+-rw-r--r--       43104 2010/12/06 17:43:17 lucid/r-cran-codetools_0.2-6-1lucid0_all.deb
+-rw-r--r--       43106 2011/01/12 22:12:06 lucid/r-cran-codetools_0.2-7-1lucid0_all.deb
+-rw-r--r--       43196 2011/02/16 19:13:06 lucid/r-cran-codetools_0.2-8-1lucid0_all.deb
+-rw-r--r--      159182 2010/11/30 14:45:05 lucid/r-cran-foreign_0.8.41-1lucid0_amd64.deb
+-rw-r--r--      157618 2010/11/30 14:45:05 lucid/r-cran-foreign_0.8.41-1lucid0_i386.deb
+-rw-r--r--      158094 2011/02/12 10:47:31 lucid/r-cran-foreign_0.8.42-1lucid0_amd64.deb
+-rw-r--r--      157850 2011/02/12 10:37:48 lucid/r-cran-foreign_0.8.42-1lucid0_i386.deb
+-rw-r--r--      163770 2011/04/14 10:40:04 lucid/r-cran-foreign_0.8.44-1lucid0_amd64.deb
+-rw-r--r--      159214 2011/04/14 08:04:52 lucid/r-cran-foreign_0.8.44-1lucid0_i386.deb
+-rw-r--r--       59908 2010/11/30 14:45:05 lucid/r-cran-kernsmooth_2.23-4-1lucid0_amd64.deb
+-rw-r--r--       57358 2010/11/30 14:13:13 lucid/r-cran-kernsmooth_2.23-4-1lucid0_i386.deb
+-rw-r--r--       61634 2011/05/07 07:17:12 lucid/r-cran-kernsmooth_2.23-5-1lucid0_amd64.deb
+-rw-r--r--       59086 2011/05/07 07:11:50 lucid/r-cran-kernsmooth_2.23-5-1lucid0_i386.deb
+-rw-r--r--       60872 2011/06/11 09:22:05 lucid/r-cran-kernsmooth_2.23-6-1lucid0_amd64.deb
+-rw-r--r--       58392 2011/06/11 09:22:06 lucid/r-cran-kernsmooth_2.23-6-1lucid0_i386.deb
+-rw-r--r--      664590 2011/01/06 11:09:15 lucid/r-cran-lattice_0.19-17-1lucid0_amd64.deb
+-rw-r--r--      666708 2011/01/06 09:12:36 lucid/r-cran-lattice_0.19-17-1lucid0_i386.deb
+-rw-r--r--      683264 2011/04/25 17:13:11 lucid/r-cran-lattice_0.19-26-1lucid0_amd64.deb
+-rw-r--r--      680930 2011/04/25 17:13:11 lucid/r-cran-lattice_0.19-26-1lucid0_i386.deb
+-rw-r--r--      697210 2011/07/08 15:22:06 lucid/r-cran-lattice_0.19-30-1lucid0_amd64.deb
+-rw-r--r--      696142 2011/07/08 15:22:06 lucid/r-cran-lattice_0.19-30-1lucid0_i386.deb
+-rw-r--r--      455055 2011/03/27 09:57:40 lucid/r-cran-mass_7.3-11.orig.tar.gz
+-rw-r--r--        2883 2011/05/30 16:53:15 lucid/r-cran-mass_7.3-13-1lucid0.diff.gz
+-rw-r--r--        1397 2011/05/30 16:53:15 lucid/r-cran-mass_7.3-13-1lucid0.dsc
+-rw-r--r--      830114 2011/05/30 17:17:05 lucid/r-cran-mass_7.3-13-1lucid0_amd64.deb
+-rw-r--r--      827458 2011/05/30 16:57:10 lucid/r-cran-mass_7.3-13-1lucid0_i386.deb
+-rw-r--r--      456713 2011/05/30 16:53:15 lucid/r-cran-mass_7.3-13.orig.tar.gz
+-rw-r--r--        2725 2010/11/21 19:21:47 lucid/r-cran-mass_7.3-7-1lucid0.diff.gz
+-rw-r--r--        1390 2010/11/21 19:21:47 lucid/r-cran-mass_7.3-7-1lucid0.dsc
+-rw-r--r--      800908 2010/11/21 19:41:00 lucid/r-cran-mass_7.3-7-1lucid0_amd64.deb
+-rw-r--r--      799744 2010/11/21 20:22:16 lucid/r-cran-mass_7.3-7-1lucid0_i386.deb
+-rw-r--r--      453832 2010/11/21 19:21:47 lucid/r-cran-mass_7.3-7.orig.tar.gz
+-rw-r--r--     3074268 2010/12/16 11:58:45 lucid/r-cran-matrix_0.999375-46-1lucid0_amd64.deb
+-rw-r--r--     3009976 2010/12/16 12:43:07 lucid/r-cran-matrix_0.999375-46-1lucid0_i386.deb
+-rw-r--r--     2963556 2011/02/25 21:08:57 lucid/r-cran-matrix_0.999375-47-1lucid0_amd64.deb
+-rw-r--r--     2901296 2011/02/25 21:00:55 lucid/r-cran-matrix_0.999375-47-1lucid0_i386.deb
+-rw-r--r--     2958298 2011/03/19 09:22:47 lucid/r-cran-matrix_0.999375-48-1lucid0_amd64.deb
+-rw-r--r--     2895588 2011/03/19 09:22:47 lucid/r-cran-matrix_0.999375-48-1lucid0_i386.deb
+-rw-r--r--     3056088 2011/04/02 10:24:00 lucid/r-cran-matrix_0.999375-49-1lucid0_amd64.deb
+-rw-r--r--     2992334 2011/04/02 10:24:01 lucid/r-cran-matrix_0.999375-49-1lucid0_i386.deb
+-rw-r--r--     2984690 2011/04/09 21:32:10 lucid/r-cran-matrix_0.999375-50-1lucid0_amd64.deb
+-rw-r--r--     2920602 2011/04/09 21:27:26 lucid/r-cran-matrix_0.999375-50-1lucid0_i386.deb
+-rw-r--r--      809102 2010/12/06 19:55:37 lucid/r-cran-mgcv_1.7-2-1lucid0_amd64.deb
+-rw-r--r--      769750 2010/12/06 19:01:21 lucid/r-cran-mgcv_1.7-2-1lucid0_i386.deb
+-rw-r--r--      837344 2011/02/15 18:17:39 lucid/r-cran-mgcv_1.7-3-1lucid0_amd64.deb
+-rw-r--r--      797936 2011/02/15 18:22:26 lucid/r-cran-mgcv_1.7-3-1lucid0_i386.deb
+-rw-r--r--      837242 2011/03/10 08:03:31 lucid/r-cran-mgcv_1.7-4-1lucid0_amd64.deb
+-rw-r--r--      798412 2011/03/10 07:58:22 lucid/r-cran-mgcv_1.7-4-1lucid0_i386.deb
+-rw-r--r--      836252 2011/03/27 09:27:20 lucid/r-cran-mgcv_1.7-5-1lucid0_amd64.deb
+-rw-r--r--      796472 2011/03/27 09:27:20 lucid/r-cran-mgcv_1.7-5-1lucid0_i386.deb
+-rw-r--r--      841036 2011/04/15 10:12:56 lucid/r-cran-mgcv_1.7-6-1lucid0_amd64.deb
+-rw-r--r--      802528 2011/04/15 09:08:31 lucid/r-cran-mgcv_1.7-6-1lucid0_i386.deb
+-rw-r--r--     1595718 2011/04/14 10:40:04 lucid/r-cran-nlme_3.1.100-1lucid0_amd64.deb
+-rw-r--r--     1587914 2011/04/14 08:13:46 lucid/r-cran-nlme_3.1.100-1lucid0_i386.deb
+-rw-r--r--     1597550 2011/05/07 07:11:50 lucid/r-cran-nlme_3.1.101-1lucid0_amd64.deb
+-rw-r--r--     1590660 2011/05/07 07:11:50 lucid/r-cran-nlme_3.1.101-1lucid0_i386.deb
+-rw-r--r--     1568468 2010/12/06 19:55:37 lucid/r-cran-nlme_3.1.97-1lucid0_amd64.deb
+-rw-r--r--     1561608 2010/12/06 19:01:21 lucid/r-cran-nlme_3.1.97-1lucid0_i386.deb
+-rw-r--r--     1571354 2011/02/12 10:47:31 lucid/r-cran-nlme_3.1.98-1lucid0_amd64.deb
+-rw-r--r--     1565120 2011/02/12 10:47:32 lucid/r-cran-nlme_3.1.98-1lucid0_i386.deb
+-rw-r--r--        2343 2010/11/21 20:00:16 lucid/r-cran-nnet_7.3-1-1lucid0.diff.gz
+-rw-r--r--        1396 2010/11/21 20:00:16 lucid/r-cran-nnet_7.3-1-1lucid0.dsc
+-rw-r--r--       63406 2010/11/21 21:20:10 lucid/r-cran-nnet_7.3-1-1lucid0_amd64.deb
+-rw-r--r--       61262 2010/11/21 21:38:48 lucid/r-cran-nnet_7.3-1-1lucid0_i386.deb
+-rw-r--r--       23418 2010/11/21 20:00:06 lucid/r-cran-nnet_7.3-1.orig.tar.gz
+-rw-r--r--        1391 2011/01/03 22:06:49 lucid/r-cran-r2jags_0.02-11-1lucid1.debian.tar.gz
+-rw-r--r--        1504 2011/01/03 22:06:49 lucid/r-cran-r2jags_0.02-11-1lucid1.dsc
+-rw-r--r--       46718 2011/01/03 22:11:48 lucid/r-cran-r2jags_0.02-11-1lucid1_amd64.deb
+-rw-r--r--       46746 2011/01/03 22:11:57 lucid/r-cran-r2jags_0.02-11-1lucid1_i386.deb
+-rw-r--r--       22909 2011/01/03 21:37:00 lucid/r-cran-r2jags_0.02-11.orig.tar.gz
+-rw-r--r--        1436 2011/03/19 18:47:10 lucid/r-cran-r2jags_0.02-14-1lucid0.debian.tar.gz
+-rw-r--r--        1504 2011/03/19 18:47:10 lucid/r-cran-r2jags_0.02-14-1lucid0.dsc
+-rw-r--r--       48324 2011/03/19 18:52:20 lucid/r-cran-r2jags_0.02-14-1lucid0_amd64.deb
+-rw-r--r--       48296 2011/03/19 18:52:20 lucid/r-cran-r2jags_0.02-14-1lucid0_i386.deb
+-rw-r--r--       23867 2011/03/19 18:32:32 lucid/r-cran-r2jags_0.02-14.orig.tar.gz
+-rw-r--r--        1449 2011/03/30 20:28:20 lucid/r-cran-r2jags_0.02-15-1lucid0.debian.tar.gz
+-rw-r--r--        1504 2011/03/30 20:28:20 lucid/r-cran-r2jags_0.02-15-1lucid0.dsc
+-rw-r--r--       48360 2011/03/30 20:33:06 lucid/r-cran-r2jags_0.02-15-1lucid0_amd64.deb
+-rw-r--r--       48254 2011/03/30 20:42:34 lucid/r-cran-r2jags_0.02-15-1lucid0_i386.deb
+-rw-r--r--       23914 2011/03/30 20:22:37 lucid/r-cran-r2jags_0.02-15.orig.tar.gz
+-rw-r--r--        1472 2010/12/28 19:14:38 lucid/r-cran-rjags_2.2.0-1lucid0.debian.tar.gz
+-rw-r--r--        1454 2010/12/28 19:14:38 lucid/r-cran-rjags_2.2.0-1lucid0.dsc
+-rw-r--r--       77546 2010/12/28 19:49:42 lucid/r-cran-rjags_2.2.0-1lucid0_amd64.deb
+-rw-r--r--       76298 2010/12/28 20:19:24 lucid/r-cran-rjags_2.2.0-1lucid0_i386.deb
+-rw-r--r--        2257 2011/03/23 19:23:14 lucid/r-cran-rjags_2.2.0-3-1lucid0.debian.tar.gz
+-rw-r--r--        1476 2011/03/23 19:23:14 lucid/r-cran-rjags_2.2.0-3-1lucid0.dsc
+-rw-r--r--       77604 2011/03/23 19:34:38 lucid/r-cran-rjags_2.2.0-3-1lucid0_amd64.deb
+-rw-r--r--       77068 2011/03/23 19:34:38 lucid/r-cran-rjags_2.2.0-3-1lucid0_i386.deb
+-rw-r--r--       62581 2011/03/23 19:23:13 lucid/r-cran-rjags_2.2.0-3.orig.tar.gz
+-rw-r--r--        3251 2011/01/19 21:38:03 lucid/r-cran-rjags_2.2.0-3lucid0.debian.tar.gz
+-rw-r--r--        1454 2011/01/19 21:38:03 lucid/r-cran-rjags_2.2.0-3lucid0.dsc
+-rw-r--r--       77484 2011/01/19 22:33:17 lucid/r-cran-rjags_2.2.0-3lucid0_amd64.deb
+-rw-r--r--       77478 2011/01/19 22:43:16 lucid/r-cran-rjags_2.2.0-3lucid0_i386.deb
+-rw-r--r--       62666 2011/04/28 08:38:04 lucid/r-cran-rjags_2.2.0-4.orig.tar.gz
+-rw-r--r--       62353 2010/12/28 19:03:36 lucid/r-cran-rjags_2.2.0.orig.tar.gz
+-rw-r--r--      774148 2010/12/06 23:45:50 lucid/r-cran-rodbc_1.3-2-1lucid0_amd64.deb
+-rw-r--r--      772820 2010/12/07 00:17:01 lucid/r-cran-rodbc_1.3-2-1lucid0_i386.deb
+-rw-r--r--      163136 2010/12/11 11:20:24 lucid/r-cran-rpart_3.1.48-1lucid0_amd64.deb
+-rw-r--r--      157928 2010/12/11 11:09:18 lucid/r-cran-rpart_3.1.48-1lucid0_i386.deb
+-rw-r--r--      166876 2011/04/14 10:48:39 lucid/r-cran-rpart_3.1.50-1lucid0_amd64.deb
+-rw-r--r--      160760 2011/04/14 08:13:46 lucid/r-cran-rpart_3.1.50-1lucid0_i386.deb
+-rw-r--r--        2488 2010/12/06 20:22:16 lucid/r-cran-spatial_7.3-2-1lucid0.diff.gz
+-rw-r--r--        1414 2010/12/06 20:22:16 lucid/r-cran-spatial_7.3-2-1lucid0.dsc
+-rw-r--r--      101324 2010/12/06 21:47:22 lucid/r-cran-spatial_7.3-2-1lucid0_amd64.deb
+-rw-r--r--       99048 2010/12/06 22:29:39 lucid/r-cran-spatial_7.3-2-1lucid0_i386.deb
+-rw-r--r--       41294 2010/12/06 20:22:09 lucid/r-cran-spatial_7.3-2.orig.tar.gz
+-rw-r--r--     2585756 2010/11/21 21:20:10 lucid/r-cran-survival_2.36-1-1lucid0_amd64.deb
+-rw-r--r--     2567356 2010/11/21 21:38:48 lucid/r-cran-survival_2.36-1-1lucid0_i386.deb
+-rw-r--r--     2292140 2011/02/16 19:13:06 lucid/r-cran-survival_2.36-3-1lucid0_amd64.deb
+-rw-r--r--     2271290 2011/02/16 19:22:20 lucid/r-cran-survival_2.36-3-1lucid0_i386.deb
+-rw-r--r--     2290496 2011/02/19 09:04:26 lucid/r-cran-survival_2.36-4-1lucid0_amd64.deb
+-rw-r--r--     2270266 2011/02/19 09:04:26 lucid/r-cran-survival_2.36-4-1lucid0_i386.deb
+-rw-r--r--     2292244 2011/02/21 22:38:34 lucid/r-cran-survival_2.36-5-1lucid0_amd64.deb
+-rw-r--r--     2271388 2011/02/21 22:38:38 lucid/r-cran-survival_2.36-5-1lucid0_i386.deb
+-rw-r--r--     2456646 2011/04/15 10:24:19 lucid/r-cran-survival_2.36-8-1lucid0_amd64.deb
+-rw-r--r--     2436538 2011/04/15 09:08:31 lucid/r-cran-survival_2.36-8-1lucid0_i386.deb
+-rw-r--r--     2462086 2011/05/02 10:04:35 lucid/r-cran-survival_2.36-9-1lucid0_amd64.deb
+-rw-r--r--     2438340 2011/05/02 11:49:28 lucid/r-cran-survival_2.36-9-1lucid0_i386.deb
+-rw-r--r--        8858 2010/12/06 22:29:38 lucid/r-cran-vr_7.3-0-2lucid0_all.deb
+-rw-r--r--      595100 2010/12/16 23:37:08 lucid/r-doc-html_2.12.1-1lucid0_all.deb
+-rw-r--r--      601290 2011/02/25 22:29:37 lucid/r-doc-html_2.12.2-1lucid0_all.deb
+-rw-r--r--      614136 2011/04/13 14:45:10 lucid/r-doc-html_2.13.0-1lucid0_all.deb
+-rw-r--r--      613748 2011/05/29 22:11:50 lucid/r-doc-html_2.13.0-2lucid0_all.deb
+-rw-r--r--      619092 2011/07/09 07:47:22 lucid/r-doc-html_2.13.1-1lucid0_all.deb
+-rw-r--r--      511952 2010/12/16 23:37:07 lucid/r-doc-info_2.12.1-1lucid0_all.deb
+-rw-r--r--      517180 2011/02/25 22:29:37 lucid/r-doc-info_2.12.2-1lucid0_all.deb
+-rw-r--r--      525078 2011/04/13 14:45:10 lucid/r-doc-info_2.13.0-1lucid0_all.deb
+-rw-r--r--      525918 2011/05/29 22:11:49 lucid/r-doc-info_2.13.0-2lucid0_all.deb
+-rw-r--r--      529602 2011/07/09 07:47:22 lucid/r-doc-info_2.13.1-1lucid0_all.deb
+-rw-r--r--     8016338 2010/12/16 23:37:07 lucid/r-doc-pdf_2.12.1-1lucid0_all.deb
+-rw-r--r--     8050104 2011/02/25 22:29:37 lucid/r-doc-pdf_2.12.2-1lucid0_all.deb
+-rw-r--r--     8145394 2011/04/13 14:45:09 lucid/r-doc-pdf_2.13.0-1lucid0_all.deb
+-rw-r--r--     8144680 2011/05/29 22:11:49 lucid/r-doc-pdf_2.13.0-2lucid0_all.deb
+-rw-r--r--     8207024 2011/07/09 07:47:21 lucid/r-doc-pdf_2.13.1-1lucid0_all.deb
+-rw-r--r--      619792 2010/12/16 21:21:32 lucid/r-mathlib_2.12.1-1lucid0_amd64.deb
+-rw-r--r--      565956 2010/12/16 23:37:10 lucid/r-mathlib_2.12.1-1lucid0_i386.deb
+-rw-r--r--      623094 2011/02/25 23:12:51 lucid/r-mathlib_2.12.2-1lucid0_amd64.deb
+-rw-r--r--      569594 2011/02/25 22:29:43 lucid/r-mathlib_2.12.2-1lucid0_i386.deb
+-rw-r--r--      634642 2011/04/13 15:05:17 lucid/r-mathlib_2.13.0-1lucid0_amd64.deb
+-rw-r--r--      581692 2011/04/13 14:45:12 lucid/r-mathlib_2.13.0-1lucid0_i386.deb
+-rw-r--r--      634020 2011/05/29 21:56:44 lucid/r-mathlib_2.13.0-2lucid0_amd64.deb
+-rw-r--r--      581884 2011/05/29 22:11:52 lucid/r-mathlib_2.13.0-2lucid0_i386.deb
+-rw-r--r--      638034 2011/07/09 07:37:18 lucid/r-mathlib_2.13.1-1lucid0_amd64.deb
+-rw-r--r--      585112 2011/07/09 07:47:23 lucid/r-mathlib_2.13.1-1lucid0_i386.deb
+-rw-r--r--        2688 2010/12/16 23:37:07 lucid/r-recommended_2.12.1-1lucid0_all.deb
+-rw-r--r--        2676 2011/02/25 22:29:36 lucid/r-recommended_2.12.2-1lucid0_all.deb
+-rw-r--r--        2674 2011/04/13 14:45:09 lucid/r-recommended_2.13.0-1lucid0_all.deb
+-rw-r--r--        2680 2011/05/29 22:11:49 lucid/r-recommended_2.13.0-2lucid0_all.deb
+-rw-r--r--        2680 2011/07/09 07:47:21 lucid/r-recommended_2.13.1-1lucid0_all.deb
+-rw-r--r--        4293 2010/12/16 08:16:28 lucid/rmatrix_0.999375-46-1lucid0.diff.gz
+-rw-r--r--        1375 2010/12/16 08:16:28 lucid/rmatrix_0.999375-46-1lucid0.dsc
+-rw-r--r--     2621637 2010/12/16 08:11:44 lucid/rmatrix_0.999375-46.orig.tar.gz
+-rw-r--r--        4311 2011/02/25 16:59:38 lucid/rmatrix_0.999375-47-1lucid0.diff.gz
+-rw-r--r--        1375 2011/02/25 16:59:38 lucid/rmatrix_0.999375-47-1lucid0.dsc
+-rw-r--r--     2478231 2011/02/25 16:59:38 lucid/rmatrix_0.999375-47.orig.tar.gz
+-rw-r--r--        4329 2011/03/19 09:12:46 lucid/rmatrix_0.999375-48-1lucid0.diff.gz
+-rw-r--r--        1375 2011/03/19 09:12:46 lucid/rmatrix_0.999375-48-1lucid0.dsc
+-rw-r--r--     2476556 2011/03/19 09:07:47 lucid/rmatrix_0.999375-48.orig.tar.gz
+-rw-r--r--        4336 2011/04/02 10:13:19 lucid/rmatrix_0.999375-49-1lucid0.diff.gz
+-rw-r--r--        1375 2011/04/02 10:13:19 lucid/rmatrix_0.999375-49-1lucid0.dsc
+-rw-r--r--     2568569 2011/04/02 10:05:17 lucid/rmatrix_0.999375-49.orig.tar.gz
+-rw-r--r--        4350 2011/04/09 21:22:20 lucid/rmatrix_0.999375-50-1lucid0.diff.gz
+-rw-r--r--        1375 2011/04/09 21:22:20 lucid/rmatrix_0.999375-50-1lucid0.dsc
+-rw-r--r--     2484252 2011/04/09 21:17:08 lucid/rmatrix_0.999375-50.orig.tar.gz
+-rw-r--r--        3730 2010/12/06 21:47:19 lucid/rodbc_1.3-2-1lucid0.diff.gz
+-rw-r--r--        1301 2010/12/06 21:47:19 lucid/rodbc_1.3-2-1lucid0.dsc
+-rw-r--r--     1108358 2010/12/06 21:47:18 lucid/rodbc_1.3-2.orig.tar.gz
+-rw-r--r--        3266 2010/12/11 10:56:41 lucid/rpart_3.1.48-1lucid0.diff.gz
+-rw-r--r--        1320 2010/12/11 10:56:41 lucid/rpart_3.1.48-1lucid0.dsc
+-rw-r--r--      135804 2010/12/11 10:56:41 lucid/rpart_3.1.48.orig.tar.gz
+-rw-r--r--        3289 2011/04/14 07:32:54 lucid/rpart_3.1.50-1lucid0.diff.gz
+-rw-r--r--        1320 2011/04/14 07:32:54 lucid/rpart_3.1.50-1lucid0.dsc
+-rw-r--r--      135545 2011/04/14 07:32:52 lucid/rpart_3.1.50.orig.tar.gz
+-rw-r--r--       47323 2010/12/26 09:27:22 lucid/rpy_1.0.3-17lucid0.diff.gz
+-rw-r--r--        1414 2010/12/26 09:27:22 lucid/rpy_1.0.3-17lucid0.dsc
+-rw-r--r--       87009 2010/12/07 11:30:50 lucid/rpy_1.0.3.orig.tar.gz
+-rw-r--r--        2905 2010/11/21 20:00:16 lucid/survival_2.36-1-1lucid0.diff.gz
+-rw-r--r--        1315 2010/11/21 20:00:16 lucid/survival_2.36-1-1lucid0.dsc
+-rw-r--r--      805132 2010/11/21 20:00:06 lucid/survival_2.36-1.orig.tar.gz
+-rw-r--r--      807845 2010/11/30 16:03:18 lucid/survival_2.36-2.orig.tar.gz
+-rw-r--r--        2937 2011/02/16 19:13:06 lucid/survival_2.36-3-1lucid0.diff.gz
+-rw-r--r--        1318 2011/02/16 19:13:06 lucid/survival_2.36-3-1lucid0.dsc
+-rw-r--r--     1085275 2011/02/16 19:03:44 lucid/survival_2.36-3.orig.tar.gz
+-rw-r--r--        2951 2011/02/19 08:57:14 lucid/survival_2.36-4-1lucid0.diff.gz
+-rw-r--r--        1318 2011/02/19 08:57:14 lucid/survival_2.36-4-1lucid0.dsc
+-rw-r--r--     1074017 2011/02/19 08:57:10 lucid/survival_2.36-4.orig.tar.gz
+-rw-r--r--        2963 2011/02/21 22:22:38 lucid/survival_2.36-5-1lucid0.diff.gz
+-rw-r--r--        1318 2011/02/21 22:22:38 lucid/survival_2.36-5-1lucid0.dsc
+-rw-r--r--     1076882 2011/02/21 22:22:38 lucid/survival_2.36-5.orig.tar.gz
+-rw-r--r--        2984 2011/04/15 07:37:45 lucid/survival_2.36-8-1lucid0.diff.gz
+-rw-r--r--        1318 2011/04/15 07:37:45 lucid/survival_2.36-8-1lucid0.dsc
+-rw-r--r--     1243570 2011/04/15 07:32:21 lucid/survival_2.36-8.orig.tar.gz
+-rw-r--r--        3001 2011/05/01 12:53:55 lucid/survival_2.36-9-1lucid0.diff.gz
+-rw-r--r--        1318 2011/05/01 12:53:55 lucid/survival_2.36-9-1lucid0.dsc
+-rw-r--r--     1243891 2011/05/01 12:47:52 lucid/survival_2.36-9.orig.tar.gz
+-rw-r--r--        5067 2010/12/06 20:22:13 lucid/vr_7.3-0-2lucid0.diff.gz
+-rw-r--r--        1251 2010/12/06 20:22:13 lucid/vr_7.3-0-2lucid0.dsc
+-rw-r--r--         628 2010/12/06 20:22:06 lucid/vr_7.3-0.orig.tar.gz
+
+sent 15100 bytes  received 13 bytes  30226.00 bytes/sec
+total size is 472606024  speedup is 31271.49
+sending incremental file list
+
+sent 1578 bytes  received 12 bytes  3180.00 bytes/sec
+total size is 171508817  speedup is 107867.18
+sending incremental file list
+
+sent 129 bytes  received 12 bytes  282.00 bytes/sec
+total size is 85823798  speedup is 608679.42
+sending incremental file list
+
+sent 173 bytes  received 12 bytes  370.00 bytes/sec
+total size is 1551999  speedup is 8389.18
+sending incremental file list
+
+sent 48 bytes  received 12 bytes  120.00 bytes/sec
+total size is 1108358  speedup is 18472.63
+sending incremental file list
+
+sent 277 bytes  received 12 bytes  578.00 bytes/sec
+total size is 657895  speedup is 2276.45
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 271349  speedup is 3192.34
+sending incremental file list
+
+sent 108 bytes  received 12 bytes  240.00 bytes/sec
+total size is 204274  speedup is 1702.28
+sending incremental file list
+
+sent 57 bytes  received 12 bytes  138.00 bytes/sec
+total size is 41294  speedup is 598.46
+sending incremental file list
+
+sent 988 bytes  received 12 bytes  2000.00 bytes/sec
+total size is 28660192  speedup is 28660.19
+sending incremental file list
+
+sent 190 bytes  received 12 bytes  404.00 bytes/sec
+total size is 7336612  speedup is 36319.86
+sending incremental file list
+
+sent 97 bytes  received 12 bytes  218.00 bytes/sec
+total size is 15176  speedup is 139.23
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 628  speedup is 11.02
+sending incremental file list
+
+sent 961 bytes  received 12 bytes  1946.00 bytes/sec
+total size is 9609216  speedup is 9875.86
+sending incremental file list
+
+sent 242 bytes  received 12 bytes  508.00 bytes/sec
+total size is 3489439  speedup is 13737.95
+sending incremental file list
+
+sent 525 bytes  received 12 bytes  1074.00 bytes/sec
+total size is 46216636  speedup is 86064.50
+sending incremental file list
+
+sent 317 bytes  received 12 bytes  658.00 bytes/sec
+total size is 6033820  speedup is 18339.88
+sending incremental file list
+
+sent 171 bytes  received 12 bytes  122.00 bytes/sec
+total size is 13398  speedup is 73.21
+sending incremental file list
+
+sent 298 bytes  received 12 bytes  620.00 bytes/sec
+total size is 1351432  speedup is 4359.46
+sending incremental file list
+
+sent 96 bytes  received 12 bytes  216.00 bytes/sec
+total size is 649564  speedup is 6014.48
+sending incremental file list
+
+sent 530 bytes  received 12 bytes  1084.00 bytes/sec
+total size is 2082411  speedup is 3842.09
+sending incremental file list
+
+sent 101 bytes  received 12 bytes  226.00 bytes/sec
+total size is 654760  speedup is 5794.34
+sending incremental file list
+
+sent 108 bytes  received 12 bytes  240.00 bytes/sec
+total size is 134222  speedup is 1118.52
+sending incremental file list
+
+sent 78 bytes  received 12 bytes  180.00 bytes/sec
+total size is 40259  speedup is 447.32
+sending incremental file list
+
+sent 355 bytes  received 12 bytes  734.00 bytes/sec
+total size is 140113  speedup is 381.78
+sending incremental file list
+
+sent 98 bytes  received 12 bytes  220.00 bytes/sec
+total size is 37166  speedup is 337.87
+sending incremental file list
+
+sent 182 bytes  received 12 bytes  388.00 bytes/sec
+total size is 7428902  speedup is 38293.31
+sending incremental file list
+
+sent 69 bytes  received 12 bytes  162.00 bytes/sec
+total size is 15744969  speedup is 194382.33
+sending incremental file list
+
+sent 485 bytes  received 12 bytes  994.00 bytes/sec
+total size is 965553  speedup is 1942.76
+sending incremental file list
+
+sent 97 bytes  received 12 bytes  218.00 bytes/sec
+total size is 999755  speedup is 9172.06
+sending incremental file list
+
+sent 449 bytes  received 12 bytes  922.00 bytes/sec
+total size is 369626  speedup is 801.79
+sending incremental file list
+
+sent 100 bytes  received 12 bytes  224.00 bytes/sec
+total size is 92523  speedup is 826.10
+sending incremental file list
+
+sent 478 bytes  received 12 bytes  980.00 bytes/sec
+total size is 4104994  speedup is 8377.54
+sending incremental file list
+
+sent 100 bytes  received 12 bytes  224.00 bytes/sec
+total size is 1020655  speedup is 9112.99
+sending incremental file list
+
+sent 104 bytes  received 12 bytes  232.00 bytes/sec
+total size is 68198  speedup is 587.91
+sending incremental file list
+
+sent 50 bytes  received 12 bytes  124.00 bytes/sec
+total size is 128104  speedup is 2066.19
+sending incremental file list
+
+sent 260 bytes  received 12 bytes  544.00 bytes/sec
+total size is 3266503  speedup is 12009.20
+sending incremental file list
+
+sent 101 bytes  received 12 bytes  226.00 bytes/sec
+total size is 1365600  speedup is 12084.96
+sending incremental file list
+
+sent 825 bytes  received 12 bytes  1674.00 bytes/sec
+total size is 29778457  speedup is 35577.61
+sending incremental file list
+
+sent 150 bytes  received 12 bytes  324.00 bytes/sec
+total size is 12629245  speedup is 77958.30
+sending incremental file list
+
+sent 741 bytes  received 12 bytes  1506.00 bytes/sec
+total size is 8144699  speedup is 10816.33
+sending incremental file list
+
+sent 139 bytes  received 12 bytes  302.00 bytes/sec
+total size is 2328620  speedup is 15421.32
+sending incremental file list
+
+sent 598 bytes  received 12 bytes  1220.00 bytes/sec
+total size is 12669409  speedup is 20769.52
+sending incremental file list
+
+sent 119 bytes  received 12 bytes  262.00 bytes/sec
+total size is 2858445  speedup is 21820.19
+sending incremental file list
+
+sent 113 bytes  received 12 bytes  250.00 bytes/sec
+total size is 128326  speedup is 1026.61
+sending incremental file list
+
+sent 54 bytes  received 12 bytes  132.00 bytes/sec
+total size is 23418  speedup is 354.82
+sending incremental file list
+
+sent 155 bytes  received 12 bytes  334.00 bytes/sec
+total size is 116714  speedup is 698.89
+sending incremental file list
+
+sent 46 bytes  received 12 bytes  116.00 bytes/sec
+total size is 87009  speedup is 1500.16
+sending incremental file list
+
+sent 65 bytes  received 12 bytes  154.00 bytes/sec
+total size is 250342  speedup is 3251.19
+sending incremental file list
+drwxr-xr-x       32768 2011/07/25 06:01:51 maverick
+-rw-r--r--      284091 2011/07/15 09:08:28 maverick/Packages
+-rw-r--r--       41066 2011/07/15 09:08:28 maverick/Packages.gz
+-rw-r--r--        1354 2011/07/25 06:01:51 maverick/Release
+-rw-r--r--         490 2011/07/25 06:01:51 maverick/Release.gpg
+-rw-r--r--       76789 2011/07/15 09:08:31 maverick/Sources
+-rw-r--r--       21643 2011/07/15 09:08:31 maverick/Sources.gz
+-rw-r--r--        2989 2010/11/21 18:28:55 maverick/boot_1.2.43-1maverick0.diff.gz
+-rw-r--r--        1295 2010/11/21 18:28:55 maverick/boot_1.2.43-1maverick0.dsc
+-rw-r--r--      212942 2010/11/21 18:28:55 maverick/boot_1.2.43.orig.tar.gz
+-rw-r--r--        2978 2011/05/29 21:22:10 maverick/boot_1.3-1-1maverick0.diff.gz
+-rw-r--r--        1288 2011/05/29 21:22:10 maverick/boot_1.3-1-1maverick0.dsc
+-rw-r--r--      217432 2011/05/29 21:22:10 maverick/boot_1.3-1.orig.tar.gz
+-rw-r--r--        3038 2011/06/11 09:17:18 maverick/boot_1.3-2-1maverick0.diff.gz
+-rw-r--r--        1288 2011/06/11 09:17:18 maverick/boot_1.3-2-1maverick0.dsc
+-rw-r--r--      219190 2011/06/11 09:11:55 maverick/boot_1.3-2.orig.tar.gz
+-rw-r--r--        3150 2010/11/21 20:00:16 maverick/cluster_1.13.2-1maverick0.diff.gz
+-rw-r--r--        1319 2010/11/21 20:00:16 maverick/cluster_1.13.2-1maverick0.dsc
+-rw-r--r--      213663 2010/11/21 20:00:16 maverick/cluster_1.13.2.orig.tar.gz
+-rw-r--r--        3135 2011/02/21 17:47:28 maverick/cluster_1.13.3-1maverick0.diff.gz
+-rw-r--r--        1319 2011/02/21 17:47:28 maverick/cluster_1.13.3-1maverick0.dsc
+-rw-r--r--      214765 2011/02/21 17:42:03 maverick/cluster_1.13.3.orig.tar.gz
+-rw-r--r--        3153 2011/06/09 08:57:19 maverick/cluster_1.14.0-1maverick0.diff.gz
+-rw-r--r--        1319 2011/06/09 08:57:19 maverick/cluster_1.14.0-1maverick0.dsc
+-rw-r--r--      226332 2011/06/09 08:57:19 maverick/cluster_1.14.0.orig.tar.gz
+-rw-r--r--        2101 2010/12/06 17:15:54 maverick/codetools_0.2-6-1maverick0.diff.gz
+-rw-r--r--        1325 2010/12/06 17:15:54 maverick/codetools_0.2-6-1maverick0.dsc
+-rw-r--r--       12385 2010/12/06 17:15:54 maverick/codetools_0.2-6.orig.tar.gz
+-rw-r--r--        2132 2011/01/12 22:06:40 maverick/codetools_0.2-7-1maverick0.diff.gz
+-rw-r--r--        1325 2011/01/12 22:06:40 maverick/codetools_0.2-7-1maverick0.dsc
+-rw-r--r--       12389 2011/01/12 22:06:40 maverick/codetools_0.2-7.orig.tar.gz
+-rw-r--r--        2145 2011/02/16 18:57:40 maverick/codetools_0.2-8-1maverick0.diff.gz
+-rw-r--r--        1325 2011/02/16 18:57:40 maverick/codetools_0.2-8-1maverick0.dsc
+-rw-r--r--       12392 2011/02/16 18:57:40 maverick/codetools_0.2-8.orig.tar.gz
+-rw-r--r--        9420 2010/12/07 11:30:43 maverick/ess_5.12-1maverick0.diff.gz
+-rw-r--r--        1511 2010/12/07 11:30:43 maverick/ess_5.12-1maverick0.dsc
+-rw-r--r--     1575564 2010/12/07 11:51:26 maverick/ess_5.12-1maverick0_all.deb
+-rw-r--r--     5701688 2010/12/07 11:30:43 maverick/ess_5.12.orig.tar.gz
+-rw-r--r--        9517 2011/02/16 18:37:42 maverick/ess_5.13-1maverick0.diff.gz
+-rw-r--r--        1510 2011/02/16 18:37:42 maverick/ess_5.13-1maverick0.dsc
+-rw-r--r--     5831380 2011/02/16 18:46:51 maverick/ess_5.13-1maverick0_all.deb
+-rw-r--r--    10043281 2011/02/16 18:13:23 maverick/ess_5.13.orig.tar.gz
+-rw-r--r--        3449 2010/11/30 14:13:09 maverick/foreign_0.8.41-1maverick0.diff.gz
+-rw-r--r--        1319 2010/11/30 14:13:09 maverick/foreign_0.8.41-1maverick0.dsc
+-rw-r--r--      330649 2010/11/30 14:13:09 maverick/foreign_0.8.41.orig.tar.gz
+-rw-r--r--        3454 2011/02/12 10:32:00 maverick/foreign_0.8.42-1maverick0.diff.gz
+-rw-r--r--        1319 2011/02/12 10:32:00 maverick/foreign_0.8.42-1maverick0.dsc
+-rw-r--r--      334727 2011/02/12 10:32:00 maverick/foreign_0.8.42.orig.tar.gz
+-rw-r--r--        3467 2011/04/14 07:32:54 maverick/foreign_0.8.44-1maverick0.diff.gz
+-rw-r--r--        1319 2011/04/14 07:32:54 maverick/foreign_0.8.44-1maverick0.dsc
+-rw-r--r--      334379 2011/04/14 07:32:53 maverick/foreign_0.8.44.orig.tar.gz
+-rw-r--r--        2778 2010/11/17 18:26:33 maverick/jags_2.2.0-1maverick0.diff.gz
+-rw-r--r--        1530 2010/11/17 18:26:33 maverick/jags_2.2.0-1maverick0.dsc
+-rw-r--r--     1487038 2010/11/17 18:42:02 maverick/jags_2.2.0-1maverick0_amd64.deb
+-rw-r--r--     1434402 2010/11/17 18:42:02 maverick/jags_2.2.0-1maverick0_i386.deb
+-rw-r--r--        2990 2011/05/09 07:27:12 maverick/jags_2.2.0-2maverick0.diff.gz
+-rw-r--r--        1530 2011/05/09 07:27:12 maverick/jags_2.2.0-2maverick0.dsc
+-rw-r--r--     1485886 2011/05/09 07:42:00 maverick/jags_2.2.0-2maverick0_amd64.deb
+-rw-r--r--     1431672 2011/05/09 07:31:45 maverick/jags_2.2.0-2maverick0_i386.deb
+-rw-r--r--     1621102 2010/11/17 18:26:33 maverick/jags_2.2.0.orig.tar.gz
+-rw-r--r--        2980 2011/07/08 14:12:38 maverick/jags_3.0.0-1maverick0.diff.gz
+-rw-r--r--        1530 2011/07/08 14:12:38 maverick/jags_3.0.0-1maverick0.dsc
+-rw-r--r--     1482944 2011/07/08 16:05:44 maverick/jags_3.0.0-1maverick0_amd64.deb
+-rw-r--r--     1432700 2011/07/08 15:47:13 maverick/jags_3.0.0-1maverick0_i386.deb
+-rw-r--r--     1610047 2011/07/08 14:12:39 maverick/jags_3.0.0.orig.tar.gz
+-rw-r--r--        2640 2010/11/30 14:13:03 maverick/kernsmooth_2.23-4-1maverick0.diff.gz
+-rw-r--r--        1353 2010/11/30 14:13:03 maverick/kernsmooth_2.23-4-1maverick0.dsc
+-rw-r--r--       31878 2010/11/30 14:13:03 maverick/kernsmooth_2.23-4.orig.tar.gz
+-rw-r--r--        2709 2011/05/07 07:02:22 maverick/kernsmooth_2.23-5-1maverick0.diff.gz
+-rw-r--r--        1353 2011/05/07 07:02:22 maverick/kernsmooth_2.23-5-1maverick0.dsc
+-rw-r--r--       30243 2011/05/07 07:02:21 maverick/kernsmooth_2.23-5.orig.tar.gz
+-rw-r--r--        2676 2011/06/11 09:17:18 maverick/kernsmooth_2.23-6-1maverick0.diff.gz
+-rw-r--r--        1353 2011/06/11 09:17:18 maverick/kernsmooth_2.23-6-1maverick0.dsc
+-rw-r--r--       30402 2011/06/11 09:11:55 maverick/kernsmooth_2.23-6.orig.tar.gz
+-rw-r--r--        3833 2011/01/06 08:08:24 maverick/lattice_0.19-17-1maverick0.diff.gz
+-rw-r--r--        1326 2011/01/06 08:08:24 maverick/lattice_0.19-17-1maverick0.dsc
+-rw-r--r--      335257 2011/01/06 08:02:56 maverick/lattice_0.19-17.orig.tar.gz
+-rw-r--r--        3864 2011/04/25 17:02:41 maverick/lattice_0.19-26-1maverick0.diff.gz
+-rw-r--r--        1326 2011/04/25 17:02:41 maverick/lattice_0.19-26-1maverick0.dsc
+-rw-r--r--      339726 2011/04/25 16:57:51 maverick/lattice_0.19-26.orig.tar.gz
+-rw-r--r--        3871 2011/07/08 13:57:12 maverick/lattice_0.19-30-1maverick0.diff.gz
+-rw-r--r--        1326 2011/07/08 13:57:12 maverick/lattice_0.19-30-1maverick0.dsc
+-rw-r--r--      345672 2011/07/08 13:57:12 maverick/lattice_0.19-30.orig.tar.gz
+-rw-r--r--        3114 2010/12/06 21:47:18 maverick/littler_0.1.3-1maverick0.diff.gz
+-rw-r--r--        1316 2010/12/06 21:47:18 maverick/littler_0.1.3-1maverick0.dsc
+-rw-r--r--       32458 2010/12/06 23:45:46 maverick/littler_0.1.3-1maverick0_amd64.deb
+-rw-r--r--       31310 2010/12/07 00:17:01 maverick/littler_0.1.3-1maverick0_i386.deb
+-rw-r--r--      128104 2010/12/06 21:47:18 maverick/littler_0.1.3.orig.tar.gz
+-rw-r--r--        3986 2010/12/06 18:12:57 maverick/mgcv_1.7-2-1maverick0.diff.gz
+-rw-r--r--        1316 2010/12/06 18:12:57 maverick/mgcv_1.7-2-1maverick0.dsc
+-rw-r--r--      453588 2010/12/06 18:12:58 maverick/mgcv_1.7-2.orig.tar.gz
+-rw-r--r--        4046 2011/02/15 18:12:10 maverick/mgcv_1.7-3-1maverick0.diff.gz
+-rw-r--r--        1316 2011/02/15 18:12:10 maverick/mgcv_1.7-3-1maverick0.dsc
+-rw-r--r--      467580 2011/02/15 18:07:19 maverick/mgcv_1.7-3.orig.tar.gz
+-rw-r--r--        4041 2011/03/10 08:13:42 maverick/mgcv_1.7-4-1maverick0.diff.gz
+-rw-r--r--        1316 2011/03/10 08:13:42 maverick/mgcv_1.7-4-1maverick0.dsc
+-rw-r--r--      467871 2011/03/10 07:27:35 maverick/mgcv_1.7-4.orig.tar.gz
+-rw-r--r--        4057 2011/03/27 09:22:14 maverick/mgcv_1.7-5-1maverick0.diff.gz
+-rw-r--r--        1316 2011/03/27 09:22:14 maverick/mgcv_1.7-5-1maverick0.dsc
+-rw-r--r--      469590 2011/03/27 09:17:18 maverick/mgcv_1.7-5.orig.tar.gz
+-rw-r--r--        4091 2011/04/15 07:37:45 maverick/mgcv_1.7-6-1maverick0.diff.gz
+-rw-r--r--        1316 2011/04/15 07:37:45 maverick/mgcv_1.7-6-1maverick0.dsc
+-rw-r--r--      469991 2011/04/15 07:32:21 maverick/mgcv_1.7-6.orig.tar.gz
+-rw-r--r--        3487 2011/04/14 07:32:54 maverick/nlme_3.1.100-1maverick0.diff.gz
+-rw-r--r--        1333 2011/04/14 07:32:54 maverick/nlme_3.1.100-1maverick0.dsc
+-rw-r--r--      698693 2011/04/14 07:32:53 maverick/nlme_3.1.100.orig.tar.gz
+-rw-r--r--        3480 2011/05/07 07:06:44 maverick/nlme_3.1.101-1maverick0.diff.gz
+-rw-r--r--        1333 2011/05/07 07:06:44 maverick/nlme_3.1.101-1maverick0.dsc
+-rw-r--r--      698787 2011/05/07 07:06:44 maverick/nlme_3.1.101.orig.tar.gz
+-rw-r--r--        3419 2010/12/06 18:13:07 maverick/nlme_3.1.97-1maverick0.diff.gz
+-rw-r--r--        1326 2010/12/06 18:13:07 maverick/nlme_3.1.97-1maverick0.dsc
+-rw-r--r--      759332 2010/12/06 18:13:07 maverick/nlme_3.1.97.orig.tar.gz
+-rw-r--r--        3445 2011/02/12 10:31:53 maverick/nlme_3.1.98-1maverick0.diff.gz
+-rw-r--r--        1326 2011/02/12 10:31:53 maverick/nlme_3.1.98-1maverick0.dsc
+-rw-r--r--      701633 2011/02/12 10:31:53 maverick/nlme_3.1.98.orig.tar.gz
+-rw-r--r--      250342 2010/12/26 09:32:12 maverick/python-rpy-doc_1.0.3-17maverick0_all.deb
+-rw-r--r--       34728 2010/12/26 09:37:13 maverick/python-rpy_1.0.3-17maverick0_amd64.deb
+-rw-r--r--       32482 2010/12/26 09:32:13 maverick/python-rpy_1.0.3-17maverick0_i386.deb
+-rw-r--r--     2562826 2011/02/06 19:06:51 maverick/r-base-core-dbg_2.12.1-1maverick1_amd64.deb
+-rw-r--r--     2279044 2011/02/06 18:52:53 maverick/r-base-core-dbg_2.12.1-1maverick1_i386.deb
+-rw-r--r--     2564056 2010/12/16 19:43:00 maverick/r-base-core-dbg_2.12.1-1maverick_amd64.deb
+-rw-r--r--     2279512 2010/12/16 19:43:03 maverick/r-base-core-dbg_2.12.1-1maverick_i386.deb
+-rw-r--r--     2563690 2011/02/25 23:32:24 maverick/r-base-core-dbg_2.12.2-1maverick0_amd64.deb
+-rw-r--r--     2283952 2011/02/25 23:12:49 maverick/r-base-core-dbg_2.12.2-1maverick0_i386.deb
+-rw-r--r--     2609794 2011/04/13 14:54:00 maverick/r-base-core-dbg_2.13.0-1maverick0_amd64.deb
+-rw-r--r--     2321194 2011/04/13 14:54:03 maverick/r-base-core-dbg_2.13.0-1maverick0_i386.deb
+-rw-r--r--     2612554 2011/05/29 22:16:41 maverick/r-base-core-dbg_2.13.0-2maverick0_amd64.deb
+-rw-r--r--     2321546 2011/05/29 22:16:46 maverick/r-base-core-dbg_2.13.0-2maverick0_i386.deb
+-rw-r--r--     2609926 2011/07/09 07:27:15 maverick/r-base-core-dbg_2.13.1-1maverick0_amd64.deb
+-rw-r--r--     2324950 2011/07/09 07:17:20 maverick/r-base-core-dbg_2.13.1-1maverick0_i386.deb
+-rw-r--r--    14129660 2011/02/06 19:06:55 maverick/r-base-core_2.12.1-1maverick1_amd64.deb
+-rw-r--r--    13857566 2011/02/06 18:52:53 maverick/r-base-core_2.12.1-1maverick1_i386.deb
+-rw-r--r--    14145078 2010/12/16 19:43:00 maverick/r-base-core_2.12.1-1maverick_amd64.deb
+-rw-r--r--    13848844 2010/12/16 19:43:04 maverick/r-base-core_2.12.1-1maverick_i386.deb
+-rw-r--r--    14159798 2011/02/25 23:32:24 maverick/r-base-core_2.12.2-1maverick0_amd64.deb
+-rw-r--r--    13878870 2011/02/25 23:12:49 maverick/r-base-core_2.12.2-1maverick0_i386.deb
+-rw-r--r--    15100602 2011/04/13 14:54:00 maverick/r-base-core_2.13.0-1maverick0_amd64.deb
+-rw-r--r--    14821498 2011/04/13 14:54:03 maverick/r-base-core_2.13.0-1maverick0_i386.deb
+-rw-r--r--    15109638 2011/05/29 22:16:42 maverick/r-base-core_2.13.0-2maverick0_amd64.deb
+-rw-r--r--    14822250 2011/05/29 22:16:47 maverick/r-base-core_2.13.0-2maverick0_i386.deb
+-rw-r--r--    15196618 2011/07/09 07:27:16 maverick/r-base-core_2.13.1-1maverick0_amd64.deb
+-rw-r--r--    14904692 2011/07/09 07:17:20 maverick/r-base-core_2.13.1-1maverick0_i386.deb
+-rw-r--r--        3498 2011/02/06 18:52:50 maverick/r-base-dev_2.12.1-1maverick1_all.deb
+-rw-r--r--        3502 2010/12/16 19:42:59 maverick/r-base-dev_2.12.1-1maverick_all.deb
+-rw-r--r--        3496 2011/02/25 23:12:46 maverick/r-base-dev_2.12.2-1maverick0_all.deb
+-rw-r--r--        3494 2011/04/13 14:53:59 maverick/r-base-dev_2.13.0-1maverick0_all.deb
+-rw-r--r--        3496 2011/05/29 22:16:43 maverick/r-base-dev_2.13.0-2maverick0_all.deb
+-rw-r--r--        3502 2011/07/09 07:17:16 maverick/r-base-dev_2.13.1-1maverick0_all.deb
+-rw-r--r--       84740 2011/02/06 18:52:50 maverick/r-base-html_2.12.1-1maverick1_all.deb
+-rw-r--r--       84666 2010/12/16 19:42:56 maverick/r-base-html_2.12.1-1maverick_all.deb
+-rw-r--r--       85088 2011/02/25 23:12:45 maverick/r-base-html_2.12.2-1maverick0_all.deb
+-rw-r--r--       87702 2011/04/13 14:53:59 maverick/r-base-html_2.13.0-1maverick0_all.deb
+-rw-r--r--       88406 2011/05/29 22:16:43 maverick/r-base-html_2.13.0-2maverick0_all.deb
+-rw-r--r--       87646 2011/07/09 07:17:16 maverick/r-base-html_2.13.1-1maverick0_all.deb
+-rw-r--r--       66007 2010/12/16 16:52:14 maverick/r-base_2.12.1-1maverick.diff.gz
+-rw-r--r--        2076 2010/12/16 16:52:14 maverick/r-base_2.12.1-1maverick.dsc
+-rw-r--r--       66046 2011/02/06 18:31:54 maverick/r-base_2.12.1-1maverick1.diff.gz
+-rw-r--r--        2080 2011/02/06 18:31:54 maverick/r-base_2.12.1-1maverick1.dsc
+-rw-r--r--       34750 2011/02/06 18:52:50 maverick/r-base_2.12.1-1maverick1_all.deb
+-rw-r--r--       34850 2010/12/16 19:42:59 maverick/r-base_2.12.1-1maverick_all.deb
+-rw-r--r--    20806432 2010/12/16 16:52:15 maverick/r-base_2.12.1.orig.tar.gz
+-rw-r--r--       66359 2011/02/25 22:39:58 maverick/r-base_2.12.2-1maverick0.diff.gz
+-rw-r--r--        2080 2011/02/25 22:39:58 maverick/r-base_2.12.2-1maverick0.dsc
+-rw-r--r--       34948 2011/02/25 23:12:46 maverick/r-base_2.12.2-1maverick0_all.deb
+-rw-r--r--    21120720 2011/02/25 17:27:20 maverick/r-base_2.12.2.orig.tar.gz
+-rw-r--r--       66501 2011/04/13 14:34:05 maverick/r-base_2.13.0-1maverick0.diff.gz
+-rw-r--r--        2080 2011/04/13 14:34:05 maverick/r-base_2.13.0-1maverick0.dsc
+-rw-r--r--       34948 2011/04/13 14:53:59 maverick/r-base_2.13.0-1maverick0_all.deb
+-rw-r--r--       66593 2011/05/29 21:56:43 maverick/r-base_2.13.0-2maverick0.diff.gz
+-rw-r--r--        2080 2011/05/29 21:56:43 maverick/r-base_2.13.0-2maverick0.dsc
+-rw-r--r--       35338 2011/05/29 22:16:43 maverick/r-base_2.13.0-2maverick0_all.deb
+-rw-r--r--    21832899 2011/04/13 14:03:13 maverick/r-base_2.13.0.orig.tar.gz
+-rw-r--r--       67027 2011/07/09 06:57:22 maverick/r-base_2.13.1-1maverick0.diff.gz
+-rw-r--r--        2078 2011/07/09 06:57:22 maverick/r-base_2.13.1-1maverick0.dsc
+-rw-r--r--       35342 2011/07/09 07:17:17 maverick/r-base_2.13.1-1maverick0_all.deb
+-rw-r--r--    22063747 2011/07/08 22:52:09 maverick/r-base_2.13.1.orig.tar.gz
+-rw-r--r--      438344 2010/11/21 18:44:17 maverick/r-cran-boot_1.2.43-1maverick0_all.deb
+-rw-r--r--      449146 2011/05/29 21:31:52 maverick/r-cran-boot_1.3-1-1maverick0_all.deb
+-rw-r--r--      451066 2011/06/11 09:22:04 maverick/r-cran-boot_1.3-2-1maverick0_all.deb
+-rw-r--r--        2455 2010/11/21 19:21:46 maverick/r-cran-class_7.3-2-2maverick0.diff.gz
+-rw-r--r--        1421 2010/11/21 19:21:46 maverick/r-cran-class_7.3-2-2maverick0.dsc
+-rw-r--r--       65970 2010/11/21 20:22:15 maverick/r-cran-class_7.3-2-2maverick0_amd64.deb
+-rw-r--r--       64376 2010/11/21 21:01:12 maverick/r-cran-class_7.3-2-2maverick0_i386.deb
+-rw-r--r--       20131 2010/11/21 19:21:46 maverick/r-cran-class_7.3-2.orig.tar.gz
+-rw-r--r--       20128 2011/03/27 09:57:40 maverick/r-cran-class_7.3-3.orig.tar.gz
+-rw-r--r--      344616 2010/11/21 21:01:12 maverick/r-cran-cluster_1.13.2-1maverick0_amd64.deb
+-rw-r--r--      338862 2010/11/21 21:20:08 maverick/r-cran-cluster_1.13.2-1maverick0_i386.deb
+-rw-r--r--      345586 2011/02/21 17:52:31 maverick/r-cran-cluster_1.13.3-1maverick0_amd64.deb
+-rw-r--r--      339438 2011/02/21 17:52:38 maverick/r-cran-cluster_1.13.3-1maverick0_i386.deb
+-rw-r--r--      352642 2011/06/09 09:02:30 maverick/r-cran-cluster_1.14.0-1maverick0_amd64.deb
+-rw-r--r--      347872 2011/06/09 09:02:30 maverick/r-cran-cluster_1.14.0-1maverick0_i386.deb
+-rw-r--r--       43236 2010/12/06 17:43:07 maverick/r-cran-codetools_0.2-6-1maverick0_all.deb
+-rw-r--r--       43330 2011/01/12 22:16:30 maverick/r-cran-codetools_0.2-7-1maverick0_all.deb
+-rw-r--r--       43194 2011/02/16 19:12:55 maverick/r-cran-codetools_0.2-8-1maverick0_all.deb
+-rw-r--r--      158788 2010/11/30 14:44:55 maverick/r-cran-foreign_0.8.41-1maverick0_amd64.deb
+-rw-r--r--      156376 2010/11/30 14:45:04 maverick/r-cran-foreign_0.8.41-1maverick0_i386.deb
+-rw-r--r--      159522 2011/02/12 10:47:31 maverick/r-cran-foreign_0.8.42-1maverick0_amd64.deb
+-rw-r--r--      156694 2011/02/12 10:37:41 maverick/r-cran-foreign_0.8.42-1maverick0_i386.deb
+-rw-r--r--      161598 2011/04/14 10:48:38 maverick/r-cran-foreign_0.8.44-1maverick0_amd64.deb
+-rw-r--r--      158248 2011/04/14 08:13:45 maverick/r-cran-foreign_0.8.44-1maverick0_i386.deb
+-rw-r--r--       60196 2010/11/30 14:45:04 maverick/r-cran-kernsmooth_2.23-4-1maverick0_amd64.deb
+-rw-r--r--       57610 2010/11/30 14:45:04 maverick/r-cran-kernsmooth_2.23-4-1maverick0_i386.deb
+-rw-r--r--       61400 2011/05/07 07:11:49 maverick/r-cran-kernsmooth_2.23-5-1maverick0_amd64.deb
+-rw-r--r--       59100 2011/05/07 07:06:44 maverick/r-cran-kernsmooth_2.23-5-1maverick0_i386.deb
+-rw-r--r--       61010 2011/06/11 09:22:04 maverick/r-cran-kernsmooth_2.23-6-1maverick0_amd64.deb
+-rw-r--r--       58226 2011/06/11 09:22:04 maverick/r-cran-kernsmooth_2.23-6-1maverick0_i386.deb
+-rw-r--r--      666264 2011/01/06 11:09:08 maverick/r-cran-lattice_0.19-17-1maverick0_amd64.deb
+-rw-r--r--      665216 2011/01/06 09:12:30 maverick/r-cran-lattice_0.19-17-1maverick0_i386.deb
+-rw-r--r--      683500 2011/04/25 17:13:10 maverick/r-cran-lattice_0.19-26-1maverick0_amd64.deb
+-rw-r--r--      683302 2011/04/25 17:13:11 maverick/r-cran-lattice_0.19-26-1maverick0_i386.deb
+-rw-r--r--      694288 2011/07/08 15:22:06 maverick/r-cran-lattice_0.19-30-1maverick0_amd64.deb
+-rw-r--r--      696878 2011/07/08 15:27:23 maverick/r-cran-lattice_0.19-30-1maverick0_i386.deb
+-rw-r--r--      455055 2011/03/27 09:57:40 maverick/r-cran-mass_7.3-11.orig.tar.gz
+-rw-r--r--        2890 2011/05/30 16:53:15 maverick/r-cran-mass_7.3-13-1maverick0.diff.gz
+-rw-r--r--        1409 2011/05/30 16:53:15 maverick/r-cran-mass_7.3-13-1maverick0.dsc
+-rw-r--r--      829168 2011/05/30 17:26:38 maverick/r-cran-mass_7.3-13-1maverick0_amd64.deb
+-rw-r--r--      828548 2011/05/30 16:57:10 maverick/r-cran-mass_7.3-13-1maverick0_i386.deb
+-rw-r--r--      456713 2011/05/30 16:53:15 maverick/r-cran-mass_7.3-13.orig.tar.gz
+-rw-r--r--        2758 2010/11/21 19:21:47 maverick/r-cran-mass_7.3-7-1maverick0.diff.gz
+-rw-r--r--        1402 2010/11/21 19:21:47 maverick/r-cran-mass_7.3-7-1maverick0.dsc
+-rw-r--r--      803174 2010/11/21 19:21:47 maverick/r-cran-mass_7.3-7-1maverick0_amd64.deb
+-rw-r--r--      797154 2010/11/21 20:22:15 maverick/r-cran-mass_7.3-7-1maverick0_i386.deb
+-rw-r--r--      453832 2010/11/21 19:21:47 maverick/r-cran-mass_7.3-7.orig.tar.gz
+-rw-r--r--     3073268 2010/12/16 12:08:31 maverick/r-cran-matrix_0.999375-46-1maverick0_amd64.deb
+-rw-r--r--     3010728 2010/12/16 12:46:51 maverick/r-cran-matrix_0.999375-46-1maverick0_i386.deb
+-rw-r--r--     2964276 2011/02/25 21:08:51 maverick/r-cran-matrix_0.999375-47-1maverick0_amd64.deb
+-rw-r--r--     2901676 2011/02/25 21:00:48 maverick/r-cran-matrix_0.999375-47-1maverick0_i386.deb
+-rw-r--r--     2958510 2011/03/19 09:22:46 maverick/r-cran-matrix_0.999375-48-1maverick0_amd64.deb
+-rw-r--r--     2896736 2011/03/19 09:22:46 maverick/r-cran-matrix_0.999375-48-1maverick0_i386.deb
+-rw-r--r--     3051482 2011/04/02 10:24:00 maverick/r-cran-matrix_0.999375-49-1maverick0_amd64.deb
+-rw-r--r--     2983882 2011/04/02 10:24:00 maverick/r-cran-matrix_0.999375-49-1maverick0_i386.deb
+-rw-r--r--     2989324 2011/04/09 21:37:44 maverick/r-cran-matrix_0.999375-50-1maverick0_amd64.deb
+-rw-r--r--     2919960 2011/04/09 21:32:10 maverick/r-cran-matrix_0.999375-50-1maverick0_i386.deb
+-rw-r--r--      808254 2010/12/06 19:55:27 maverick/r-cran-mgcv_1.7-2-1maverick0_amd64.deb
+-rw-r--r--      769596 2010/12/06 19:01:20 maverick/r-cran-mgcv_1.7-2-1maverick0_i386.deb
+-rw-r--r--      837776 2011/02/15 18:22:16 maverick/r-cran-mgcv_1.7-3-1maverick0_amd64.deb
+-rw-r--r--      796310 2011/02/15 18:22:25 maverick/r-cran-mgcv_1.7-3-1maverick0_i386.deb
+-rw-r--r--      836270 2011/03/10 08:13:48 maverick/r-cran-mgcv_1.7-4-1maverick0_amd64.deb
+-rw-r--r--      797226 2011/03/10 08:13:49 maverick/r-cran-mgcv_1.7-4-1maverick0_i386.deb
+-rw-r--r--      835898 2011/03/27 09:32:05 maverick/r-cran-mgcv_1.7-5-1maverick0_amd64.deb
+-rw-r--r--      794948 2011/03/27 09:27:19 maverick/r-cran-mgcv_1.7-5-1maverick0_i386.deb
+-rw-r--r--      840476 2011/04/15 10:12:56 maverick/r-cran-mgcv_1.7-6-1maverick0_amd64.deb
+-rw-r--r--      801144 2011/04/15 09:17:24 maverick/r-cran-mgcv_1.7-6-1maverick0_i386.deb
+-rw-r--r--     1599180 2011/04/14 10:48:39 maverick/r-cran-nlme_3.1.100-1maverick0_amd64.deb
+-rw-r--r--     1589300 2011/04/14 08:13:45 maverick/r-cran-nlme_3.1.100-1maverick0_i386.deb
+-rw-r--r--     1601394 2011/05/07 07:17:12 maverick/r-cran-nlme_3.1.101-1maverick0_amd64.deb
+-rw-r--r--     1591056 2011/05/07 07:11:50 maverick/r-cran-nlme_3.1.101-1maverick0_i386.deb
+-rw-r--r--     1572866 2010/12/06 19:27:00 maverick/r-cran-nlme_3.1.97-1maverick0_amd64.deb
+-rw-r--r--     1562324 2010/12/06 19:01:20 maverick/r-cran-nlme_3.1.97-1maverick0_i386.deb
+-rw-r--r--     1572550 2011/02/12 10:47:25 maverick/r-cran-nlme_3.1.98-1maverick0_amd64.deb
+-rw-r--r--     1561590 2011/02/12 10:37:42 maverick/r-cran-nlme_3.1.98-1maverick0_i386.deb
+-rw-r--r--        2406 2010/11/21 20:00:06 maverick/r-cran-nnet_7.3-1-1maverick0.diff.gz
+-rw-r--r--        1408 2010/11/21 20:00:06 maverick/r-cran-nnet_7.3-1-1maverick0.dsc
+-rw-r--r--       64126 2010/11/21 21:01:12 maverick/r-cran-nnet_7.3-1-1maverick0_amd64.deb
+-rw-r--r--       60386 2010/11/21 21:20:09 maverick/r-cran-nnet_7.3-1-1maverick0_i386.deb
+-rw-r--r--       23418 2010/11/21 20:00:06 maverick/r-cran-nnet_7.3-1.orig.tar.gz
+-rw-r--r--        1607 2011/01/03 21:41:43 maverick/r-cran-r2jags_0.02-11-1maverick1.debian.tar.gz
+-rw-r--r--        1516 2011/01/03 21:41:43 maverick/r-cran-r2jags_0.02-11-1maverick1.dsc
+-rw-r--r--       45350 2011/01/03 21:51:49 maverick/r-cran-r2jags_0.02-11-1maverick1_amd64.deb
+-rw-r--r--       45338 2011/01/03 21:51:55 maverick/r-cran-r2jags_0.02-11-1maverick1_i386.deb
+-rw-r--r--       22909 2011/01/03 21:37:00 maverick/r-cran-r2jags_0.02-11.orig.tar.gz
+-rw-r--r--        1652 2011/03/19 18:32:32 maverick/r-cran-r2jags_0.02-14-1maverick0.debian.tar.gz
+-rw-r--r--        1516 2011/03/19 18:32:32 maverick/r-cran-r2jags_0.02-14-1maverick0.dsc
+-rw-r--r--       46712 2011/03/19 18:37:25 maverick/r-cran-r2jags_0.02-14-1maverick0_amd64.deb
+-rw-r--r--       46710 2011/03/19 18:37:25 maverick/r-cran-r2jags_0.02-14-1maverick0_i386.deb
+-rw-r--r--       23867 2011/03/19 18:32:32 maverick/r-cran-r2jags_0.02-14.orig.tar.gz
+-rw-r--r--        1602 2011/03/30 20:28:20 maverick/r-cran-r2jags_0.02-15-1maverick0.debian.tar.gz
+-rw-r--r--        1516 2011/03/30 20:28:20 maverick/r-cran-r2jags_0.02-15-1maverick0.dsc
+-rw-r--r--       46706 2011/03/30 20:38:34 maverick/r-cran-r2jags_0.02-15-1maverick0_amd64.deb
+-rw-r--r--       46900 2011/03/30 20:42:34 maverick/r-cran-r2jags_0.02-15-1maverick0_i386.deb
+-rw-r--r--       23914 2011/03/30 20:22:37 maverick/r-cran-r2jags_0.02-15.orig.tar.gz
+-rw-r--r--        1624 2010/12/28 19:03:36 maverick/r-cran-rjags_2.2.0-1maverick0.debian.tar.gz
+-rw-r--r--        1466 2010/12/28 19:03:36 maverick/r-cran-rjags_2.2.0-1maverick0.dsc
+-rw-r--r--       77218 2010/12/28 19:23:23 maverick/r-cran-rjags_2.2.0-1maverick0_amd64.deb
+-rw-r--r--       76052 2010/12/28 20:00:27 maverick/r-cran-rjags_2.2.0-1maverick0_i386.deb
+-rw-r--r--        2395 2011/03/23 19:23:13 maverick/r-cran-rjags_2.2.0-3-1maverick0.debian.tar.gz
+-rw-r--r--        1488 2011/03/23 19:23:13 maverick/r-cran-rjags_2.2.0-3-1maverick0.dsc
+-rw-r--r--       77662 2011/03/23 19:44:01 maverick/r-cran-rjags_2.2.0-3-1maverick0_amd64.deb
+-rw-r--r--       76200 2011/03/23 19:34:37 maverick/r-cran-rjags_2.2.0-3-1maverick0_i386.deb
+-rw-r--r--       62581 2011/03/23 19:23:13 maverick/r-cran-rjags_2.2.0-3.orig.tar.gz
+-rw-r--r--        3329 2011/01/19 21:37:56 maverick/r-cran-rjags_2.2.0-3maverick0.debian.tar.gz
+-rw-r--r--        1466 2011/01/19 21:37:56 maverick/r-cran-rjags_2.2.0-3maverick0.dsc
+-rw-r--r--       77086 2011/01/19 22:33:17 maverick/r-cran-rjags_2.2.0-3maverick0_amd64.deb
+-rw-r--r--       76078 2011/01/19 22:43:16 maverick/r-cran-rjags_2.2.0-3maverick0_i386.deb
+-rw-r--r--       62666 2011/04/28 08:38:04 maverick/r-cran-rjags_2.2.0-4.orig.tar.gz
+-rw-r--r--       62353 2010/12/28 19:03:36 maverick/r-cran-rjags_2.2.0.orig.tar.gz
+-rw-r--r--      773666 2010/12/06 23:45:40 maverick/r-cran-rodbc_1.3-2-1maverick0_amd64.deb
+-rw-r--r--      771182 2010/12/07 00:16:51 maverick/r-cran-rodbc_1.3-2-1maverick0_i386.deb
+-rw-r--r--      163132 2010/12/11 11:20:17 maverick/r-cran-rpart_3.1.48-1maverick0_amd64.deb
+-rw-r--r--      157156 2010/12/11 11:20:24 maverick/r-cran-rpart_3.1.48-1maverick0_i386.deb
+-rw-r--r--      167934 2011/04/14 10:48:38 maverick/r-cran-rpart_3.1.50-1maverick0_amd64.deb
+-rw-r--r--      161068 2011/04/14 08:13:45 maverick/r-cran-rpart_3.1.50-1maverick0_i386.deb
+-rw-r--r--        2486 2010/12/06 20:22:09 maverick/r-cran-spatial_7.3-2-1maverick0.diff.gz
+-rw-r--r--        1426 2010/12/06 20:22:09 maverick/r-cran-spatial_7.3-2-1maverick0.dsc
+-rw-r--r--      102142 2010/12/06 21:47:19 maverick/r-cran-spatial_7.3-2-1maverick0_amd64.deb
+-rw-r--r--       99116 2010/12/06 22:29:37 maverick/r-cran-spatial_7.3-2-1maverick0_i386.deb
+-rw-r--r--       41294 2010/12/06 20:22:09 maverick/r-cran-spatial_7.3-2.orig.tar.gz
+-rw-r--r--     2586912 2010/11/21 21:19:58 maverick/r-cran-survival_2.36-1-1maverick0_amd64.deb
+-rw-r--r--     2568214 2010/11/21 21:20:09 maverick/r-cran-survival_2.36-1-1maverick0_i386.deb
+-rw-r--r--     2293004 2011/02/16 19:17:29 maverick/r-cran-survival_2.36-3-1maverick0_amd64.deb
+-rw-r--r--     2271764 2011/02/16 19:13:05 maverick/r-cran-survival_2.36-3-1maverick0_i386.deb
+-rw-r--r--     2291720 2011/02/19 09:04:26 maverick/r-cran-survival_2.36-4-1maverick0_amd64.deb
+-rw-r--r--     2269690 2011/02/19 09:04:26 maverick/r-cran-survival_2.36-4-1maverick0_i386.deb
+-rw-r--r--     2292886 2011/02/21 22:52:51 maverick/r-cran-survival_2.36-5-1maverick0_amd64.deb
+-rw-r--r--     2272378 2011/02/21 22:52:57 maverick/r-cran-survival_2.36-5-1maverick0_i386.deb
+-rw-r--r--     2456526 2011/04/15 10:24:19 maverick/r-cran-survival_2.36-8-1maverick0_amd64.deb
+-rw-r--r--     2436464 2011/04/15 09:17:24 maverick/r-cran-survival_2.36-8-1maverick0_i386.deb
+-rw-r--r--     2460872 2011/05/02 10:14:26 maverick/r-cran-survival_2.36-9-1maverick0_amd64.deb
+-rw-r--r--     2438776 2011/05/02 11:49:28 maverick/r-cran-survival_2.36-9-1maverick0_i386.deb
+-rw-r--r--        8822 2010/12/06 22:29:25 maverick/r-cran-vr_7.3-0-2maverick0_all.deb
+-rw-r--r--      595114 2011/02/06 18:52:50 maverick/r-doc-html_2.12.1-1maverick1_all.deb
+-rw-r--r--      594714 2010/12/16 19:42:50 maverick/r-doc-html_2.12.1-1maverick_all.deb
+-rw-r--r--      601160 2011/02/25 23:12:45 maverick/r-doc-html_2.12.2-1maverick0_all.deb
+-rw-r--r--      613856 2011/04/13 14:53:59 maverick/r-doc-html_2.13.0-1maverick0_all.deb
+-rw-r--r--      614292 2011/05/29 22:16:43 maverick/r-doc-html_2.13.0-2maverick0_all.deb
+-rw-r--r--      618494 2011/07/09 07:17:16 maverick/r-doc-html_2.13.1-1maverick0_all.deb
+-rw-r--r--      512088 2011/02/06 18:52:46 maverick/r-doc-info_2.12.1-1maverick1_all.deb
+-rw-r--r--      511984 2010/12/16 19:42:49 maverick/r-doc-info_2.12.1-1maverick_all.deb
+-rw-r--r--      517622 2011/02/25 23:12:45 maverick/r-doc-info_2.12.2-1maverick0_all.deb
+-rw-r--r--      525122 2011/04/13 14:53:59 maverick/r-doc-info_2.13.0-1maverick0_all.deb
+-rw-r--r--      525894 2011/05/29 22:16:43 maverick/r-doc-info_2.13.0-2maverick0_all.deb
+-rw-r--r--      529616 2011/07/09 07:17:16 maverick/r-doc-info_2.13.1-1maverick0_all.deb
+-rw-r--r--     8015292 2011/02/06 18:52:43 maverick/r-doc-pdf_2.12.1-1maverick1_all.deb
+-rw-r--r--     8015352 2010/12/16 19:42:49 maverick/r-doc-pdf_2.12.1-1maverick_all.deb
+-rw-r--r--     8049288 2011/02/25 23:12:42 maverick/r-doc-pdf_2.12.2-1maverick0_all.deb
+-rw-r--r--     8145120 2011/04/13 14:53:58 maverick/r-doc-pdf_2.13.0-1maverick0_all.deb
+-rw-r--r--     8145108 2011/05/29 22:16:43 maverick/r-doc-pdf_2.13.0-2maverick0_all.deb
+-rw-r--r--     8208356 2011/07/09 07:17:16 maverick/r-doc-pdf_2.13.1-1maverick0_all.deb
+-rw-r--r--      620816 2011/02/06 19:06:48 maverick/r-mathlib_2.12.1-1maverick1_amd64.deb
+-rw-r--r--      565242 2011/02/06 18:52:52 maverick/r-mathlib_2.12.1-1maverick1_i386.deb
+-rw-r--r--      620212 2010/12/16 19:42:59 maverick/r-mathlib_2.12.1-1maverick_amd64.deb
+-rw-r--r--      565964 2010/12/16 19:43:02 maverick/r-mathlib_2.12.1-1maverick_i386.deb
+-rw-r--r--      623770 2011/02/25 23:32:14 maverick/r-mathlib_2.12.2-1maverick0_amd64.deb
+-rw-r--r--      568864 2011/02/25 23:12:48 maverick/r-mathlib_2.12.2-1maverick0_i386.deb
+-rw-r--r--      633952 2011/04/13 14:54:00 maverick/r-mathlib_2.13.0-1maverick0_amd64.deb
+-rw-r--r--      580112 2011/04/13 14:54:02 maverick/r-mathlib_2.13.0-1maverick0_i386.deb
+-rw-r--r--      634158 2011/05/29 22:16:41 maverick/r-mathlib_2.13.0-2maverick0_amd64.deb
+-rw-r--r--      579520 2011/05/29 22:16:45 maverick/r-mathlib_2.13.0-2maverick0_i386.deb
+-rw-r--r--      636326 2011/07/09 07:27:15 maverick/r-mathlib_2.13.1-1maverick0_amd64.deb
+-rw-r--r--      582006 2011/07/09 07:17:19 maverick/r-mathlib_2.13.1-1maverick0_i386.deb
+-rw-r--r--        2678 2011/02/06 18:52:40 maverick/r-recommended_2.12.1-1maverick1_all.deb
+-rw-r--r--        2672 2010/12/16 19:42:49 maverick/r-recommended_2.12.1-1maverick_all.deb
+-rw-r--r--        2676 2011/02/25 23:12:35 maverick/r-recommended_2.12.2-1maverick0_all.deb
+-rw-r--r--        2682 2011/04/13 14:53:58 maverick/r-recommended_2.13.0-1maverick0_all.deb
+-rw-r--r--        2680 2011/05/29 22:16:42 maverick/r-recommended_2.13.0-2maverick0_all.deb
+-rw-r--r--        2678 2011/07/09 07:17:15 maverick/r-recommended_2.13.1-1maverick0_all.deb
+-rw-r--r--        4308 2010/12/16 08:16:19 maverick/rmatrix_0.999375-46-1maverick0.diff.gz
+-rw-r--r--        1387 2010/12/16 08:16:19 maverick/rmatrix_0.999375-46-1maverick0.dsc
+-rw-r--r--     2621637 2010/12/16 08:11:44 maverick/rmatrix_0.999375-46.orig.tar.gz
+-rw-r--r--        4323 2011/02/25 17:08:19 maverick/rmatrix_0.999375-47-1maverick0.diff.gz
+-rw-r--r--        1387 2011/02/25 17:08:19 maverick/rmatrix_0.999375-47-1maverick0.dsc
+-rw-r--r--     2478231 2011/02/25 16:59:38 maverick/rmatrix_0.999375-47.orig.tar.gz
+-rw-r--r--        4348 2011/03/19 09:12:46 maverick/rmatrix_0.999375-48-1maverick0.diff.gz
+-rw-r--r--        1387 2011/03/19 09:12:46 maverick/rmatrix_0.999375-48-1maverick0.dsc
+-rw-r--r--     2476556 2011/03/19 09:07:47 maverick/rmatrix_0.999375-48.orig.tar.gz
+-rw-r--r--        4334 2011/04/02 10:13:19 maverick/rmatrix_0.999375-49-1maverick0.diff.gz
+-rw-r--r--        1387 2011/04/02 10:13:19 maverick/rmatrix_0.999375-49-1maverick0.dsc
+-rw-r--r--     2568569 2011/04/02 10:05:17 maverick/rmatrix_0.999375-49.orig.tar.gz
+-rw-r--r--        4367 2011/04/09 21:22:20 maverick/rmatrix_0.999375-50-1maverick0.diff.gz
+-rw-r--r--        1387 2011/04/09 21:22:20 maverick/rmatrix_0.999375-50-1maverick0.dsc
+-rw-r--r--     2484252 2011/04/09 21:17:08 maverick/rmatrix_0.999375-50.orig.tar.gz
+-rw-r--r--        3841 2010/12/06 21:47:18 maverick/rodbc_1.3-2-1maverick0.diff.gz
+-rw-r--r--        1313 2010/12/06 21:47:18 maverick/rodbc_1.3-2-1maverick0.dsc
+-rw-r--r--     1108358 2010/12/06 21:47:18 maverick/rodbc_1.3-2.orig.tar.gz
+-rw-r--r--        3290 2010/12/11 11:09:18 maverick/rpart_3.1.48-1maverick0.diff.gz
+-rw-r--r--        1332 2010/12/11 11:09:18 maverick/rpart_3.1.48-1maverick0.dsc
+-rw-r--r--      135804 2010/12/11 10:56:41 maverick/rpart_3.1.48.orig.tar.gz
+-rw-r--r--        3341 2011/04/14 07:32:53 maverick/rpart_3.1.50-1maverick0.diff.gz
+-rw-r--r--        1332 2011/04/14 07:32:53 maverick/rpart_3.1.50-1maverick0.dsc
+-rw-r--r--      135545 2011/04/14 07:32:52 maverick/rpart_3.1.50.orig.tar.gz
+-rw-r--r--       48078 2010/12/26 09:27:16 maverick/rpy_1.0.3-17maverick0.diff.gz
+-rw-r--r--        1426 2010/12/26 09:27:16 maverick/rpy_1.0.3-17maverick0.dsc
+-rw-r--r--       87009 2010/12/07 11:30:50 maverick/rpy_1.0.3.orig.tar.gz
+-rw-r--r--        2983 2010/11/21 20:00:06 maverick/survival_2.36-1-1maverick0.diff.gz
+-rw-r--r--        1327 2010/11/21 20:00:06 maverick/survival_2.36-1-1maverick0.dsc
+-rw-r--r--      805132 2010/11/21 20:00:06 maverick/survival_2.36-1.orig.tar.gz
+-rw-r--r--      807845 2010/11/30 16:03:18 maverick/survival_2.36-2.orig.tar.gz
+-rw-r--r--        3085 2011/02/16 19:03:44 maverick/survival_2.36-3-1maverick0.diff.gz
+-rw-r--r--        1330 2011/02/16 19:03:44 maverick/survival_2.36-3-1maverick0.dsc
+-rw-r--r--     1085275 2011/02/16 19:03:44 maverick/survival_2.36-3.orig.tar.gz
+-rw-r--r--        3030 2011/02/19 08:57:10 maverick/survival_2.36-4-1maverick0.diff.gz
+-rw-r--r--        1330 2011/02/19 08:57:10 maverick/survival_2.36-4-1maverick0.dsc
+-rw-r--r--     1074017 2011/02/19 08:57:10 maverick/survival_2.36-4.orig.tar.gz
+-rw-r--r--        3087 2011/02/21 22:42:10 maverick/survival_2.36-5-1maverick0.diff.gz
+-rw-r--r--        1330 2011/02/21 22:42:10 maverick/survival_2.36-5-1maverick0.dsc
+-rw-r--r--     1076882 2011/02/21 22:22:38 maverick/survival_2.36-5.orig.tar.gz
+-rw-r--r--        3084 2011/04/15 07:37:45 maverick/survival_2.36-8-1maverick0.diff.gz
+-rw-r--r--        1330 2011/04/15 07:37:45 maverick/survival_2.36-8-1maverick0.dsc
+-rw-r--r--     1243570 2011/04/15 07:32:21 maverick/survival_2.36-8.orig.tar.gz
+-rw-r--r--        3080 2011/05/01 12:53:54 maverick/survival_2.36-9-1maverick0.diff.gz
+-rw-r--r--        1330 2011/05/01 12:53:54 maverick/survival_2.36-9-1maverick0.dsc
+-rw-r--r--     1243891 2011/05/01 12:47:52 maverick/survival_2.36-9.orig.tar.gz
+-rw-r--r--        5067 2010/12/06 20:22:06 maverick/vr_7.3-0-2maverick0.diff.gz
+-rw-r--r--        1263 2010/12/06 20:22:06 maverick/vr_7.3-0-2maverick0.dsc
+-rw-r--r--         628 2010/12/06 20:22:06 maverick/vr_7.3-0.orig.tar.gz
+
+sent 16642 bytes  received 13 bytes  33310.00 bytes/sec
+total size is 515812571  speedup is 30970.43
+sending incremental file list
+
+sent 2096 bytes  received 12 bytes  4216.00 bytes/sec
+total size is 204468577  speedup is 96996.48
+sending incremental file list
+
+sent 129 bytes  received 12 bytes  282.00 bytes/sec
+total size is 85823798  speedup is 608679.42
+sending incremental file list
+
+sent 156 bytes  received 12 bytes  336.00 bytes/sec
+total size is 1550002  speedup is 9226.20
+sending incremental file list
+
+sent 48 bytes  received 12 bytes  120.00 bytes/sec
+total size is 1108358  speedup is 18472.63
+sending incremental file list
+
+sent 328 bytes  received 12 bytes  680.00 bytes/sec
+total size is 658585  speedup is 1937.01
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 271349  speedup is 3192.34
+sending incremental file list
+
+sent 110 bytes  received 12 bytes  244.00 bytes/sec
+total size is 205170  speedup is 1681.72
+sending incremental file list
+
+sent 57 bytes  received 12 bytes  138.00 bytes/sec
+total size is 41294  speedup is 598.46
+sending incremental file list
+
+sent 879 bytes  received 12 bytes  1782.00 bytes/sec
+total size is 28665532  speedup is 32172.31
+sending incremental file list
+
+sent 190 bytes  received 12 bytes  404.00 bytes/sec
+total size is 7336612  speedup is 36319.86
+sending incremental file list
+
+sent 127 bytes  received 12 bytes  278.00 bytes/sec
+total size is 15152  speedup is 109.01
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 628  speedup is 11.02
+sending incremental file list
+
+sent 1079 bytes  received 12 bytes  2182.00 bytes/sec
+total size is 9527169  speedup is 8732.51
+sending incremental file list
+
+sent 242 bytes  received 12 bytes  508.00 bytes/sec
+total size is 3489439  speedup is 13737.95
+sending incremental file list
+
+sent 657 bytes  received 12 bytes  1338.00 bytes/sec
+total size is 55338472  speedup is 82718.19
+sending incremental file list
+
+sent 392 bytes  received 12 bytes  808.00 bytes/sec
+total size is 7210942  speedup is 17848.87
+sending incremental file list
+
+sent 202 bytes  received 12 bytes  428.00 bytes/sec
+total size is 16066  speedup is 75.07
+sending incremental file list
+
+sent 285 bytes  received 12 bytes  594.00 bytes/sec
+total size is 1358848  speedup is 4575.25
+sending incremental file list
+
+sent 96 bytes  received 12 bytes  216.00 bytes/sec
+total size is 649564  speedup is 6014.48
+sending incremental file list
+
+sent 325 bytes  received 12 bytes  674.00 bytes/sec
+total size is 1407624  speedup is 4176.93
+sending incremental file list
+
+sent 101 bytes  received 12 bytes  226.00 bytes/sec
+total size is 654760  speedup is 5794.34
+sending incremental file list
+
+sent 105 bytes  received 12 bytes  234.00 bytes/sec
+total size is 139090  speedup is 1188.80
+sending incremental file list
+
+sent 78 bytes  received 12 bytes  180.00 bytes/sec
+total size is 40259  speedup is 447.32
+sending incremental file list
+
+sent 139 bytes  received 12 bytes  302.00 bytes/sec
+total size is 48154  speedup is 318.90
+sending incremental file list
+
+sent 98 bytes  received 12 bytes  220.00 bytes/sec
+total size is 37166  speedup is 337.87
+sending incremental file list
+
+sent 81 bytes  received 12 bytes  186.00 bytes/sec
+total size is 5838040  speedup is 62774.62
+sending incremental file list
+
+sent 69 bytes  received 12 bytes  162.00 bytes/sec
+total size is 15744969  speedup is 194382.33
+sending incremental file list
+
+sent 129 bytes  received 12 bytes  282.00 bytes/sec
+total size is 326661  speedup is 2316.74
+sending incremental file list
+
+sent 97 bytes  received 12 bytes  218.00 bytes/sec
+total size is 999755  speedup is 9172.06
+sending incremental file list
+
+sent 500 bytes  received 12 bytes  1024.00 bytes/sec
+total size is 372532  speedup is 727.60
+sending incremental file list
+
+sent 100 bytes  received 12 bytes  224.00 bytes/sec
+total size is 92523  speedup is 826.10
+sending incremental file list
+
+sent 269 bytes  received 12 bytes  562.00 bytes/sec
+total size is 2766979  speedup is 9846.90
+sending incremental file list
+
+sent 100 bytes  received 12 bytes  224.00 bytes/sec
+total size is 1020655  speedup is 9112.99
+sending incremental file list
+
+sent 106 bytes  received 12 bytes  236.00 bytes/sec
+total size is 69249  speedup is 586.86
+sending incremental file list
+
+sent 50 bytes  received 12 bytes  124.00 bytes/sec
+total size is 128104  speedup is 2066.19
+sending incremental file list
+
+sent 222 bytes  received 12 bytes  468.00 bytes/sec
+total size is 3318787  speedup is 14182.85
+sending incremental file list
+
+sent 101 bytes  received 12 bytes  226.00 bytes/sec
+total size is 1365600  speedup is 12084.96
+sending incremental file list
+
+sent 138 bytes  received 12 bytes  300.00 bytes/sec
+total size is 5898634  speedup is 39324.23
+sending incremental file list
+
+sent 150 bytes  received 12 bytes  324.00 bytes/sec
+total size is 12629245  speedup is 77958.30
+sending incremental file list
+
+sent 121 bytes  received 12 bytes  266.00 bytes/sec
+total size is 1650104  speedup is 12406.80
+sending incremental file list
+
+sent 139 bytes  received 12 bytes  302.00 bytes/sec
+total size is 2328620  speedup is 15421.32
+sending incremental file list
+
+sent 301 bytes  received 12 bytes  626.00 bytes/sec
+total size is 6379936  speedup is 20383.18
+sending incremental file list
+
+sent 119 bytes  received 12 bytes  262.00 bytes/sec
+total size is 2858445  speedup is 21820.19
+sending incremental file list
+
+sent 111 bytes  received 12 bytes  246.00 bytes/sec
+total size is 130748  speedup is 1062.99
+sending incremental file list
+
+sent 54 bytes  received 12 bytes  132.00 bytes/sec
+total size is 23418  speedup is 354.82
+sending incremental file list
+
+sent 214 bytes  received 12 bytes  452.00 bytes/sec
+total size is 269906  speedup is 1194.27
+sending incremental file list
+
+sent 46 bytes  received 12 bytes  116.00 bytes/sec
+total size is 87009  speedup is 1500.16
+sending incremental file list
+
+sent 87 bytes  received 12 bytes  198.00 bytes/sec
+total size is 499258  speedup is 5043.01
+sending incremental file list
+drwxr-xr-x       20480 2011/07/25 06:09:36 natty
+-rw-r--r--      153094 2011/07/15 09:11:50 natty/Packages
+-rw-r--r--       24583 2011/07/15 09:11:50 natty/Packages.gz
+-rw-r--r--        1345 2011/07/25 06:09:36 natty/Release
+-rw-r--r--         490 2011/07/25 06:09:36 natty/Release.gpg
+-rw-r--r--       41980 2011/07/15 09:11:52 natty/Sources
+-rw-r--r--       12722 2011/07/15 09:11:52 natty/Sources.gz
+-rw-r--r--        3017 2011/03/27 09:57:41 natty/boot_1.2.43-1natty0.diff.gz
+-rw-r--r--        1283 2011/03/27 09:57:41 natty/boot_1.2.43-1natty0.dsc
+-rw-r--r--      212942 2010/11/21 18:28:55 natty/boot_1.2.43.orig.tar.gz
+-rw-r--r--        3009 2011/05/29 21:22:10 natty/boot_1.3-1-1natty0.diff.gz
+-rw-r--r--        1276 2011/05/29 21:22:10 natty/boot_1.3-1-1natty0.dsc
+-rw-r--r--      217432 2011/05/29 21:22:10 natty/boot_1.3-1.orig.tar.gz
+-rw-r--r--        3011 2011/06/11 09:17:17 natty/boot_1.3-2-1natty0.diff.gz
+-rw-r--r--        1276 2011/06/11 09:17:17 natty/boot_1.3-2-1natty0.dsc
+-rw-r--r--      219190 2011/06/11 09:11:55 natty/boot_1.3-2.orig.tar.gz
+-rw-r--r--      213663 2010/11/21 20:00:16 natty/cluster_1.13.2.orig.tar.gz
+-rw-r--r--        3167 2011/03/27 09:57:39 natty/cluster_1.13.3-1natty0.diff.gz
+-rw-r--r--        1307 2011/03/27 09:57:39 natty/cluster_1.13.3-1natty0.dsc
+-rw-r--r--      214765 2011/02/21 17:42:03 natty/cluster_1.13.3.orig.tar.gz
+-rw-r--r--        3153 2011/06/09 09:31:57 natty/cluster_1.14.0-1natty0.diff.gz
+-rw-r--r--        1307 2011/06/09 09:31:57 natty/cluster_1.14.0-1natty0.dsc
+-rw-r--r--      226332 2011/06/09 08:57:19 natty/cluster_1.14.0.orig.tar.gz
+-rw-r--r--       12385 2010/12/06 17:15:54 natty/codetools_0.2-6.orig.tar.gz
+-rw-r--r--       12389 2011/01/12 22:06:40 natty/codetools_0.2-7.orig.tar.gz
+-rw-r--r--        2187 2011/03/27 09:57:39 natty/codetools_0.2-8-1natty0.diff.gz
+-rw-r--r--        1313 2011/03/27 09:57:39 natty/codetools_0.2-8-1natty0.dsc
+-rw-r--r--       12392 2011/02/16 18:57:40 natty/codetools_0.2-8.orig.tar.gz
+-rw-r--r--     5701688 2010/12/07 11:30:43 natty/ess_5.12.orig.tar.gz
+-rw-r--r--        9522 2011/04/28 08:28:42 natty/ess_5.13-1natty0.diff.gz
+-rw-r--r--        1498 2011/04/28 08:28:42 natty/ess_5.13-1natty0.dsc
+-rw-r--r--     5827020 2011/04/28 17:57:59 natty/ess_5.13-1natty0_all.deb
+-rw-r--r--    10043281 2011/02/16 18:13:23 natty/ess_5.13.orig.tar.gz
+-rw-r--r--      330649 2010/11/30 14:13:09 natty/foreign_0.8.41.orig.tar.gz
+-rw-r--r--      334727 2011/02/12 10:32:00 natty/foreign_0.8.42.orig.tar.gz
+-rw-r--r--        3482 2011/04/14 07:32:53 natty/foreign_0.8.44-1natty0.diff.gz
+-rw-r--r--        1307 2011/04/14 07:32:53 natty/foreign_0.8.44-1natty0.dsc
+-rw-r--r--      334379 2011/04/14 07:32:53 natty/foreign_0.8.44.orig.tar.gz
+-rw-r--r--        2778 2011/04/28 08:28:42 natty/jags_2.2.0-1natty0.diff.gz
+-rw-r--r--        1518 2011/04/28 08:28:42 natty/jags_2.2.0-1natty0.dsc
+-rw-r--r--     1476540 2011/04/28 19:18:00 natty/jags_2.2.0-1natty0_amd64.deb
+-rw-r--r--     1417216 2011/04/28 18:02:51 natty/jags_2.2.0-1natty0_i386.deb
+-rw-r--r--        2940 2011/05/09 07:27:11 natty/jags_2.2.0-2natty0.diff.gz
+-rw-r--r--        1518 2011/05/09 07:27:11 natty/jags_2.2.0-2natty0.dsc
+-rw-r--r--     1474754 2011/05/09 07:46:55 natty/jags_2.2.0-2natty0_amd64.deb
+-rw-r--r--     1414804 2011/05/09 07:37:00 natty/jags_2.2.0-2natty0_i386.deb
+-rw-r--r--     1621102 2010/11/17 18:26:33 natty/jags_2.2.0.orig.tar.gz
+-rw-r--r--        2975 2011/07/08 14:17:20 natty/jags_3.0.0-1natty0.diff.gz
+-rw-r--r--        1518 2011/07/08 14:17:20 natty/jags_3.0.0-1natty0.dsc
+-rw-r--r--     1471708 2011/07/08 16:18:46 natty/jags_3.0.0-1natty0_amd64.deb
+-rw-r--r--     1412494 2011/07/08 15:47:12 natty/jags_3.0.0-1natty0_i386.deb
+-rw-r--r--     1610047 2011/07/08 14:12:39 natty/jags_3.0.0.orig.tar.gz
+-rw-r--r--        2709 2011/03/27 09:57:38 natty/kernsmooth_2.23-4-1natty0.diff.gz
+-rw-r--r--        1341 2011/03/27 09:57:38 natty/kernsmooth_2.23-4-1natty0.dsc
+-rw-r--r--       31878 2010/11/30 14:13:03 natty/kernsmooth_2.23-4.orig.tar.gz
+-rw-r--r--        2710 2011/05/07 07:02:21 natty/kernsmooth_2.23-5-1natty0.diff.gz
+-rw-r--r--        1341 2011/05/07 07:02:21 natty/kernsmooth_2.23-5-1natty0.dsc
+-rw-r--r--       30243 2011/05/07 07:02:21 natty/kernsmooth_2.23-5.orig.tar.gz
+-rw-r--r--        2672 2011/06/11 09:17:17 natty/kernsmooth_2.23-6-1natty0.diff.gz
+-rw-r--r--        1341 2011/06/11 09:17:17 natty/kernsmooth_2.23-6-1natty0.dsc
+-rw-r--r--       30402 2011/06/11 09:11:55 natty/kernsmooth_2.23-6.orig.tar.gz
+-rw-r--r--      335257 2011/01/06 08:02:56 natty/lattice_0.19-17.orig.tar.gz
+-rw-r--r--        3872 2011/04/25 17:02:41 natty/lattice_0.19-26-1natty0.diff.gz
+-rw-r--r--        1314 2011/04/25 17:02:41 natty/lattice_0.19-26-1natty0.dsc
+-rw-r--r--      339726 2011/04/25 16:57:51 natty/lattice_0.19-26.orig.tar.gz
+-rw-r--r--        3881 2011/07/08 13:57:12 natty/lattice_0.19-30-1natty0.diff.gz
+-rw-r--r--        1314 2011/07/08 13:57:12 natty/lattice_0.19-30-1natty0.dsc
+-rw-r--r--      345672 2011/07/08 13:57:12 natty/lattice_0.19-30.orig.tar.gz
+-rw-r--r--        3127 2011/03/27 09:57:35 natty/littler_0.1.3-1natty0.diff.gz
+-rw-r--r--        1304 2011/03/27 09:57:35 natty/littler_0.1.3-1natty0.dsc
+-rw-r--r--       33014 2011/03/27 10:18:02 natty/littler_0.1.3-1natty0_amd64.deb
+-rw-r--r--       31804 2011/03/27 10:07:26 natty/littler_0.1.3-1natty0_i386.deb
+-rw-r--r--      128104 2010/12/06 21:47:18 natty/littler_0.1.3.orig.tar.gz
+-rw-r--r--      453588 2010/12/06 18:12:58 natty/mgcv_1.7-2.orig.tar.gz
+-rw-r--r--      467580 2011/02/15 18:07:19 natty/mgcv_1.7-3.orig.tar.gz
+-rw-r--r--      467871 2011/03/10 07:27:35 natty/mgcv_1.7-4.orig.tar.gz
+-rw-r--r--      469590 2011/03/27 09:17:18 natty/mgcv_1.7-5.orig.tar.gz
+-rw-r--r--        4072 2011/04/15 07:37:44 natty/mgcv_1.7-6-1natty0.diff.gz
+-rw-r--r--        1304 2011/04/15 07:37:44 natty/mgcv_1.7-6-1natty0.dsc
+-rw-r--r--      469991 2011/04/15 07:32:21 natty/mgcv_1.7-6.orig.tar.gz
+-rw-r--r--        3482 2011/04/14 07:32:52 natty/nlme_3.1.100-1natty0.diff.gz
+-rw-r--r--        1321 2011/04/14 07:32:52 natty/nlme_3.1.100-1natty0.dsc
+-rw-r--r--      698693 2011/04/14 07:32:53 natty/nlme_3.1.100.orig.tar.gz
+-rw-r--r--        3492 2011/05/07 07:06:44 natty/nlme_3.1.101-1natty0.diff.gz
+-rw-r--r--        1321 2011/05/07 07:06:44 natty/nlme_3.1.101-1natty0.dsc
+-rw-r--r--      698787 2011/05/07 07:06:44 natty/nlme_3.1.101.orig.tar.gz
+-rw-r--r--      759332 2010/12/06 18:13:07 natty/nlme_3.1.97.orig.tar.gz
+-rw-r--r--      701633 2011/02/12 10:31:53 natty/nlme_3.1.98.orig.tar.gz
+-rw-r--r--      249492 2011/03/27 10:07:24 natty/python-rpy-doc_1.0.3-17natty0_all.deb
+-rw-r--r--      249766 2011/04/28 18:02:50 natty/python-rpy-doc_1.0.3-18natty0_all.deb
+-rw-r--r--       53268 2011/03/27 10:12:45 natty/python-rpy_1.0.3-17natty0_amd64.deb
+-rw-r--r--       48306 2011/03/27 10:07:27 natty/python-rpy_1.0.3-17natty0_i386.deb
+-rw-r--r--       53286 2011/04/28 19:17:59 natty/python-rpy_1.0.3-18natty0_amd64.deb
+-rw-r--r--       48274 2011/04/28 18:02:50 natty/python-rpy_1.0.3-18natty0_i386.deb
+-rw-r--r--     3095936 2011/04/13 15:24:11 natty/r-base-core-dbg_2.13.0-1natty0_amd64.deb
+-rw-r--r--     2829108 2011/04/13 15:24:14 natty/r-base-core-dbg_2.13.0-1natty0_i386.deb
+-rw-r--r--     3092942 2011/05/29 23:06:48 natty/r-base-core-dbg_2.13.0-2natty0_amd64.deb
+-rw-r--r--     2831646 2011/05/29 23:01:51 natty/r-base-core-dbg_2.13.0-2natty0_i386.deb
+-rw-r--r--     3097156 2011/07/08 23:16:57 natty/r-base-core-dbg_2.13.1-1natty0_amd64.deb
+-rw-r--r--     2833332 2011/07/08 23:11:51 natty/r-base-core-dbg_2.13.1-1natty0_i386.deb
+-rw-r--r--    15094806 2011/04/13 15:24:11 natty/r-base-core_2.13.0-1natty0_amd64.deb
+-rw-r--r--    14778610 2011/04/13 15:24:15 natty/r-base-core_2.13.0-1natty0_i386.deb
+-rw-r--r--    15091254 2011/05/29 23:06:49 natty/r-base-core_2.13.0-2natty0_amd64.deb
+-rw-r--r--    14787816 2011/05/29 23:01:52 natty/r-base-core_2.13.0-2natty0_i386.deb
+-rw-r--r--    15186270 2011/07/08 23:16:58 natty/r-base-core_2.13.1-1natty0_amd64.deb
+-rw-r--r--    14870300 2011/07/08 23:11:51 natty/r-base-core_2.13.1-1natty0_i386.deb
+-rw-r--r--        3496 2011/04/13 15:24:10 natty/r-base-dev_2.13.0-1natty0_all.deb
+-rw-r--r--        3506 2011/05/29 23:01:49 natty/r-base-dev_2.13.0-2natty0_all.deb
+-rw-r--r--        3500 2011/07/08 23:11:49 natty/r-base-dev_2.13.1-1natty0_all.deb
+-rw-r--r--       86770 2011/04/13 15:24:10 natty/r-base-html_2.13.0-1natty0_all.deb
+-rw-r--r--       88256 2011/05/29 23:01:49 natty/r-base-html_2.13.0-2natty0_all.deb
+-rw-r--r--       87570 2011/07/08 23:11:48 natty/r-base-html_2.13.1-1natty0_all.deb
+-rw-r--r--    20806432 2010/12/16 16:52:15 natty/r-base_2.12.1.orig.tar.gz
+-rw-r--r--    21120720 2011/02/25 17:27:20 natty/r-base_2.12.2.orig.tar.gz
+-rw-r--r--       66516 2011/04/13 14:53:56 natty/r-base_2.13.0-1natty0.diff.gz
+-rw-r--r--        2068 2011/04/13 14:53:56 natty/r-base_2.13.0-1natty0.dsc
+-rw-r--r--       35060 2011/04/13 15:24:10 natty/r-base_2.13.0-1natty0_all.deb
+-rw-r--r--       66594 2011/05/29 22:42:13 natty/r-base_2.13.0-2natty0.diff.gz
+-rw-r--r--        2068 2011/05/29 22:42:13 natty/r-base_2.13.0-2natty0.dsc
+-rw-r--r--       35156 2011/05/29 23:01:49 natty/r-base_2.13.0-2natty0_all.deb
+-rw-r--r--    21832899 2011/04/13 14:03:13 natty/r-base_2.13.0.orig.tar.gz
+-rw-r--r--       67055 2011/07/08 22:52:08 natty/r-base_2.13.1-1natty0.diff.gz
+-rw-r--r--        2066 2011/07/08 22:52:08 natty/r-base_2.13.1-1natty0.dsc
+-rw-r--r--       35260 2011/07/08 23:11:49 natty/r-base_2.13.1-1natty0_all.deb
+-rw-r--r--    22063747 2011/07/08 22:52:09 natty/r-base_2.13.1.orig.tar.gz
+-rw-r--r--      445532 2011/03/27 10:03:11 natty/r-cran-boot_1.2.43-1natty0_all.deb
+-rw-r--r--      448786 2011/05/29 21:26:50 natty/r-cran-boot_1.3-1-1natty0_all.deb
+-rw-r--r--      451658 2011/06/11 09:27:03 natty/r-cran-boot_1.3-2-1natty0_all.deb
+-rw-r--r--       20131 2010/11/21 19:21:46 natty/r-cran-class_7.3-2.orig.tar.gz
+-rw-r--r--        2495 2011/03/27 09:57:40 natty/r-cran-class_7.3-3-1natty0.diff.gz
+-rw-r--r--        1409 2011/03/27 09:57:40 natty/r-cran-class_7.3-3-1natty0.dsc
+-rw-r--r--       68044 2011/03/27 10:03:12 natty/r-cran-class_7.3-3-1natty0_amd64.deb
+-rw-r--r--       67142 2011/03/27 10:03:13 natty/r-cran-class_7.3-3-1natty0_i386.deb
+-rw-r--r--       20128 2011/03/27 09:57:40 natty/r-cran-class_7.3-3.orig.tar.gz
+-rw-r--r--      353424 2011/03/27 10:07:24 natty/r-cran-cluster_1.13.3-1natty0_amd64.deb
+-rw-r--r--      346136 2011/03/27 10:03:13 natty/r-cran-cluster_1.13.3-1natty0_i386.deb
+-rw-r--r--      352846 2011/06/09 09:37:38 natty/r-cran-cluster_1.14.0-1natty0_amd64.deb
+-rw-r--r--      346284 2011/06/09 09:42:18 natty/r-cran-cluster_1.14.0-1natty0_i386.deb
+-rw-r--r--       44654 2011/03/27 10:03:12 natty/r-cran-codetools_0.2-8-1natty0_all.deb
+-rw-r--r--      161898 2011/04/14 10:48:38 natty/r-cran-foreign_0.8.44-1natty0_amd64.deb
+-rw-r--r--      159974 2011/04/14 08:13:45 natty/r-cran-foreign_0.8.44-1natty0_i386.deb
+-rw-r--r--       61572 2011/03/27 10:03:12 natty/r-cran-kernsmooth_2.23-4-1natty0_amd64.deb
+-rw-r--r--       59620 2011/03/27 10:03:13 natty/r-cran-kernsmooth_2.23-4-1natty0_i386.deb
+-rw-r--r--       61836 2011/05/07 07:11:49 natty/r-cran-kernsmooth_2.23-5-1natty0_amd64.deb
+-rw-r--r--       59100 2011/05/07 07:11:49 natty/r-cran-kernsmooth_2.23-5-1natty0_i386.deb
+-rw-r--r--       60500 2011/06/11 09:27:02 natty/r-cran-kernsmooth_2.23-6-1natty0_amd64.deb
+-rw-r--r--       57790 2011/06/11 09:27:03 natty/r-cran-kernsmooth_2.23-6-1natty0_i386.deb
+-rw-r--r--      683020 2011/04/25 17:13:10 natty/r-cran-lattice_0.19-26-1natty0_amd64.deb
+-rw-r--r--      681934 2011/04/25 17:13:10 natty/r-cran-lattice_0.19-26-1natty0_i386.deb
+-rw-r--r--      694788 2011/07/08 15:27:22 natty/r-cran-lattice_0.19-30-1natty0_amd64.deb
+-rw-r--r--      696856 2011/07/08 15:27:22 natty/r-cran-lattice_0.19-30-1natty0_i386.deb
+-rw-r--r--        2872 2011/03/27 09:57:40 natty/r-cran-mass_7.3-11-1natty0.diff.gz
+-rw-r--r--        1397 2011/03/27 09:57:40 natty/r-cran-mass_7.3-11-1natty0.dsc
+-rw-r--r--      829320 2011/03/27 10:03:12 natty/r-cran-mass_7.3-11-1natty0_amd64.deb
+-rw-r--r--      827204 2011/03/27 10:07:25 natty/r-cran-mass_7.3-11-1natty0_i386.deb
+-rw-r--r--      455055 2011/03/27 09:57:40 natty/r-cran-mass_7.3-11.orig.tar.gz
+-rw-r--r--        2881 2011/05/30 17:03:08 natty/r-cran-mass_7.3-13-1natty0.diff.gz
+-rw-r--r--        1397 2011/05/30 17:03:08 natty/r-cran-mass_7.3-13-1natty0.dsc
+-rw-r--r--      828330 2011/05/30 17:22:33 natty/r-cran-mass_7.3-13-1natty0_amd64.deb
+-rw-r--r--      825386 2011/05/30 17:12:42 natty/r-cran-mass_7.3-13-1natty0_i386.deb
+-rw-r--r--      456713 2011/05/30 16:53:15 natty/r-cran-mass_7.3-13.orig.tar.gz
+-rw-r--r--      453832 2010/11/21 19:21:47 natty/r-cran-mass_7.3-7.orig.tar.gz
+-rw-r--r--     2982072 2011/04/09 21:37:43 natty/r-cran-matrix_0.999375-50-1natty0_amd64.deb
+-rw-r--r--     2910810 2011/04/09 21:37:43 natty/r-cran-matrix_0.999375-50-1natty0_i386.deb
+-rw-r--r--      849600 2011/04/15 10:24:19 natty/r-cran-mgcv_1.7-6-1natty0_amd64.deb
+-rw-r--r--      795128 2011/04/15 09:17:24 natty/r-cran-mgcv_1.7-6-1natty0_i386.deb
+-rw-r--r--     1597502 2011/04/14 10:59:12 natty/r-cran-nlme_3.1.100-1natty0_amd64.deb
+-rw-r--r--     1587588 2011/04/14 08:13:45 natty/r-cran-nlme_3.1.100-1natty0_i386.deb
+-rw-r--r--     1596222 2011/05/07 07:17:11 natty/r-cran-nlme_3.1.101-1natty0_amd64.deb
+-rw-r--r--     1589008 2011/05/07 07:17:12 natty/r-cran-nlme_3.1.101-1natty0_i386.deb
+-rw-r--r--        2384 2011/03/27 09:57:37 natty/r-cran-nnet_7.3-1-1natty0.diff.gz
+-rw-r--r--        1396 2011/03/27 09:57:37 natty/r-cran-nnet_7.3-1-1natty0.dsc
+-rw-r--r--       64752 2011/03/27 10:07:24 natty/r-cran-nnet_7.3-1-1natty0_amd64.deb
+-rw-r--r--       62216 2011/03/27 10:18:02 natty/r-cran-nnet_7.3-1-1natty0_i386.deb
+-rw-r--r--       23418 2010/11/21 20:00:06 natty/r-cran-nnet_7.3-1.orig.tar.gz
+-rw-r--r--       22909 2011/01/03 21:37:00 natty/r-cran-r2jags_0.02-11.orig.tar.gz
+-rw-r--r--       23867 2011/03/19 18:32:32 natty/r-cran-r2jags_0.02-14.orig.tar.gz
+-rw-r--r--        1640 2011/04/28 08:38:04 natty/r-cran-r2jags_0.02-15-1natty0.debian.tar.gz
+-rw-r--r--        1504 2011/04/28 08:38:04 natty/r-cran-r2jags_0.02-15-1natty0.dsc
+-rw-r--r--       48130 2011/04/29 09:28:01 natty/r-cran-r2jags_0.02-15-1natty0_amd64.deb
+-rw-r--r--       48082 2011/04/29 08:22:58 natty/r-cran-r2jags_0.02-15-1natty0_i386.deb
+-rw-r--r--       23914 2011/03/30 20:22:37 natty/r-cran-r2jags_0.02-15.orig.tar.gz
+-rw-r--r--       62581 2011/03/23 19:23:13 natty/r-cran-rjags_2.2.0-3.orig.tar.gz
+-rw-r--r--        1857 2011/04/28 08:38:04 natty/r-cran-rjags_2.2.0-4-1natty0.debian.tar.gz
+-rw-r--r--        1476 2011/04/28 08:38:04 natty/r-cran-rjags_2.2.0-4-1natty0.dsc
+-rw-r--r--       84464 2011/04/28 19:33:48 natty/r-cran-rjags_2.2.0-4-1natty0_amd64.deb
+-rw-r--r--       84368 2011/04/28 18:08:06 natty/r-cran-rjags_2.2.0-4-1natty0_i386.deb
+-rw-r--r--       62666 2011/04/28 08:38:04 natty/r-cran-rjags_2.2.0-4.orig.tar.gz
+-rw-r--r--       62353 2010/12/28 19:03:36 natty/r-cran-rjags_2.2.0.orig.tar.gz
+-rw-r--r--      776186 2011/03/27 10:07:23 natty/r-cran-rodbc_1.3-2-1natty0_amd64.deb
+-rw-r--r--      775596 2011/03/27 10:07:26 natty/r-cran-rodbc_1.3-2-1natty0_i386.deb
+-rw-r--r--      168250 2011/04/14 10:48:38 natty/r-cran-rpart_3.1.50-1natty0_amd64.deb
+-rw-r--r--      160732 2011/04/14 08:24:48 natty/r-cran-rpart_3.1.50-1natty0_i386.deb
+-rw-r--r--        2528 2011/03/27 09:57:36 natty/r-cran-spatial_7.3-2-1natty0.diff.gz
+-rw-r--r--        1414 2011/03/27 09:57:36 natty/r-cran-spatial_7.3-2-1natty0.dsc
+-rw-r--r--      105774 2011/03/27 10:07:23 natty/r-cran-spatial_7.3-2-1natty0_amd64.deb
+-rw-r--r--      101690 2011/03/27 10:07:27 natty/r-cran-spatial_7.3-2-1natty0_i386.deb
+-rw-r--r--       41294 2010/12/06 20:22:09 natty/r-cran-spatial_7.3-2.orig.tar.gz
+-rw-r--r--     2454306 2011/04/15 10:33:28 natty/r-cran-survival_2.36-8-1natty0_amd64.deb
+-rw-r--r--     2432454 2011/04/15 09:17:24 natty/r-cran-survival_2.36-8-1natty0_i386.deb
+-rw-r--r--     2459112 2011/05/02 10:14:25 natty/r-cran-survival_2.36-9-1natty0_amd64.deb
+-rw-r--r--     2437670 2011/05/02 11:49:28 natty/r-cran-survival_2.36-9-1natty0_i386.deb
+-rw-r--r--        9280 2011/03/27 10:07:22 natty/r-cran-vr_7.3-0-2natty0_all.deb
+-rw-r--r--      613282 2011/04/13 15:24:10 natty/r-doc-html_2.13.0-1natty0_all.deb
+-rw-r--r--      612926 2011/05/29 23:01:49 natty/r-doc-html_2.13.0-2natty0_all.deb
+-rw-r--r--      618904 2011/07/08 23:11:48 natty/r-doc-html_2.13.1-1natty0_all.deb
+-rw-r--r--      525818 2011/04/13 15:24:10 natty/r-doc-info_2.13.0-1natty0_all.deb
+-rw-r--r--      525440 2011/05/29 23:01:48 natty/r-doc-info_2.13.0-2natty0_all.deb
+-rw-r--r--      529590 2011/07/08 23:11:48 natty/r-doc-info_2.13.1-1natty0_all.deb
+-rw-r--r--     8145142 2011/04/13 15:24:09 natty/r-doc-pdf_2.13.0-1natty0_all.deb
+-rw-r--r--     8145512 2011/05/29 23:01:48 natty/r-doc-pdf_2.13.0-2natty0_all.deb
+-rw-r--r--     8207932 2011/07/08 23:11:48 natty/r-doc-pdf_2.13.1-1natty0_all.deb
+-rw-r--r--      644954 2011/04/13 15:24:11 natty/r-mathlib_2.13.0-1natty0_amd64.deb
+-rw-r--r--      585830 2011/04/13 15:24:13 natty/r-mathlib_2.13.0-1natty0_i386.deb
+-rw-r--r--      645408 2011/05/29 23:06:48 natty/r-mathlib_2.13.0-2natty0_amd64.deb
+-rw-r--r--      586090 2011/05/29 23:01:50 natty/r-mathlib_2.13.0-2natty0_i386.deb
+-rw-r--r--      648616 2011/07/08 23:16:57 natty/r-mathlib_2.13.1-1natty0_amd64.deb
+-rw-r--r--      585908 2011/07/08 23:11:50 natty/r-mathlib_2.13.1-1natty0_i386.deb
+-rw-r--r--        2668 2011/04/13 15:24:09 natty/r-recommended_2.13.0-1natty0_all.deb
+-rw-r--r--        2678 2011/05/29 23:01:48 natty/r-recommended_2.13.0-2natty0_all.deb
+-rw-r--r--        2684 2011/07/08 23:11:47 natty/r-recommended_2.13.1-1natty0_all.deb
+-rw-r--r--     2621637 2010/12/16 08:11:44 natty/rmatrix_0.999375-46.orig.tar.gz
+-rw-r--r--     2478231 2011/02/25 16:59:38 natty/rmatrix_0.999375-47.orig.tar.gz
+-rw-r--r--     2476556 2011/03/19 09:07:47 natty/rmatrix_0.999375-48.orig.tar.gz
+-rw-r--r--     2568569 2011/04/02 10:05:17 natty/rmatrix_0.999375-49.orig.tar.gz
+-rw-r--r--        4377 2011/04/09 21:27:26 natty/rmatrix_0.999375-50-1natty0.diff.gz
+-rw-r--r--        1375 2011/04/09 21:27:25 natty/rmatrix_0.999375-50-1natty0.dsc
+-rw-r--r--     2484252 2011/04/09 21:17:08 natty/rmatrix_0.999375-50.orig.tar.gz
+-rw-r--r--        3830 2011/03/27 09:57:35 natty/rodbc_1.3-2-1natty0.diff.gz
+-rw-r--r--        1301 2011/03/27 09:57:35 natty/rodbc_1.3-2-1natty0.dsc
+-rw-r--r--     1108358 2010/12/06 21:47:18 natty/rodbc_1.3-2.orig.tar.gz
+-rw-r--r--      135804 2010/12/11 10:56:41 natty/rpart_3.1.48.orig.tar.gz
+-rw-r--r--        3302 2011/04/14 07:32:52 natty/rpart_3.1.50-1natty0.diff.gz
+-rw-r--r--        1320 2011/04/14 07:32:52 natty/rpart_3.1.50-1natty0.dsc
+-rw-r--r--      135545 2011/04/14 07:32:52 natty/rpart_3.1.50.orig.tar.gz
+-rw-r--r--       65375 2011/04/28 08:28:41 natty/rpy_1.0.3-18natty0.diff.gz
+-rw-r--r--        1397 2011/04/28 08:28:41 natty/rpy_1.0.3-18natty0.dsc
+-rw-r--r--       87009 2010/12/07 11:30:50 natty/rpy_1.0.3.orig.tar.gz
+-rw-r--r--      805132 2010/11/21 20:00:06 natty/survival_2.36-1.orig.tar.gz
+-rw-r--r--      807845 2010/11/30 16:03:18 natty/survival_2.36-2.orig.tar.gz
+-rw-r--r--     1085275 2011/02/16 19:03:44 natty/survival_2.36-3.orig.tar.gz
+-rw-r--r--     1074017 2011/02/19 08:57:10 natty/survival_2.36-4.orig.tar.gz
+-rw-r--r--     1076882 2011/02/21 22:22:38 natty/survival_2.36-5.orig.tar.gz
+-rw-r--r--        3071 2011/04/15 07:37:44 natty/survival_2.36-8-1natty0.diff.gz
+-rw-r--r--        1318 2011/04/15 07:37:44 natty/survival_2.36-8-1natty0.dsc
+-rw-r--r--     1243570 2011/04/15 07:32:21 natty/survival_2.36-8.orig.tar.gz
+-rw-r--r--        3122 2011/05/01 12:53:54 natty/survival_2.36-9-1natty0.diff.gz
+-rw-r--r--        1318 2011/05/01 12:53:54 natty/survival_2.36-9-1natty0.dsc
+-rw-r--r--     1243891 2011/05/01 12:47:52 natty/survival_2.36-9.orig.tar.gz
+-rw-r--r--        5075 2011/03/27 09:57:35 natty/vr_7.3-0-2natty0.diff.gz
+-rw-r--r--        1251 2011/03/27 09:57:35 natty/vr_7.3-0-2natty0.dsc
+-rw-r--r--         628 2010/12/06 20:22:06 natty/vr_7.3-0.orig.tar.gz
+
+sent 9892 bytes  received 13 bytes  19810.00 bytes/sec
+total size is 328106017  speedup is 33125.29
+sending incremental file list
+
+sent 989 bytes  received 12 bytes  2002.00 bytes/sec
+total size is 108174117  speedup is 108066.05
+sending incremental file list
+
+sent 129 bytes  received 12 bytes  282.00 bytes/sec
+total size is 85823798  speedup is 608679.42
+sending incremental file list
+
+sent 173 bytes  received 12 bytes  370.00 bytes/sec
+total size is 1556913  speedup is 8415.75
+sending incremental file list
+
+sent 48 bytes  received 12 bytes  120.00 bytes/sec
+total size is 1108358  speedup is 18472.63
+sending incremental file list
+
+sent 125 bytes  received 12 bytes  274.00 bytes/sec
+total size is 333604  speedup is 2435.07
+sending incremental file list
+
+sent 73 bytes  received 12 bytes  170.00 bytes/sec
+total size is 271349  speedup is 3192.34
+sending incremental file list
+
+sent 107 bytes  received 12 bytes  238.00 bytes/sec
+total size is 211406  speedup is 1776.52
+sending incremental file list
+
+sent 57 bytes  received 12 bytes  138.00 bytes/sec
+total size is 41294  speedup is 598.46
+sending incremental file list
+
+sent 316 bytes  received 12 bytes  656.00 bytes/sec
+total size is 9792371  speedup is 29854.79
+sending incremental file list
+
+sent 190 bytes  received 12 bytes  404.00 bytes/sec
+total size is 7336612  speedup is 36319.86
+sending incremental file list
+
+sent 97 bytes  received 12 bytes  218.00 bytes/sec
+total size is 15606  speedup is 143.17
+sending incremental file list
+
+sent 45 bytes  received 12 bytes  114.00 bytes/sec
+total size is 628  speedup is 11.02
+sending incremental file list
+
+sent 536 bytes  received 12 bytes  1096.00 bytes/sec
+total size is 8952284  speedup is 16336.28
+sending incremental file list
+
+sent 242 bytes  received 12 bytes  508.00 bytes/sec
+total size is 3489439  speedup is 13737.95
+sending incremental file list
+
+sent 312 bytes  received 12 bytes  648.00 bytes/sec
+total size is 27924546  speedup is 86186.87
+sending incremental file list
+
+sent 177 bytes  received 12 bytes  378.00 bytes/sec
+total size is 3696806  speedup is 19559.82
+sending incremental file list
+
+sent 113 bytes  received 12 bytes  250.00 bytes/sec
+total size is 8030  speedup is 64.24
+ hardy:
