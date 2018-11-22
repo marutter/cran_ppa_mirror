@@ -1,9 +1,9 @@
 CRANPackages="boot cluster class codetools emacsen-common ess foreign kernsmooth lattice littler mass matrix mgcv nlme nnet rpy_ rpy2_ rpy-doc r-base r-cran-littler rodbc rpart spatial survival vr jags dh-r"
 
-CRANReleases="trusty xenial artful"
-CRANRelNum="14.04 16.04 17.10"
+CRANReleases="trusty xenial"
+CRANRelNum="14.04 16.04"
 
-CRAN35Releases="trusty xenial bionic"
-CRAN35RelNum="14.04 16.04 18.04"
+CRAN35Releases="trusty xenial bionic cosmic"
+CRAN35RelNum="14.04 16.04 18.04 18.10"
 
 RComponents="r-doc r-mathlib r-recommended"
