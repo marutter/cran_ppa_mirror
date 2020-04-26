@@ -43,8 +43,11 @@ for r in ${releases35}; do
 #   rm /home/mrutter/CRAN/ubuntu/${r}/*${p}*
    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep -i ${r}`
    rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35[$INDEX]}`
-   rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+   if [[ ${p} -ne "ess" ]]
+   then
+     paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35[$INDEX]}`
+     rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+   fi
 #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep orig`
 #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
@@ -58,7 +61,7 @@ for r in ${releases35}; do
 done
 
 ./remove_old.sh
-# #./remove_old35.sh
+./remove_old35.sh
 
 for r in ${releases}; do
   rm -f ${ArchiveDir}/${r}/Release
@@ -67,10 +70,10 @@ for r in ${releases}; do
 #  rm -f ${ArchiveDir}/${r}/*20110218*.*
   sudo apt-ftparchive generate apt-ftparchive_${r}.conf
   sudo apt-ftparchive -c apt-ftparchive_${r}.conf --sha1=no release ${ArchiveDir}/${r}> ${ArchiveDir}/${r}/Release
-  cat ~/.pgp/.zeke | gpg --batch --no-tty --passphrase-fd 0 -abs -o ${ArchiveDir}/${r}/Release.gpg ${ArchiveDir}/${r}/Release
+  gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke -abs -o ${ArchiveDir}/${r}/Release.gpg ${ArchiveDir}/${r}/Release
   if [[ ${r} > "wily" ]]
   then
-    cat ~/.pgp/.zeke | gpg --batch --no-tty --passphrase-fd 0 --clearsign -o ${ArchiveDir}/${r}/InRelease ${ArchiveDir}/${r}/Release
+    gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke --clearsign -o ${ArchiveDir}/${r}/InRelease ${ArchiveDir}/${r}/Release
   fi
   sudo chmod 644 ${ArchiveDir}/${r}/Packages
   sudo chmod 644 ${ArchiveDir}/${r}/Packages.gz
@@ -85,8 +88,8 @@ for r in ${releases35}; do
 #  rm -f ${ArchiveDir}/${r}/*20110218*.*
   sudo apt-ftparchive generate apt-ftparchive_${r}-cran35.conf
   sudo apt-ftparchive -c apt-ftparchive_${r}-cran35.conf --sha1=no release ${ArchiveDir}/${r}-cran35> ${ArchiveDir}/${r}-cran35/Release
-  cat ~/.pgp/.zeke | gpg --batch --no-tty --passphrase-fd 0 -abs -o ${ArchiveDir}/${r}-cran35/Release.gpg ${ArchiveDir}/${r}-cran35/Release
-  cat ~/.pgp/.zeke | gpg --batch --no-tty --passphrase-fd 0 --clearsign -o ${ArchiveDir}/${r}-cran35/InRelease ${ArchiveDir}/${r}-cran35/Release
+  gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke -abs -o ${ArchiveDir}/${r}-cran35/Release.gpg ${ArchiveDir}/${r}-cran35/Release
+  gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke --clearsign -o ${ArchiveDir}/${r}-cran35/InRelease ${ArchiveDir}/${r}-cran35/Release
   sudo chmod 644 ${ArchiveDir}/${r}-cran35/Packages
   sudo chmod 644 ${ArchiveDir}/${r}-cran35/Packages.gz
   sudo chmod 644 ${ArchiveDir}/${r}-cran35/Sources

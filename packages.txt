@@ -3,7 +3,7 @@ CRANPackages="boot cluster class codetools emacsen-common ess foreign kernsmooth
 CRANReleases="trusty xenial"
 CRANRelNum="14.04 16.04"
 
-CRAN35Releases="trusty xenial bionic cosmic"
-CRAN35RelNum="14.04 16.04 18.04 18.10"
+CRAN35Releases="trusty xenial bionic disco eoan"
+CRAN35RelNum="14.04 16.04 18.04 19.04 19.10"
 
 RComponents="r-doc r-mathlib r-recommended"
