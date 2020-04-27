@@ -7,8 +7,8 @@ CRAN35Releases="trusty xenial bionic eoan"
 CRAN35RelNum="14.04 16.04 18.04 19.10"
 CRAN35RelNum2="1404 1604 1804 1910"
 
-CRAN40Releases="xenial bionic eoan focal"
-CRAN40RelNum="16.04 18.04 19.10 20.04"
-CRAN40RelNum2="1604 1804 1910 2004"
+CRAN40Releases="xenial bionic focal"
+CRAN40RelNum="16.04 18.04 20.04"
+CRAN40RelNum2="1604 1804 2004"
 
 RComponents="r-doc r-mathlib r-recommended"
