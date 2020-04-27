@@ -24,48 +24,48 @@ echo ${relnum40np[@]}
 
 #sudo apt-mirror
 
-INDEX=0
-for r in ${releases}; do
- for p in ${packages}; do
-#   rm /home/mrutter/CRAN/ubuntu/${r}/*${p}*
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep -i ${r}`
-   rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep ${relnum[$INDEX]}`
-   rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
-#  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep orig`
-#  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
-   rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
- done
- for p in ${rcomp}; do
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep -i ${r}`
-   rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
- done
- ((INDEX++))
-done
-
-INDEX=0
-for r in ${releases35}; do
- for p in ${packages}; do
-#   rm /home/mrutter/CRAN/ubuntu/${r}/*${p}*
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep -i ${r}`
-   rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
-   if [[ ${p} -ne "ess" ]]
-   then
-     paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35[$INDEX]}`
-     rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
-   fi
-#  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep orig`
-#  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
-   rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
- done
- for p in ${rcomp}; do
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep -i ${r}`
-   rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
- done
- ((INDEX++))
-done
+# INDEX=0
+# for r in ${releases}; do
+#  for p in ${packages}; do
+# #   rm /home/mrutter/CRAN/ubuntu/${r}/*${p}*
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep -i ${r}`
+#    rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep ${relnum[$INDEX]}`
+#    rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
+# #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep orig`
+# #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
+#    rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
+#  done
+#  for p in ${rcomp}; do
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep -i ${r}`
+#    rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
+#  done
+#  ((INDEX++))
+# done
+#
+# INDEX=0
+# for r in ${releases35}; do
+#  for p in ${packages}; do
+# #   rm /home/mrutter/CRAN/ubuntu/${r}/*${p}*
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep -i ${r}`
+#    rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+#    if [[ ${p} -ne "ess" ]]
+#    then
+#      paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35[$INDEX]}`
+#      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+#    fi
+# #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep orig`
+# #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
+#    rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+#  done
+#  for p in ${rcomp}; do
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep -i ${r}`
+#    rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+#  done
+#  ((INDEX++))
+# done
 
 INDEX=0
 for r in ${releases40}; do
@@ -92,42 +92,42 @@ for r in ${releases40}; do
  ((INDEX++))
 done
 
-./remove_old.sh
-./remove_old35.sh
-./remove_old40.sh
+# ./remove_old.sh
+# ./remove_old35.sh
+# ./remove_old40.sh
 
-for r in ${releases}; do
-  rm -f ${ArchiveDir}/${r}/Release
-  rm -f ${ArchiveDir}/${r}/Release.gpg
-  rm -f ${ArchiveDir}/${r}/InRelease
-#  rm -f ${ArchiveDir}/${r}/*20110218*.*
-  sudo apt-ftparchive generate apt-ftparchive_${r}.conf
-  sudo apt-ftparchive -c apt-ftparchive_${r}.conf --sha1=no release ${ArchiveDir}/${r}> ${ArchiveDir}/${r}/Release
-  gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke -abs -o ${ArchiveDir}/${r}/Release.gpg ${ArchiveDir}/${r}/Release
-  if [[ ${r} > "wily" ]]
-  then
-    gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke --clearsign -o ${ArchiveDir}/${r}/InRelease ${ArchiveDir}/${r}/Release
-  fi
-  sudo chmod 644 ${ArchiveDir}/${r}/Packages
-  sudo chmod 644 ${ArchiveDir}/${r}/Packages.gz
-  sudo chmod 644 ${ArchiveDir}/${r}/Sources
-  sudo chmod 644 ${ArchiveDir}/${r}/Sources.gz
-done
-
-for r in ${releases35}; do
-  rm -f ${ArchiveDir}/${r}-cran35/Release
-  rm -f ${ArchiveDir}/${r}-cran35/Release.gpg
-  rm -f ${ArchiveDir}/${r}-cran35/InRelease
-#  rm -f ${ArchiveDir}/${r}/*20110218*.*
-  sudo apt-ftparchive generate apt-ftparchive_${r}-cran35.conf
-  sudo apt-ftparchive -c apt-ftparchive_${r}-cran35.conf --sha1=no release ${ArchiveDir}/${r}-cran35> ${ArchiveDir}/${r}-cran35/Release
-  gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke -abs -o ${ArchiveDir}/${r}-cran35/Release.gpg ${ArchiveDir}/${r}-cran35/Release
-  gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke --clearsign -o ${ArchiveDir}/${r}-cran35/InRelease ${ArchiveDir}/${r}-cran35/Release
-  sudo chmod 644 ${ArchiveDir}/${r}-cran35/Packages
-  sudo chmod 644 ${ArchiveDir}/${r}-cran35/Packages.gz
-  sudo chmod 644 ${ArchiveDir}/${r}-cran35/Sources
-  sudo chmod 644 ${ArchiveDir}/${r}-cran35/Sources.gz
-done
+# for r in ${releases}; do
+#   rm -f ${ArchiveDir}/${r}/Release
+#   rm -f ${ArchiveDir}/${r}/Release.gpg
+#   rm -f ${ArchiveDir}/${r}/InRelease
+# #  rm -f ${ArchiveDir}/${r}/*20110218*.*
+#   sudo apt-ftparchive generate apt-ftparchive_${r}.conf
+#   sudo apt-ftparchive -c apt-ftparchive_${r}.conf --sha1=no release ${ArchiveDir}/${r}> ${ArchiveDir}/${r}/Release
+#   gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke -abs -o ${ArchiveDir}/${r}/Release.gpg ${ArchiveDir}/${r}/Release
+#   if [[ ${r} > "wily" ]]
+#   then
+#     gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke --clearsign -o ${ArchiveDir}/${r}/InRelease ${ArchiveDir}/${r}/Release
+#   fi
+#   sudo chmod 644 ${ArchiveDir}/${r}/Packages
+#   sudo chmod 644 ${ArchiveDir}/${r}/Packages.gz
+#   sudo chmod 644 ${ArchiveDir}/${r}/Sources
+#   sudo chmod 644 ${ArchiveDir}/${r}/Sources.gz
+# done
+#
+# for r in ${releases35}; do
+#   rm -f ${ArchiveDir}/${r}-cran35/Release
+#   rm -f ${ArchiveDir}/${r}-cran35/Release.gpg
+#   rm -f ${ArchiveDir}/${r}-cran35/InRelease
+# #  rm -f ${ArchiveDir}/${r}/*20110218*.*
+#   sudo apt-ftparchive generate apt-ftparchive_${r}-cran35.conf
+#   sudo apt-ftparchive -c apt-ftparchive_${r}-cran35.conf --sha1=no release ${ArchiveDir}/${r}-cran35> ${ArchiveDir}/${r}-cran35/Release
+#   gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke -abs -o ${ArchiveDir}/${r}-cran35/Release.gpg ${ArchiveDir}/${r}-cran35/Release
+#   gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke --clearsign -o ${ArchiveDir}/${r}-cran35/InRelease ${ArchiveDir}/${r}-cran35/Release
+#   sudo chmod 644 ${ArchiveDir}/${r}-cran35/Packages
+#   sudo chmod 644 ${ArchiveDir}/${r}-cran35/Packages.gz
+#   sudo chmod 644 ${ArchiveDir}/${r}-cran35/Sources
+#   sudo chmod 644 ${ArchiveDir}/${r}-cran35/Sources.gz
+# done
 
 for r in ${releases40}; do
   rm -f ${ArchiveDir}/${r}-cran40/Release
