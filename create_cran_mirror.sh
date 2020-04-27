@@ -79,7 +79,7 @@ for r in ${releases40}; do
    then
      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran40
    fi
-   if [[ ${p} -ne "ess" ]]
+   if [[ ${p} != "ess" ]]
    then
      paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep ${relnum40[$INDEX]}`
      echo "I am checking numbers"
