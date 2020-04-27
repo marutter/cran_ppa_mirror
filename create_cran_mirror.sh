@@ -74,21 +74,26 @@ for r in ${releases40}; do
    echo {$p}
 #   rm /home/mrutter/CRAN/ubuntu/${r}/*${p}*
    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep -i ${r}`
+   echo {$paths}
    rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran40
    if [[ ${p} -ne "ess" ]]
    then
      paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep ${relnum40[$INDEX]}`
+     echo {$paths}
      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran40
      paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep ${relnum40np[$INDEX]}`
+     echo {$paths}
      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran40
    fi
 #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep orig`
+   echo {$paths}
 #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
    rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran40
  done
  for p in ${rcomp}; do
    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep -i ${r}`
+   echo {$paths}
    rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran40
  done
  ((INDEX++))
