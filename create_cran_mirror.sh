@@ -128,7 +128,7 @@ for r in ${releases40}; do
   rm -f ${ArchiveDir}/${r}-cran40/InRelease
 #  rm -f ${ArchiveDir}/${r}/*20110218*.*
   sudo apt-ftparchive generate apt-ftparchive_${r}-cran40.conf
-  sudo apt-ftparchive -c apt-ftparchive_${r}-cran35.conf --sha1=no release ${ArchiveDir}/${r}-cran40> ${ArchiveDir}/${r}-cran40/Release
+  sudo apt-ftparchive -c apt-ftparchive_${r}-cran40.conf --sha1=no release ${ArchiveDir}/${r}-cran40> ${ArchiveDir}/${r}-cran40/Release
   gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke -abs -o ${ArchiveDir}/${r}-cran40/Release.gpg ${ArchiveDir}/${r}-cran40/Release
   gpg --pinentry-mode loopback --passphrase-file=/home/mrutter/.pgp/.zeke --clearsign -o ${ArchiveDir}/${r}-cran40/InRelease ${ArchiveDir}/${r}-cran40/Release
   sudo chmod 644 ${ArchiveDir}/${r}-cran40/Packages
