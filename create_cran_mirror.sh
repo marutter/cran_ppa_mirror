@@ -10,6 +10,7 @@ releases=${CRANReleases}
 relnum=(${CRANRelNum})
 releases35=${CRAN35Releases}
 relnum35=(${CRAN35RelNum})
+relnum35np=(${CRAN35RelNum2})
 releases40=${CRAN40Releases}
 relnum40=(${CRAN40RelNum})
 relnum40np=(${CRAN40RelNum2})
@@ -17,8 +18,11 @@ rcomp=${RComponents}
 
 echo ${releases}
 echo ${releases35}
+echo ${releases40}
+echo ${relnum40}
+echo ${relnum40np}
 
-sudo apt-mirror
+#sudo apt-mirror
 
 INDEX=0
 for r in ${releases}; do
