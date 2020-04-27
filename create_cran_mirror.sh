@@ -70,6 +70,8 @@ echo ${relnum40np[@]}
 INDEX=0
 for r in ${releases40}; do
  for p in ${packages}; do
+   echo {$r}
+   echo {$p}
 #   rm /home/mrutter/CRAN/ubuntu/${r}/*${p}*
    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep -i ${r}`
    rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran40
