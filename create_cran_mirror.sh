@@ -71,7 +71,6 @@ for r in ${releases35}; do
    if [[ ${p} != "ess" ]]
    then
      paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35[$INDEX]}`
-     echo "I am checking numbers"
      echo {$paths}
      if [ ! -z "$paths" ]
      then
@@ -100,13 +99,13 @@ for r in ${releases35}; do
    then
      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
    fi
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep -i ${relnum35[$INDEX]}`
+   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35[$INDEX]}`
    echo {$paths}
    if [ ! -z "$paths" ]
    then
      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
    fi
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep -i ${relnum35mp[$INDEX]}`
+   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35mp[$INDEX]}`
    echo {$paths}
    if [ ! -z "$paths" ]
    then
@@ -161,13 +160,13 @@ for r in ${releases40}; do
    then
      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran40
    fi
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep -i ${relnum40[$INDEX]}`
+   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep ${relnum40[$INDEX]}`
    echo {$paths}
    if [ ! -z "$paths" ]
    then
      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran40
    fi
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep -i ${relnum40mp[$INDEX]}`
+   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep ${relnum40mp[$INDEX]}`
    echo {$paths}
    if [ ! -z "$paths" ]
    then
