@@ -10,7 +10,7 @@ releases=${CRAN35Releases}
 ArchiveDir=/home/cran/ubuntu
 
 for r in ${releases}; do
-	cd ${ArchiveDir}/${r}
+	cd ${ArchiveDir}/${r}-cran35
 	for ext in $FILETYPE
 	do
 		PKG="$(ls *${ext} | cut -d '_' -f 1 | sort -u)"
@@ -33,7 +33,7 @@ done
 FILETYPE=".deb"
 
 for r in ${releases}; do
-	cd ${ArchiveDir}/${r}
+	cd ${ArchiveDir}/${r}-cran35
 	for ext in $FILETYPE
 	do
 		PKG="$(ls *${ext} | cut -d '_' -f 1 | sort -u)"

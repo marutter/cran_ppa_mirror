@@ -168,6 +168,7 @@ for r in ${releases40}; do
    fi
    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep ${relnum40mp[$INDEX]}`
    echo {$paths}
+   echo "Look here"
    if [ ! -z "$paths" ]
    then
      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran40
