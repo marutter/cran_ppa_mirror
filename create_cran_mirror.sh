@@ -131,7 +131,6 @@ for r in ${releases40}; do
    if [[ ${p} != "ess" ]]
    then
      paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep -i ${relnum40[$INDEX]}`
-     echo "I am checking numbers"
      echo {$paths}
      if [ ! -z "$paths" ]
      then
@@ -154,6 +153,7 @@ for r in ${releases40}; do
    fi
  done
  for p in ${rcomp}; do
+   echo ${p}
    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep -i ${r}`
    echo {$paths}
    if [ ! -z "$paths" ]
