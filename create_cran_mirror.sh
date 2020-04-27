@@ -22,98 +22,98 @@ echo ${releases40}
 echo ${relnum40[@]}
 echo ${relnum40np[@]}
 
-sudo apt-mirror
-
-INDEX=0
-for r in ${releases}; do
- for p in ${packages}; do
-#   rm /home/mrutter/CRAN/ubuntu/${r}/*${p}*
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep -i ${r}`
-   if [ ! -z "$paths" ]
-   then
-     rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
-   fi
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep ${relnum[$INDEX]}`
-   if [ ! -z "$paths" ]
-   then
-     rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
-   fi
-#  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep orig`
-#  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
-   if [ ! -z "$paths" ]
-   then
-     rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
-   fi
- done
- for p in ${rcomp}; do
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep -i ${r}`
-   if [ ! -z "$paths" ]
-   then
-     rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
-   fi
- done
- ((INDEX++))
-done
-
-INDEX=0
-for r in ${releases35}; do
- for p in ${packages}; do
-   echo {$r}
-   echo {$p}
-#   rm /home/mrutter/CRAN/ubuntu/${r}/*${p}*
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep -i ${r}`
-   echo {$paths}
-   if [ ! -z "$paths" ]
-   then
-     rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
-   fi
-   if [[ ${p} != "ess" ]]
-   then
-     paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35[$INDEX]}`
-     echo {$paths}
-     if [ ! -z "$paths" ]
-     then
-       rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
-     fi
-     paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35np[$INDEX]}`
-     echo {$paths}
-     if [ ! -z "$paths" ]
-     then
-       rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
-    fi
-   fi
-#  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep orig`
-   echo {$paths}
-#  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
-   if [ ! -z "$paths" ]
-   then
-     rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
-   fi
- done
- for p in ${rcomp}; do
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep -i ${r}`
-   echo {$paths}
-   if [ ! -z "$paths" ]
-   then
-     rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
-   fi
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35[$INDEX]}`
-   echo {$paths}
-   if [ ! -z "$paths" ]
-   then
-     rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
-   fi
-   paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35mp[$INDEX]}`
-   echo {$paths}
-   if [ ! -z "$paths" ]
-   then
-     rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
-   fi
- done
- ((INDEX++))
-done
+# sudo apt-mirror
+#
+# INDEX=0
+# for r in ${releases}; do
+#  for p in ${packages}; do
+# #   rm /home/mrutter/CRAN/ubuntu/${r}/*${p}*
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep -i ${r}`
+#    if [ ! -z "$paths" ]
+#    then
+#      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
+#    fi
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep ${relnum[$INDEX]}`
+#    if [ ! -z "$paths" ]
+#    then
+#      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
+#    fi
+# #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep orig`
+# #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
+#    if [ ! -z "$paths" ]
+#    then
+#      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
+#    fi
+#  done
+#  for p in ${rcomp}; do
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter -name *${p}* | grep -i ${r}`
+#    if [ ! -z "$paths" ]
+#    then
+#      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}
+#    fi
+#  done
+#  ((INDEX++))
+# done
+#
+# INDEX=0
+# for r in ${releases35}; do
+#  for p in ${packages}; do
+#    echo {$r}
+#    echo {$p}
+# #   rm /home/mrutter/CRAN/ubuntu/${r}/*${p}*
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep -i ${r}`
+#    echo {$paths}
+#    if [ ! -z "$paths" ]
+#    then
+#      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+#    fi
+#    if [[ ${p} != "ess" ]]
+#    then
+#      paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35[$INDEX]}`
+#      echo {$paths}
+#      if [ ! -z "$paths" ]
+#      then
+#        rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+#      fi
+#      paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35np[$INDEX]}`
+#      echo {$paths}
+#      if [ ! -z "$paths" ]
+#      then
+#        rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+#     fi
+#    fi
+# #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep orig`
+#    echo {$paths}
+# #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
+#    if [ ! -z "$paths" ]
+#    then
+#      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+#    fi
+#  done
+#  for p in ${rcomp}; do
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep -i ${r}`
+#    echo {$paths}
+#    if [ ! -z "$paths" ]
+#    then
+#      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+#    fi
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35[$INDEX]}`
+#    echo {$paths}
+#    if [ ! -z "$paths" ]
+#    then
+#      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+#    fi
+#    paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter3.5 -name *${p}* | grep ${relnum35mp[$INDEX]}`
+#    echo {$paths}
+#    if [ ! -z "$paths" ]
+#    then
+#      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran35
+#    fi
+#  done
+#  ((INDEX++))
+# done
 
 
 INDEX=0
