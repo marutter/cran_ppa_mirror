@@ -12,6 +12,7 @@ releases35=${CRAN35Releases}
 relnum35=(${CRAN35RelNum})
 releases40=${CRAN40Releases}
 relnum40=(${CRAN40RelNum})
+relnum40.np=(${CRAN40RelNum2})
 rcomp=${RComponents}
 
 echo ${releases}
@@ -71,6 +72,8 @@ for r in ${releases40}; do
    if [[ ${p} -ne "ess" ]]
    then
      paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep ${relnum40[$INDEX]}`
+     rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran40
+     paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep ${relnum40.np[$INDEX]}`
      rsync -av --exclude-from '/home/mrutter/CRAN/exclude.txt' ${paths} ${ArchiveDir}/${r}-cran40
    fi
 #  cp ${paths} /home/mrutter/CRAN/ubuntu/${r}
