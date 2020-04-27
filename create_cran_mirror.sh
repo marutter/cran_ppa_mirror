@@ -19,8 +19,8 @@ rcomp=${RComponents}
 echo ${releases}
 echo ${releases35}
 echo ${releases40}
-echo ${relnum40}
-echo ${relnum40np}
+echo ${relnum40[@]}
+echo ${relnum40np[@]}
 
 #sudo apt-mirror
 
