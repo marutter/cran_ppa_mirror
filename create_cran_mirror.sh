@@ -82,6 +82,7 @@ for r in ${releases40}; do
    if [[ ${p} -ne "ess" ]]
    then
      paths=`find /home/mrutter/CRAN/mirror/ppa.launchpad.net/marutter/rrutter4.0 -name *${p}* | grep ${relnum40[$INDEX]}`
+     echo "I am checking numbers"
      echo {$paths}
      if [ ! -z "$paths" ]
      then
