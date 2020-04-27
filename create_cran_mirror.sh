@@ -22,7 +22,7 @@ echo ${releases40}
 echo ${relnum40[@]}
 echo ${relnum40np[@]}
 
-#sudo apt-mirror
+sudo apt-mirror
 
 INDEX=0
 for r in ${releases}; do
